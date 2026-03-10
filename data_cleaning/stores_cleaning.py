@@ -1,0 +1,44 @@
+import pandas as pd
+import numpy as np
+
+def clean_stores_data(df):
+    initial_len = len(df)
+    
+    # --- AUDIT AVANT NETTOYAGE ---
+    bad_ids = len(df[df['store_id'] == 'BADID'])/initial_len
+    bad_warehouses = (len(df[df['warehouse_id'] == 'ENT_UNKNOWN']) + len(df[df['warehouse_id'] == 'BADID']))/initial_len
+    bad_revenue = len(df[df['annual_revenue'] <= 0])/initial_len
+    bad_surface = len(df[df['surface_sqm'] <= 0])/initial_len
+    bad_address = df['address'].isna().sum()/initial_len
+    bad_dates = len(df[pd.to_datetime(df['opening_date'], errors='coerce') > pd.Timestamp.now()])/initial_len
+
+    print(f"📊 RAPPORT D'AUDIT : Stores")
+    print(f"❌ Identifiants Customers ID : {bad_ids:.1%}")
+    print(f"❌ Identifiants WAREHOUSE : {bad_warehouses:.1%}")
+    print(f"💰 Revenus négatifs ou nuls : {bad_revenue:.1%}")
+    print(f"📏 Surfaces négatives ou nulles : {bad_surface:.1%}")
+    print(f"📏 Adresses vides : {bad_address:.1%}")
+    print(f"📅 Ouvertures dans le futur (2099) : {bad_dates:.1%}")
+
+    # --- NETTOYAGE ---
+    # 1. On garde uniquement les IDs valides
+    df_clean = df[df['store_id'] != 'BADID'].copy()
+    df_clean = df_clean[df['warehouse_id'] != 'BADID'].copy()
+    df_clean = df_clean[df['warehouse_id'] != 'ENT_UNKNOWN'].copy()
+
+    # 2. On garde uniquement les valeurs numériques cohérentes
+    df_clean = df_clean[df_clean['annual_revenue'] > 0]
+    df_clean = df_clean[df_clean['surface_sqm'] > 0]
+    
+    # 3. Correction des dates
+    df_clean['opening_date'] = pd.to_datetime(df_clean['opening_date'], errors='coerce')
+    df_clean = df_clean[df_clean['opening_date'] <= pd.Timestamp.now()]
+    
+    # 4. Harmonisation des pays et types de quartier
+    garbage = ['N/A', 'inconnu', 'UNKNOWN']
+    for col in ['country', 'district_type', 'property_status']:
+        df_clean[col] = df_clean[col].replace(garbage, 'Inconnu').fillna('Inconnu')
+
+    print("-" * 30)
+    print(f"✅ Nettoyage terminé : {len(df_clean)} magasins valides sur {initial_len} soit {(len(df_clean)/initial_len):.1%}")
+    return df_clean
