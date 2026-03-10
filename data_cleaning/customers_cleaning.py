@@ -5,7 +5,7 @@ def clean_customers_data(df):
     # 1. Chargement
     total_initial = len(df)
     date_cols=['birth_date', 'registration_date'] # Liste de colonnes
-    cat_cols=['gender', 'loyalty_status', 'country']
+    cat_cols=['gender', 'loyalty_status', 'country', 'acquisition_source']
     dedup_col='email'
 
     print(f"--- Rapport d'Audit pour Customers ---")
@@ -47,7 +47,12 @@ def clean_customers_data(df):
         
     # On nettoie les catégories
     for col in cat_cols:
-        df_clean[col] = df_clean[col].replace(bruit, np.nan).fillna('Inconnu')
+        if col == 'loyalty_status':
+            df_clean[col] = df_clean[col].replace(np.nan, '1')
+            df_clean[col] = df_clean[col].replace(bruit, np.nan).fillna('Inconnu')
+            df_clean[col] = df_clean[col].replace('1', np.nan)
+        else:
+            df_clean[col] = df_clean[col].replace(bruit, np.nan).fillna('Inconnu')
         
     # On supprime les doublons
     df_clean = df_clean.drop_duplicates(subset=[dedup_col])
