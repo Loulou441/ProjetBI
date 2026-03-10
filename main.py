@@ -9,7 +9,6 @@ from data_cleaning.customers_cleaning import clean_customers_data
 customers = pd.read_csv('Data/customers.csv')
 
 #Cleaning files
-customers_clean = clean_customers_data(
-    date_cols=['birth_date', 'registration_date'],
-    category_cols=['gender', 'loyalty_status', 'country']
-)
+customers_clean = clean_customers_data(customers)
+
+customers_clean.to_csv('customers_clean.csv', index=False)

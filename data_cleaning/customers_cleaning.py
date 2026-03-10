@@ -1,39 +1,58 @@
 import pandas as pd
 import numpy as np
 
-def clean_customers_data(date_cols=None, category_cols=None):
-    """
-    Nettoie un DataFrame retail : supprime les BADID, corrige les dates 
-    et élimine les valeurs fantaisistes.
-    """
+def clean_customers_data(df):
     # 1. Chargement
-    initial_count = len(df)
+    total_initial = len(df)
+    date_cols=['birth_date', 'registration_date'] # Liste de colonnes
+    cat_cols=['gender', 'loyalty_status', 'country']
+    dedup_col='email'
+
+    print(f"--- Rapport d'Audit pour Customers ---")
     
-    # 2. Suppression des identifiants corrompus
-    df = df[df['customer_id'] != 'BADID']
+    # 2. Compte des BADID
+    nb_badid = (df['customer_id'] == 'BADID').sum()
+    print(f"❌ Identifiants corrompus (BADID) : {nb_badid}")
     
-    # 3. Traitement des dates (si spécifiées)
-    if date_cols:
-        for col in date_cols:
-            df[col] = pd.to_datetime(df[col], errors='coerce')
+    # 3. Audit des dates (Correction du bug 'assemble mappings')
+    aujourdhui = pd.Timestamp.now()
+    stats_dates = {}
+    
+    for col in date_cols:
+        # On force l'accès en "Série" (un seul crochet) pour éviter le bug
+        temp_series = pd.to_datetime(df[col], errors='coerce')
+        nb_futur = (temp_series > aujourdhui).sum()
+        nb_invalide = temp_series.isna().sum() - df[col].isna().sum()
+        stats_dates[col] = nb_futur + nb_invalide
+        print(f"📅 Dates aberrantes dans '{col}' : {stats_dates[col]}")
+
+    # 4. Audit des valeurs "Fantaisistes"
+    bruit = ['Narnia', 'inconnu', 'extra', 'X', 'UNKNOWN']
+    for col in cat_cols:
+        nb_bruit = df[col].isin(bruit).sum()
+        print(f"🎭 Valeurs fantaisistes dans '{col}' : {nb_bruit}")
+
+    # 5. Audit des doublons
+    nb_doublons = df.duplicated(subset=[dedup_col]).sum()
+    print(f"👯 Doublons détectés sur '{dedup_col}' : {nb_doublons}")
+
+    # --- NETTOYAGE EFFECTIF ---
+    # On filtre les IDs
+    df_clean = df[df['customer_id'] != 'BADID'].copy()
+    
+    # On nettoie les dates
+    for col in date_cols:
+        df_clean[col] = pd.to_datetime(df_clean[col], errors='coerce')
+        df_clean = df_clean[df_clean[col] <= aujourdhui]
         
-        # Filtre : pas de dates dans le futur (seuil à aujourd'hui)
-        aujourdhui = pd.Timestamp.now()
-        for col in date_cols:
-            df = df[df[col] <= aujourdhui]
-            
-        # Logique spécifique : Inscription après Naissance (si les deux existent)
-        if 'registration_date' in df.columns and 'birth_date' in df.columns:
-            df = df[df['registration_date'] >= df['birth_date']]
-
-    # 4. Nettoyage des catégories "polluées" (si spécifiées)
-    if category_cols:
-        garbage_values = ['Narnia', 'inconnu', 'extra', 'X', 'UNKNOWN', 'N/A']
-        for col in category_cols:
-            df[col] = df[col].replace(garbage_values, np.nan)
-
-    final_count = len(df)
-    print(f"Lignes supprimées : {initial_count - final_count}")
-    print(f"Lignes exploitables restantes : {final_count}\n")
+    # On nettoie les catégories
+    for col in cat_cols:
+        df_clean[col] = df_clean[col].replace(bruit, np.nan).fillna('Inconnu')
+        
+    # On supprime les doublons
+    df_clean = df_clean.drop_duplicates(subset=[dedup_col])
     
-    return df
+    print("-" * 30)
+    print(f"✅ Nettoyage fini : {len(df_clean)} lignes valides sur {total_initial}")
+    
+    return df_clean
