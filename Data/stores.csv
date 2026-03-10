@@ -1,0 +1,701 @@
+store_id,address,city,country,postal_code,opening_date,property_status,surface_sqm,district_type,annual_revenue,renovation_done,renovation_cost,warehouse_id
+MAG_6bf2f675,"chemin Margaud Le Gall, 17165 Pruvost-sur-Ledoux",Aubry,Espagne,44683,2021-01-22,acheté,374.0,résidentiel,4382397.0,True,44723.0,ENT_650c2286
+MAG_4456ebbd,"rue Margaret Vidal, 65642 Gomez",NeveuBourg,Allemagne,27106,2025-04-15,acheté,-373.09,résidentiel,283330.0,False,,ENT_a1fc8373
+MAG_119e752d,"479, rue Da Silva, 64765 Leroy-sur-Raynaud",Verdier,France,34860,2020-02-26,loué,880.0,zone commerciale,3160625.0,False,,ENT_23e8e94f
+MAG_00d620f0,"995, boulevard de Antoine, 26676 Gautier",Chauvin,France,53755,2099-01-01,loué,784.0,résidentiel,3084194.0,True,76698.0,ENT_8e9e49b2
+MAG_4c2daf14,"66, rue Normand, 43800 Chauvet-sur-Leclerc",Sainte Marthenec,France,94209,2021-11-29,loué,1073.0,résidentiel,1326504.0,False,,ENT_c5bf20e3
+MAG_a83f85ff,"1, boulevard Alice Mercier, 57230 Vidal",Sainte Philippine-sur-Mer,Italie,23575,2022-02-17,acheté,668.0,résidentiel,1467351.0,True,106332.0,ENT_9689c2e7
+MAG_5d564649,"1, rue Virginie Jean, 10549 Delormedan",Alves,Allemagne,65642,2021-10-24,acheté,432.0,centre-ville,899643.0,False,,ENT_4d93a896
+MAG_6b4790f4,"30, boulevard Samson, 97488 Sainte Mathilde",Sainte Luce,Italie,69893,2025-07-07,loué,50.0,périphérie,50000.0,True,92939.0,ENT_125b3d5c
+MAG_9a3541a8,"831, boulevard Bègue, 53832 Lenoirboeuf",Bouvier,Espagne,23444,2021-04-19,loué,716.0,résidentiel,2005695.0,False,,ENT_918fe64f
+MAG_2eaaa16d,"rue Gérard Marie, 05675 Le Gall",Guillon-sur-Julien,Italie,67323,2025-05-29,loué,275.0,zone commerciale,4626958.0,False,,ENT_875e2393
+MAG_2b7f7aa3,"99, rue Agathe Gimenez, 52410 Leclerc",Bouvier,Espagne,77861,2016-05-18,loué,427.0,résidentiel,1017954.0,False,,ENT_9689c2e7
+MAG_612bcf67,"chemin Bernard, 56638 Coste",TessierBourg,France,60951,2023-10-14,acheté,431.0,rural,3424470.0,False,,ENT_910f957d
+MAG_bf8e6dde,"89, rue Becker, 63260 Marques",Pinto,Portugal,31548,2021-09-16,loué,1648.0,zone commerciale,551048.0,False,,ENT_b6a3f3ce
+MAG_9b923378,"7, rue de Chauveau, 75472 Lagarde-sur-Renard",Millet,Italie,72594,2024-07-11,loué,933.0,zone commerciale,856451.0,True,122024.0,ENT_5dca08f5
+MAG_b89af06b,"boulevard Turpin, 48996 Saint Michelledan",Thierry,Allemagne,78745,2022-02-23,loué,932.0,résidentiel,50000.0,False,,ENT_6f5214ce
+MAG_50e01af7,"boulevard de Morel, 34764 Rivièrenec",CharpentierVille,Italie,97150,2023-06-06,acheté,675.0,zone commerciale,497933.0,False,,ENT_766758d3
+MAG_2de987e8,"1, boulevard Grenier, 15407 Brunel-les-Bains",Denisboeuf,France,56866,2017-06-09,loué,834.0,résidentiel,4242245.0,True,63195.0,ENT_23e8e94f
+MAG_444330fc,"524, boulevard de Grondin, 31566 Weiss",Saint Christelle,France,37746,2023-09-06,loué,302.0,zone commerciale,2024742.0,True,82660.0,ENT_944a72d6
+MAG_151483b1,"32, rue Baudry, 11486 Lamy",Letellier-sur-Mer,Espagne,28172,2018-07-04,loué,1228.0,résidentiel,783633.0,True,5000.0,BADID
+MAG_43568a1b,"rue Lucy Chauvet, 27796 BonneauBourg",JosephVille,Allemagne,34415,2018-10-23,loué,1750.0,centre-ville,3371157.0,False,,ENT_ca6b2114
+MAG_2534aeb4,"529, rue de Jacquet, 24686 Leclercq-sur-Mer",Rollandnec,Espagne,66426,2017-08-30,loué,854.0,centre-ville,1553625.0,False,,ENT_733fcf33
+MAG_e4e94a16,"12, chemin Letellier, 43167 Saint Virginieboeuf",Saint Stéphanie,Narnia,58687,2018-10-06,inconnu,585.0,zone commerciale,1453990.0,False,,ENT_7f3e0f98
+MAG_3af96ef1,"85, rue de Gilbert, 77924 Neveu-la-Forêt",Hamel,Espagne,02114,2021-03-02,loué,797.0,résidentiel,1393226.0,False,,ENT_b8f8cfd3
+MAG_5ba61064,"27, avenue Lévy, 21453 Garnier",Muller,France,64780,2022-10-12,loué,1078.0,zone commerciale,4203825.0,False,,ENT_c051336a
+MAG_83fbf84f,"6, rue de Richard, 15766 Muller",David-sur-Mer,France,31806,2017-09-25,acheté,1353.0,périphérie,50000.0,True,85156.0,ENT_78e2091f
+MAG_5255bffb,"avenue de Briand, 70803 Gilbertnec",Delahaye,France,01113,2024-07-24,loué,843.0,centre-ville,50000.0,True,97826.0,ENT_c70bae29
+MAG_522a4cc8,"boulevard Normand, 57183 Saint Paul-sur-Mer",RichardVille,Allemagne,08378,2020-06-27,loué,672.0,résidentiel,3283502.0,False,,ENT_9322598f
+MAG_8e876d2d,"55, avenue de Lenoir, 63926 Dupuis",BernardBourg,Espagne,58451,2020-11-30,acheté,700.0,rural,1320610.0,True,5000.0,ENT_b826fefe
+MAG_85d234b4,,Schmitt,France,66900,2024-05-11,loué,935.0,centre-ville,3359290.0,False,,ENT_UNKNOWN
+MAG_a5c961e0,"664, rue de Petit, 27527 Pelletier-sur-Dubois",Chevalierdan,Espagne,43572,2021-09-06,loué,1286.0,périphérie,3771279.0,True,114948.0,ENT_a635203c
+MAG_75735205,"84, boulevard Barre, 15471 Sainte Célina",Pages-la-Forêt,Portugal,86158,2022-09-25,acheté,618.0,périphérie,50000.0,False,,BADID
+MAG_f2268ed1,"591, rue Julie Pinto, 47718 Klein",Raynaud,France,86814,2018-07-15,acheté,1136.0,zone commerciale,487997.0,False,,ENT_1eedbec5
+MAG_2630cfd9,"2, boulevard de Chevalier, 60977 Launay-sur-Mer",Saint Émilie,Espagne,25829,2022-04-02,loué,-61.65,industriel,-388.93,True,94117.0,ENT_08325797
+MAG_36a205b9,"27, rue Timothée Auger, 40668 Pichonboeuf",Alexandre-sur-Mer,Italie,69274,2019-12-14,acheté,1090.0,zone commerciale,1333979.0,False,,ENT_766758d3
+MAG_994f0775,"59, chemin de Raymond, 20506 Rousset",Sainte Vincent-les-Bains,Portugal,67403,2023-09-06,acheté,50.0,centre-ville,50000.0,False,,ENT_10f9c6eb
+MAG_80330b4a,"23, chemin de Bertin, 54745 Carpentier-la-Forêt",Meyer,France,95668,2023-08-19,loué,623.0,centre-ville,1504510.0,True,136378.0,ENT_05049c9a
+MAG_e7c190eb,"80, boulevard Gonzalez, 16381 Carre",Ledoux,Allemagne,57243,2024-02-16,loué,495.0,périphérie,50000.0,False,,ENT_9689c2e7
+MAG_650b8c9f,"74, rue de Gauthier, 51690 Saint Andrée",Pons-sur-Labbé,France,79343,2022-11-21,loué,666.0,zone commerciale,3855485.0,False,,ENT_631b77f7
+MAG_4b17cbb5,"172, boulevard de Laporte, 97155 Sainte Marie-la-Forêt",Brun-sur-Mer,Allemagne,25915,2015-02-06,loué,411.0,résidentiel,50000.0,False,,ENT_e95b600c
+MAG_25115955,"62, boulevard de Evrard, 05642 Jourdan-les-Bains",Rousseau,France,14523,2020-07-24,acheté,1187.0,centre-ville,2126251.0,False,,ENT_23e8e94f
+MAG_c9d22ff9,"chemin Bonnet, 09798 Martin-sur-Fabre",Lopes,Espagne,64687,2018-06-28,acheté,895.0,centre-ville,2567782.0,False,,ENT_136bde4c
+MAG_d205c74e,"98, rue Diallo, 45438 Munoz",Thibault,Portugal,57715,2021-06-05,acheté,743.0,zone commerciale,2363490.0,True,5000.0,ENT_25fd6ccf
+MAG_c5d12e5f,"46, chemin de Blanchet, 33803 Noël-les-Bains",Renault-les-Bains,France,14409,2022-01-14,acheté,779.0,zone commerciale,1924731.0,False,,ENT_ef052064
+MAG_7b0f2d1f,"avenue de Bernard, 71279 Clercnec",Pruvost-la-Forêt,France,84799,2017-09-21,loué,1379.0,zone commerciale,2659878.0,False,,ENT_2c9bed3f
+MAG_aa6df4d7,"45, rue Charpentier, 76610 NicolasVille",Lemonnier,Espagne,40891,2024-10-08,loué,722.0,zone commerciale,50000.0,True,111420.0,ENT_6f9592f1
+MAG_aa90a0e5,"3, avenue de Turpin, 64363 Potier",Saint PhilippineBourg,France,91474,2021-06-14,loué,637.0,résidentiel,1963322.0,False,,ENT_67add145
+MAG_01557d25,"40, avenue Stéphanie David, 49954 GuillotVille",Michaudboeuf,France,48477,2017-09-14,loué,762.0,zone commerciale,2320323.0,True,70306.0,ENT_UNKNOWN
+MAG_c2a3c1c2,"8, chemin de Petit, 76424 Cordierboeuf",Rémy-la-Forêt,France,76716,2016-09-01,loué,371.0,périphérie,1691829.0,True,127489.0,ENT_a0d62153
+MAG_a43a2629,"9, boulevard Marques, 04590 Lefebvre",Sainte AlixVille,France,24511,2018-06-01,acheté,1569.0,résidentiel,50000.0,False,,ENT_86e51b72
+MAG_a7024443,"4, rue de Techer, 78561 SanchezBourg",Sainte Émile,France,69872,2025-06-30,acheté,661.0,résidentiel,50000.0,False,,ENT_328e7e38
+BADID,"2, rue Honoré Leduc, 97351 Saint AmélieVille",Delannoy,France,59529,2025-12-02,acheté,-8.33,résidentiel,2152655.0,False,,ENT_bd42c5dd
+MAG_a82cb748,"59, chemin Loiseau, 32880 Paul",Sainte Célina-les-Bains,France,69504,2015-04-08,loué,905.0,rural,983014.0,True,5000.0,ENT_93769424
+MAG_672154eb,"52, chemin Foucher, 10737 Benoit",Guérin-les-Bains,Allemagne,09293,2023-04-07,acheté,1340.0,zone commerciale,2712770.0,False,,ENT_12d63305
+MAG_04bf1e64,"67, rue Lucie Boutin, 95772 FournierBourg",Bruneau,France,31298,2024-04-30,acheté,529.0,résidentiel,1687900.0,False,,ENT_c73864c5
+MAG_88f45f55,"669, rue de Ledoux, 21748 Goncalves",Saint Maryse,Allemagne,23456,2025-01-11,loué,1575.0,centre-ville,1827133.0,False,,ENT_328e7e38
+MAG_306916eb,"avenue de Leroy, 40384 Sainte Michelle-sur-Mer",Barbe-la-Forêt,France,76399,2021-01-07,loué,127.0,rural,286697.0,False,,ENT_93764a82
+MAG_aa69c4f0,"27, avenue de Delannoy, 95166 Marin",Chrétienboeuf,France,49608,2019-06-25,loué,706.0,périphérie,3687362.0,False,,ENT_ca6b2114
+MAG_767a05bb,"86, boulevard de Pereira, 05774 Lenoir",Fischer-sur-Mer,Italie,09551,2023-04-25,acheté,253.0,zone commerciale,2013413.0,True,55494.0,ENT_a09053a8
+MAG_9cf5fb1d,"299, rue Odette Lebon, 33901 Bruneauboeuf",BazinBourg,France,47126,2025-01-25,loué,964.0,centre-ville,2774074.0,False,,ENT_0b2af78e
+MAG_debe9429,"rue de Evrard, 36681 Bourgeois",Germain-sur-Gallet,Italie,84724,2020-04-22,acheté,958.0,résidentiel,2390231.0,True,5000.0,ENT_875e2393
+MAG_df7b3766,"55, avenue Philippe Giraud, 89707 Michaud",Le Gall,France,84890,2023-05-30,acheté,-129.87,centre-ville,3704014.0,False,,ENT_6f9592f1
+MAG_a9662924,"347, avenue Grégoire Bousquet, 59608 Perrier",Brunet,Allemagne,31950,2020-05-21,acheté,1026.0,centre-ville,714356.0,False,,ENT_6c9e1662
+BADID,"20, chemin Hardy, 20779 Guilbert",Maury,France,92323,2020-09-01,acheté,50.0,zone commerciale,1283687.0,True,103458.0,ENT_UNKNOWN
+BADID,"90, boulevard de Blanchard, 55351 Marieboeuf",Sainte Alain,France,21482,2024-11-07,loué,595.0,périphérie,2991626.0,False,,ENT_93769424
+MAG_a5645c7c,"843, chemin Rocher, 83350 MarieVille",Aubert,France,87921,2017-02-04,loué,2320.0,centre-ville,1560011.0,False,,ENT_74a3cf3e
+MAG_1324ab7b,"31, rue Laporte, 53456 Salmon",Diallo-la-Forêt,Allemagne,54144,2020-02-24,acheté,1479.0,zone commerciale,50000.0,True,153247.0,ENT_c45199db
+MAG_728c7884,"9, avenue Brun, 54287 Masse",Barre-sur-Hamel,France,20838,2024-01-23,acheté,448.0,résidentiel,2013778.0,True,146956.0,ENT_ffd804ad
+MAG_ec51b630,"26, rue Salmon, 24128 Foucher",Millet-sur-Traore,France,20635,2015-01-01,loué,1948.0,périphérie,2775076.0,False,,ENT_83a053a2
+MAG_9f1e4b83,,Joly,Italie,41133,2025-12-04,loué,479.0,zone commerciale,2668211.0,False,,ENT_UNKNOWN
+MAG_10bc04fb,"68, chemin Charlotte Fouquet, 15130 Leleu",Saint Claude,France,19368,2099-01-01,Narnia,50.0,périphérie,3593135.0,False,,ENT_48ae8b4d
+MAG_5b4c3812,"379, rue Josette Neveu, 94395 François",Delattre-la-Forêt,France,84996,2023-10-03,loué,50.0,centre-ville,1459650.0,True,47819.0,ENT_85c50796
+MAG_d518b9e9,"57, rue Jacquet, 39314 Sainte Bernardboeuf",Le Roux,Allemagne,75374,2020-08-20,loué,543.0,résidentiel,2748224.0,False,,ENT_0bf703b9
+MAG_dfa009af,"chemin Boulanger, 12606 Dupont",Marin,France,87633,2019-12-22,acheté,974.0,zone commerciale,979098.0,True,22331.0,ENT_23e8e94f
+MAG_e0e2eb63,"896, chemin Nathalie Lemaître, 31600 Saint Noël",Delmas-sur-Joubert,Allemagne,84826,2024-08-13,loué,1333.0,zone commerciale,3648460.0,True,76484.0,ENT_b8512cc2
+MAG_7c505cf7,"boulevard de Courtois, 20175 Leclercq",Beckernec,Portugal,28299,2020-02-07,loué,1438.0,zone commerciale,857473.0,False,,ENT_56aef086
+MAG_e07da5d2,"12, boulevard Pelletier, 97427 Sainte Antoine",Becker-les-Bains,Allemagne,26497,2020-11-14,loué,949.0,résidentiel,2510343.0,False,,ENT_baab2bd7
+MAG_e8eb878d,"rue Guillou, 77933 Larocheboeuf",Saint Raymond,Italie,75977,2018-01-25,loué,1426.0,centre-ville,1508209.0,False,,ENT_UNKNOWN
+MAG_79c12912,"739, chemin Blin, 53240 Le Goffnec",Dupuy,Espagne,10908,2024-08-20,loué,56.0,centre-ville,3273403.0,False,,ENT_e3881d17
+MAG_02cb33df,"655, chemin de Lebreton, 87872 BrunetBourg",Lagarde,France,06606,2019-05-13,acheté,1470.0,centre-ville,2475831.0,False,,ENT_e95b600c
+MAG_70856a74,"49, rue de Pinto, 78156 Maréchal",Lacombenec,France,67431,2020-09-26,acheté,1883.0,centre-ville,2180409.0,True,25357.0,ENT_753b1590
+MAG_c16c8e5e,"2, boulevard Weber, 12561 Macenec",Lemonnier-sur-Gros,Allemagne,84899,2022-11-10,loué,470.0,centre-ville,3646163.0,False,,BADID
+MAG_4ad1985f,"3, rue Marguerite Mace, 24515 Boucher-la-Forêt",De OliveiraBourg,Espagne,97353,2025-06-14,loué,1632.0,centre-ville,50000.0,False,,ENT_14c3f1bd
+MAG_1f76a819,"4, boulevard de Rodrigues, 75816 Cousin",Sainte Étienne-sur-Mer,France,51663,2023-07-20,loué,1449.0,centre-ville,1843986.0,True,106878.0,ENT_6c9e1662
+MAG_aa988852,"7, rue de Carlier, 97336 Bailly",Lenoir,France,81122,2025-10-21,loué,874.0,zone commerciale,1805663.0,False,,ENT_83a053a2
+MAG_c65901f6,"7, rue Carre, 94612 Marchand-sur-Martineau",De Sousa,France,75135,2016-09-10,loué,1568.0,centre-ville,344554.0,False,,ENT_dcb0e5d0
+MAG_2ad42a7b,"11, avenue Perrier, 24687 Saint Guillaume",DiazVille,Italie,02600,2017-04-03,loué,1874.0,résidentiel,1069142.0,True,67117.0,ENT_537fce81
+MAG_e111f957,"4, rue de Roussel, 05926 Marchalnec",Pasquier-sur-Mer,Allemagne,19387,2019-06-19,acheté,50.0,résidentiel,1984137.0,False,,ENT_932956d6
+MAG_a504dbb7,"90, rue Laetitia Gimenez, 78439 Charles",Julien,France,26162,2023-01-07,acheté,1340.0,périphérie,1943483.0,False,,ENT_2e323785
+MAG_519ce653,"219, rue Philippe Gautier, 89716 DanielBourg",Sainte Jacqueline,Allemagne,18440,2018-09-29,loué,557.0,centre-ville,2751242.0,False,,ENT_UNKNOWN
+MAG_4df2f9ab,"65, avenue Claudine Lecomte, 55552 HenryBourg",Sainte Anne,France,56854,2015-06-23,loué,2045.0,centre-ville,1615562.0,False,,ENT_27c99c21
+MAG_86c6d84e,"49, rue de Roy, 32471 Sainte MauriceBourg",Dias,France,22532,2019-12-16,loué,1836.0,industriel,2619941.0,False,,ENT_c73864c5
+MAG_39d4f061,"62, boulevard Patrick Martineau, 03877 Gilles",Lombard-sur-Julien,France,97334,2019-08-11,loué,368.0,centre-ville,4494391.0,False,,ENT_910f957d
+MAG_abb70e3a,"13, rue Marcel Perrot, 76693 Saint Monique-sur-Mer",Sainte Aimé,France,37363,2015-03-22,acheté,50.0,résidentiel,2440825.0,True,62567.0,ENT_96f01b2a
+MAG_a613d03d,"chemin René Diallo, 49317 Morin",Rivière-les-Bains,Allemagne,20203,2019-07-15,acheté,1707.0,résidentiel,2608317.0,True,56717.0,ENT_dcb0e5d0
+MAG_fef3a6d1,"20, rue de Rémy, 56462 Sainte Pauline-sur-Mer",PerretVille,France,18362,2019-06-19,loué,533.0,zone commerciale,3303696.0,False,,ENT_dd1965ef
+MAG_b18e0435,"rue Adèle Barre, 37191 Peltier-sur-Morin",Saint Frédéric,Espagne,62823,2019-08-03,acheté,963.0,résidentiel,50000.0,True,80145.0,ENT_875e2393
+MAG_55933284,"94, chemin de Courtois, 34244 Saint Pénélope",Pelletier,Allemagne,11750,2099-01-01,loué,-345.99,zone commerciale,2346821.0,False,,ENT_c70bae29
+MAG_18dace8b,"avenue Mathieu, 90761 Imbert",Hubertnec,Italie,65483,2021-03-04,acheté,159.0,zone commerciale,1108410.0,False,,ENT_93764a82
+MAG_e42790fb,"45, rue de Olivier, 21969 Ruizboeuf",Jacquot,Italie,61224,2019-07-04,loué,1264.0,résidentiel,2774633.0,False,,ENT_e984d710
+MAG_c5390c65,"212, rue Gérard Marques, 48195 Maillard-sur-Gautier",Vasseur,France,64585,2022-11-30,acheté,807.0,résidentiel,976610.0,True,138345.0,ENT_27c99c21
+MAG_f8d0b01d,"780, avenue Aurore Lefebvre, 09637 Sainte Emmanuel-la-Forêt",Caron-les-Bains,Portugal,29920,2023-06-09,loué,1506.0,résidentiel,2069561.0,False,,ENT_390b4f10
+MAG_e74b754c,"4, rue Marcelle Langlois, 97645 Marie",GoncalvesBourg,Espagne,21181,2019-07-27,loué,265.0,zone commerciale,4451011.0,False,,ENT_944a72d6
+MAG_609e988f,"19, rue Laure Dos Santos, 77617 Gay-sur-Guyon",Morvan-la-Forêt,France,60893,2022-08-10,loué,834.0,centre-ville,3469155.0,False,,ENT_4449145c
+MAG_13f59da7,"99, chemin Denis Peron, 08409 Hoareau-sur-Lefebvre",Goncalves-la-Forêt,Italie,71435,2019-10-03,acheté,948.0,résidentiel,3465101.0,False,,ENT_23e8e94f
+MAG_251c97ad,"98, rue de Poulain, 17305 RoyVille",LombardVille,France,16679,2025-08-24,loué,649.0,zone commerciale,1455392.0,True,112247.0,ENT_83a053a2
+MAG_94ba6858,"37, boulevard Rossi, 43335 AllainVille",Gérard-la-Forêt,France,76934,2021-06-21,acheté,1157.0,centre-ville,2173190.0,False,,ENT_96f01b2a
+MAG_b9a75ef2,"avenue Guyon, 02666 Lemairedan",BarbeBourg,Allemagne,87334,2018-11-03,acheté,583.0,zone commerciale,1598393.0,True,79693.0,ENT_4b260472
+MAG_b38dbc63,,Camus-sur-Samson,France,55860,2018-06-15,loué,1055.0,rural,1040751.0,True,5000.0,ENT_42e7d49e
+MAG_be1a983f,"89, rue Jean, 33421 Loiseaudan",Bodin,Italie,86801,2023-12-11,acheté,768.0,centre-ville,2296447.0,True,85460.0,ENT_6e31725a
+MAG_0a2aafb2,"14, rue Texier, 97120 Saint Pénélopeboeuf",Thierry,Espagne,79620,2019-02-15,loué,817.0,centre-ville,2683544.0,False,,ENT_9cd453f7
+MAG_b22c1b16,"815, rue Corinne Perrier, 66969 Guichard",Paulnec,Allemagne,13687,2015-11-22,acheté,361.0,industriel,1891744.0,False,,ENT_a1d5e89a
+MAG_4163e370,"479, boulevard Céline Simon, 59722 JulienVille",Duval-sur-Pinto,Italie,32853,2020-09-20,acheté,814.0,zone commerciale,709550.0,False,,ENT_c5bf20e3
+MAG_59d379a7,"88, rue de Muller, 26248 Michaud",Sainte Anaïs-les-Bains,Allemagne,61386,2022-01-28,loué,309.0,zone commerciale,1147912.0,False,,ENT_488b0131
+MAG_78836f4e,"8, avenue Aurore Chrétien, 37974 Jacob-sur-Mer",Meyer-sur-Nguyen,France,02339,2021-06-01,acheté,887.0,résidentiel,369859.0,False,,ENT_56aef086
+MAG_9edda749,"27, rue Dominique Menard, 74910 Poirier",Jacobnec,France,59444,2018-06-17,acheté,1271.0,centre-ville,1082164.0,False,,ENT_d013dedd
+MAG_4a03257f,"2, rue Bouvet, 19902 Garcia",Gros,France,16965,2024-06-17,loué,1135.0,rural,-275.79,True,79609.0,ENT_baab2bd7
+MAG_57c4872c,"avenue de Michaud, 49698 GonzalezBourg",Chauveau,Italie,05285,2015-09-02,loué,1482.0,centre-ville,676550.0,False,,ENT_ed0b783d
+BADID,"27, rue de Gautier, 59381 Moreno-sur-Rossi",Arnaud,Allemagne,39707,2015-07-01,N/A,-346.8,zone commerciale,2781181.0,False,,ENT_af99b534
+MAG_bce72ca9,"2, chemin Alexandre, 62551 Saint Adèle-les-Bains",Saint Anouk,France,51227,2015-07-01,loué,50.0,zone commerciale,1772566.0,False,,ENT_dcb0e5d0
+MAG_1abe0ec1,"29, avenue Faure, 35219 Sauvage",Pires,France,62177,2016-01-31,acheté,1621.0,centre-ville,2314742.0,True,40844.0,ENT_a498546f
+MAG_bba88fb3,"87, rue de Lemoine, 38234 WeissVille",Jean,France,46940,2015-07-01,loué,50.0,zone commerciale,3893733.0,False,,ENT_31302049
+MAG_71529a98,"881, chemin de Lucas, 07761 Gillet",Saint Nicolas,France,59900,2019-04-04,loué,1075.0,zone commerciale,2623140.0,False,,ENT_944a72d6
+MAG_0c8e87d3,"567, rue de Coulon, 56636 Saint Audrey",Paris,Allemagne,63255,2016-06-19,loué,811.0,zone commerciale,50000.0,False,,BADID
+MAG_1cc3f06c,"91, chemin Camus, 79447 Arnaud",Sainte Benjamin,France,03489,2020-09-17,acheté,680.0,zone commerciale,4159048.0,True,159059.0,ENT_UNKNOWN
+MAG_08942160,"4, rue de Paris, 24950 Vallée",Jean-les-Bains,Portugal,77425,2016-04-29,loué,807.0,zone commerciale,1714427.0,False,,ENT_25c8b42d
+MAG_f382c7f0,"7, rue Agnès Breton, 51146 Cousin-les-Bains",Vincent,Allemagne,75635,2019-03-21,loué,50.0,zone commerciale,938385.0,False,,ENT_96f01b2a
+MAG_f9782e51,"1, avenue Étienne Gautier, 88889 Pons",Saint Claire,Portugal,97388,2023-07-11,acheté,1461.0,résidentiel,3081791.0,False,,ENT_ffab8032
+MAG_4a21b289,"94, avenue de Menard, 69633 David",MauryVille,France,18729,2015-03-02,loué,1062.0,rural,2887590.0,False,,ENT_875e2393
+MAG_f2b3432b,"98, avenue Camus, 28267 Hernandez",Pineau,France,77864,2024-06-28,loué,802.0,rural,1295620.0,False,,ENT_7f3e0f98
+MAG_c801ac61,"chemin de Bourgeois, 26727 Sainte Guy",Gimenez-les-Bains,France,43179,2021-04-27,loué,400.0,centre-ville,1313049.0,False,,ENT_UNKNOWN
+MAG_1c7a6cd5,"995, rue de Cousin, 71804 Verdier",Nguyennec,Italie,01285,2019-03-24,acheté,871.0,centre-ville,843134.0,False,,ENT_b1bd5c54
+MAG_172d64e5,"15, rue Honoré Bertin, 64346 Sainte SylvieBourg",Picard,France,80395,2024-05-25,loué,808.0,périphérie,2118463.0,False,,ENT_932956d6
+MAG_3c589453,"rue François Julien, 58928 Arnaud",Berger-sur-Perret,Espagne,90234,2020-02-08,loué,709.0,zone commerciale,50000.0,False,,ENT_2e323785
+MAG_b7dd0d03,"95, boulevard Zoé Morel, 22719 Sainte Jules",Sainte Marcelle,Italie,31547,2015-09-04,acheté,719.0,résidentiel,50000.0,True,27448.0,ENT_dcb0e5d0
+MAG_1ca4a206,"45, chemin Traore, 03923 Perez",Sainte Moniqueboeuf,France,41423,2020-09-12,loué,1313.0,zone commerciale,3949703.0,False,,ENT_fc7f3f64
+MAG_36df137e,"839, rue de Mercier, 31118 Sainte Suzanne",Sainte Pierre,Espagne,93394,2018-12-16,loué,1226.0,rural,2423207.0,False,,ENT_8f17149a
+BADID,"8, avenue de Giraud, 97432 Sainte Paulette",Gros,Italie,05756,2015-05-19,inconnu,953.0,résidentiel,4107293.0,True,18351.0,ENT_e82a0a90
+MAG_362f325c,"53, chemin Michel Blanchet, 23402 Gilbertdan",Berger,Espagne,37167,2024-10-16,acheté,233.0,périphérie,5831375.0,False,,ENT_78768a78
+MAG_a16400f7,"85, avenue Dupuis, 56963 Hervé",Mendès-sur-Mer,Allemagne,25818,2016-05-12,loué,1209.0,résidentiel,409148.0,False,,ENT_69c6c4e8
+MAG_47de58e7,"46, boulevard Laetitia Leroy, 31251 GomesVille",Alexandre-sur-Marchal,France,70939,2025-01-23,loué,295.0,centre-ville,1242117.0,False,,ENT_c73864c5
+MAG_dc8f98c8,"65, avenue Laporte, 78210 Bernier-les-Bains",Thibaultnec,France,42950,2015-02-07,loué,773.0,centre-ville,1435184.0,False,,ENT_UNKNOWN
+MAG_42e40909,"53, boulevard Alexandrie Joseph, 08341 Deschamps",Sainte Émile-sur-Mer,Portugal,15676,2018-08-07,loué,149.0,zone commerciale,1989697.0,True,5000.0,ENT_1b1bed9f
+MAG_cbe1263d,"87, avenue Lucie Jacques, 47897 Besson",Hardy,France,97694,2018-07-15,acheté,1251.0,centre-ville,1001297.0,True,89497.0,ENT_0bf703b9
+MAG_018c4cee,"68, rue de Texier, 87943 Auger-la-Forêt",Delannoy-la-Forêt,Italie,45156,2022-07-30,acheté,805.0,centre-ville,744737.0,True,87480.0,ENT_4650c2c7
+MAG_ccf3b9be,"37, chemin de Rocher, 02827 Moreno",Joubertdan,France,89743,2017-09-02,acheté,1110.0,périphérie,2721977.0,False,,ENT_c5bf20e3
+MAG_2689718d,"37, boulevard Chevalier, 64562 Augernec",Marin,France,45585,2018-05-04,acheté,1959.0,centre-ville,3601217.0,False,,ENT_ca6b2114
+MAG_40432e6b,"chemin Édouard Renard, 14182 Martel",Deschamps,Allemagne,75451,2017-01-25,acheté,50.0,périphérie,3398941.0,False,,ENT_51124079
+MAG_801e9072,"boulevard David Grégoire, 67195 Maillet-sur-Mer",David-les-Bains,France,47296,2016-10-30,acheté,84.0,centre-ville,4211413.0,False,,ENT_56aef086
+MAG_369620f5,"19, rue Danielle Joseph, 26401 LeclercVille",Gilbert,France,29887,2023-05-14,loué,653.0,résidentiel,2476038.0,False,,ENT_78e2091f
+MAG_9df3f84d,"5, rue Charrier, 93618 Ruiz",Gauthier,France,27120,2022-10-30,loué,1457.0,centre-ville,2706116.0,False,,ENT_56aef086
+MAG_5b6124a3,"4, chemin Simon, 95899 Lemoine-la-Forêt",Tessier-les-Bains,France,47683,2021-01-02,loué,1206.0,périphérie,1027278.0,False,,ENT_2e323785
+MAG_dda0704d,"284, rue Roland Weiss, 31945 Sauvage",PoirierBourg,Espagne,08430,2017-10-23,loué,334.0,périphérie,2041603.0,False,,ENT_b78f9045
+MAG_40ba4d9e,"7, chemin de Barre, 58862 Saint Timothée",Toussaintboeuf,Italie,28321,2025-11-14,N/A,1130.0,résidentiel,1847834.0,False,,ENT_UNKNOWN
+MAG_8575bfd3,"956, rue Joséphine Couturier, 48966 Leleu-sur-Gomes",Meunierdan,France,86286,2099-01-01,extra,1621.0,centre-ville,-355.22,False,,ENT_6c9e1662
+MAG_b1ba6ab4,"33, boulevard Éléonore Langlois, 21690 Marty",Maurice,Italie,52117,2022-05-24,loué,722.0,rural,1174242.0,True,64805.0,ENT_d22e1d27
+MAG_071cd577,"5, avenue de Sanchez, 49556 TecherVille",Gautier,France,30937,2021-01-23,acheté,1037.0,zone commerciale,1412353.0,False,,ENT_4449145c
+MAG_f70692ca,"810, boulevard de Boutin, 05689 Bigot",Rocher,France,87489,2020-06-17,acheté,900.0,zone commerciale,4297027.0,False,,ENT_b6a3f3ce
+MAG_b08f0f28,"rue de Fouquet, 97461 ColletBourg",Sainte ÉtienneVille,France,13133,2024-12-05,loué,1028.0,périphérie,1923185.0,False,,ENT_UNKNOWN
+MAG_990afa14,"299, rue Dumont, 97462 Munozdan",Paris,Allemagne,39584,2022-02-09,loué,1460.0,périphérie,2587061.0,True,68967.0,ENT_fc7f3f64
+MAG_92647a89,"58, boulevard Hortense Merle, 91957 Legrand-sur-Morel",Costenec,Espagne,13783,2016-05-13,loué,1179.0,résidentiel,1130082.0,False,,BADID
+MAG_e0430ff8,"86, boulevard Philippe Hamon, 43928 Bouchet",Laporte-la-Forêt,France,55103,2015-04-03,acheté,1442.0,rural,3598726.0,True,13532.0,ENT_e984d710
+MAG_d1c82871,"7, rue Lefèvre, 04970 Étienne",Descampsdan,France,17428,2018-11-06,acheté,271.0,centre-ville,3255905.0,False,,ENT_a1d5e89a
+MAG_77a45aed,"178, chemin de Thomas, 88364 Lefebvre-sur-Gilles",Parentdan,Allemagne,86993,2019-06-02,acheté,1484.0,zone commerciale,1416816.0,False,,ENT_e0d7ff88
+MAG_c7124dd6,"44, boulevard Noémi Le Gall, 06335 Bouchet",Lebon-sur-Rocher,France,64154,2022-10-23,loué,1757.0,zone commerciale,3893471.0,True,77727.0,ENT_b8638d83
+MAG_c1a5cb9e,"88, rue Lefebvre, 95589 Roche",Boyerdan,France,86485,2018-07-03,loué,434.0,résidentiel,1037685.0,False,,ENT_31302049
+MAG_956cbe00,"17, chemin de Leconte, 64434 Jacquet",Saint Inès,Espagne,57279,2099-01-01,loué,685.0,industriel,2393665.0,False,,ENT_125b3d5c
+MAG_26e6facc,"avenue Julie Pineau, 66443 Colas",Saint Lorraineboeuf,France,09759,2015-09-25,acheté,174.0,zone commerciale,1087430.0,True,106483.0,ENT_a1d5e89a
+BADID,"26, avenue Leroy, 32396 Baron",Hebert-sur-Bertrand,France,15239,2023-02-09,acheté,-260.43,centre-ville,3143624.0,False,,ENT_UNKNOWN
+MAG_a80bfeac,"1, boulevard Pereira, 30934 Martinezboeuf",Morel,Allemagne,33489,2020-04-02,loué,827.0,rural,1670227.0,False,,ENT_3a9f1c27
+MAG_f054b0e9,"6, boulevard Gaillard, 80288 Evrard",Colas,France,20718,2019-07-11,loué,720.0,résidentiel,2612162.0,True,58584.0,ENT_b8512cc2
+MAG_3ee64d0b,"609, chemin Lecoq, 57202 Hebertnec",Boulay,France,44585,2025-09-28,N/A,205.0,périphérie,896532.0,False,,ENT_bd42c5dd
+MAG_5bbebf44,"398, rue De Oliveira, 75188 Sainte Julien",Saint Auroredan,Allemagne,37784,2024-08-25,loué,291.0,résidentiel,50000.0,False,,ENT_93764a82
+MAG_326f4123,"boulevard Ribeiro, 05348 Wagner",Leclerc-la-Forêt,France,54304,2018-05-23,loué,1690.0,zone commerciale,3018768.0,False,,ENT_c8fb0b52
+MAG_5d3c8738,"80, rue Josette Laporte, 53369 Huet",Gilbert-sur-Rivière,France,20530,2020-06-25,loué,394.0,centre-ville,2357793.0,False,,ENT_6b65fc8c
+MAG_d20e13cd,"429, boulevard Tristan Perrin, 47978 Langlois",Gomesnec,Italie,91855,2016-03-26,acheté,1050.0,centre-ville,5602687.0,True,21756.0,ENT_ad3c1977
+MAG_2e2a80ca,"32, chemin Gilbert Hardy, 46911 Sainte Élisabeth-sur-Mer",Saint Xavier,Allemagne,97425,2023-02-28,acheté,50.0,résidentiel,50000.0,True,127662.0,ENT_83a053a2
+MAG_c8df2ca6,"85, rue Robert, 85128 Saint Bernadette-les-Bains",Picard-la-Forêt,France,54816,2020-01-19,acheté,57.0,résidentiel,1371647.0,False,,ENT_b8512cc2
+MAG_327f63e9,"58, rue Arnaud, 33942 Bernier",Morvan-les-Bains,Allemagne,35945,2017-05-12,loué,1506.0,zone commerciale,50000.0,True,76676.0,ENT_6e31725a
+MAG_d99b1bef,"chemin Laurent Chauvin, 02730 Fleury-sur-Barbe",Saint Lucyboeuf,France,32453,2017-09-11,acheté,50.0,résidentiel,456251.0,True,81112.0,ENT_4d93a896
+MAG_a3bf997e,,Renault,Narnia,77796,2020-02-08,loué,50.0,industriel,3138006.0,True,12949.0,ENT_UNKNOWN
+MAG_346fb83b,"815, chemin Clément, 86928 Pereira",Robinnec,France,08509,2019-07-27,loué,473.0,rural,2267745.0,False,,ENT_ca6b2114
+MAG_b281e7aa,"3, rue Vincent Marion, 66985 Guyon-sur-Delattre",Sainte Julien,France,33870,2022-03-07,acheté,1388.0,rural,569863.0,True,10799.0,ENT_0b2af78e
+MAG_63580352,"801, boulevard François Lefort, 97152 Chauveau-sur-Mer",Gérard-sur-Legrand,France,33358,2022-03-08,acheté,1336.0,rural,2385303.0,True,135585.0,ENT_edd73f9d
+MAG_52de51c0,"6, rue de Lombard, 76125 Labbé-la-Forêt",Rocheboeuf,Allemagne,12402,2024-11-03,acheté,294.0,périphérie,50000.0,True,97627.0,ENT_4479af24
+MAG_46e1f84a,"rue Valérie Thierry, 20696 Saint Josettenec",Saint Jeanneboeuf,France,08518,2024-03-29,acheté,896.0,rural,2325301.0,False,,ENT_6b65fc8c
+MAG_ba989dc2,"42, boulevard Michel Barbe, 97349 Sainte Laurent",Lemaire-sur-Robert,Espagne,40721,2016-06-12,loué,389.0,centre-ville,705564.0,True,61189.0,ENT_27c99c21
+BADID,"chemin Roger, 73698 Saint Thierry",KleinVille,Narnia,20957,2018-01-01,loué,1278.0,centre-ville,955156.0,True,6034.0,ENT_UNKNOWN
+MAG_dda504a1,"23, boulevard Pineau, 52711 Brun",Sainte Jeannine,Espagne,26339,2017-01-10,loué,1115.0,centre-ville,1210267.0,True,32712.0,ENT_8c32638c
+MAG_4475ae2e,"8, avenue Jacqueline Breton, 19246 Fouquet",BoulangerVille,Allemagne,17394,2015-11-10,acheté,501.0,rural,3696895.0,False,,ENT_8ec01017
+MAG_19f303cc,"86, rue de Fabre, 51471 Saint Valérie",Godard-sur-Besson,France,74862,2019-12-27,acheté,253.0,industriel,50000.0,True,22426.0,ENT_1eedbec5
+MAG_c8a2b1c9,"39, boulevard de Robin, 72904 Lenoir",Turpinnec,inconnu,68177,2099-01-01,Narnia,787.0,résidentiel,1116367.0,False,,ENT_05049c9a
+MAG_c00b0715,"11, boulevard Dupré, 72977 Martineaudan",Guichard,France,23846,2023-06-26,loué,1731.0,périphérie,1111787.0,False,,ENT_821bbb5c
+MAG_5b896a6d,"6, boulevard Manon Blin, 48370 Vasseur",Peltier-les-Bains,Espagne,22889,2015-08-03,loué,1125.0,zone commerciale,694026.0,False,,ENT_78a409d8
+MAG_394b3346,"9, rue Sylvie Fournier, 29383 Delahayedan",Saint Claire,France,97615,2023-12-31,loué,1208.0,rural,4178404.0,False,,ENT_32a89e1f
+MAG_56ddcf7c,"19, rue de Ramos, 54926 Jacques-sur-Valette",DialloBourg,France,13955,2019-10-05,acheté,538.0,industriel,1747383.0,False,,ENT_650c2286
+MAG_fb1a9f53,"65, chemin de Pasquier, 37834 Vincent",LeleuBourg,Italie,36124,2021-09-21,loué,935.0,centre-ville,3483103.0,True,69221.0,ENT_4fa164f6
+MAG_a66a7d8d,"77, rue de Legrand, 87151 Laroche",Schneider,France,94596,2020-12-17,acheté,488.0,périphérie,3574840.0,False,,ENT_c45199db
+MAG_09e22a23,"41, rue de Perez, 10122 Weber-sur-Allard",Labbé,France,25939,2024-11-09,loué,1588.0,rural,2507282.0,True,90129.0,ENT_766758d3
+MAG_9a76a6ed,"35, avenue de Lefèvre, 03603 Saint Alixboeuf",Saint LouiseBourg,Espagne,33220,2019-07-09,loué,98.0,résidentiel,3069345.0,False,,ENT_c8fb0b52
+BADID,"93, chemin Blin, 68163 Vasseur",Weiss,France,41322,2099-01-01,loué,805.0,centre-ville,1576264.0,False,,ENT_UNKNOWN
+MAG_eab54784,"rue Leblanc, 97229 Imbertboeuf",Besnard,Espagne,89349,2022-08-08,acheté,1060.0,résidentiel,832982.0,False,,ENT_5dca08f5
+MAG_f2c8a211,"7, boulevard de Bonnet, 79811 Lebrun-sur-Pasquier",Lefebvre,France,15622,2025-05-27,loué,540.0,industriel,3022072.0,True,70488.0,ENT_8f17149a
+MAG_99a9c065,"boulevard Claudine Godard, 38577 Delmas",Renault,France,20629,2019-03-13,loué,638.0,zone commerciale,2213963.0,False,,ENT_51124079
+MAG_c68bd945,"47, rue René Fontaine, 78538 Guichard-sur-Mer",Vallée,France,91684,2019-07-02,loué,882.0,zone commerciale,2739132.0,False,,ENT_4449145c
+MAG_47ee928f,"rue Berthelot, 24745 BonneauVille",Simon,France,94502,2024-10-04,loué,1402.0,périphérie,3556031.0,True,56219.0,ENT_8f17149a
+MAG_0a191260,"514, boulevard de Becker, 58619 Rey",Weber,Allemagne,05144,2023-01-25,acheté,1739.0,industriel,646488.0,False,,ENT_4479af24
+MAG_1140d1d1,"8, chemin Labbé, 53989 Gilles-sur-Rousset",Antoine,France,33893,2023-10-17,loué,891.0,industriel,50000.0,False,,ENT_96f01b2a
+MAG_da6961a0,"3, avenue Bernadette Marchand, 46422 Saint Charles-les-Bains",Vallet,extra,39339,2015-11-18,inconnu,1172.0,rural,1823967.0,True,23840.0,ENT_c2902386
+MAG_0fc6018b,"5, boulevard Édith Coste, 27553 Rocher-sur-Monnier",Richard,Allemagne,33859,2025-02-09,acheté,317.0,résidentiel,3166668.0,False,,ENT_UNKNOWN
+MAG_c6e55676,,Vallet-sur-Tanguy,France,21210,2018-12-29,loué,-238.96,périphérie,50000.0,False,,ENT_b6a3f3ce
+MAG_c00d77c5,"78, rue Alexandre, 97252 Colin",Blotdan,Italie,24889,2020-01-01,loué,1352.0,centre-ville,2091452.0,False,,ENT_715cdf9b
+MAG_c8e41a2f,"620, avenue de Bailly, 79380 Goncalves-sur-Perret",Saint Susanne,Italie,78866,2018-04-30,loué,527.0,centre-ville,50000.0,False,,ENT_8ec01017
+MAG_11ac1b2c,"73, avenue Salmon, 97465 Sainte Alex",Sainte Astrid-les-Bains,France,46892,2025-09-14,acheté,1031.0,résidentiel,1276949.0,False,,ENT_631b77f7
+MAG_8dc42f17,"10, avenue de Blanchard, 77977 LecoqVille",Alves-les-Bains,Allemagne,43770,2022-08-07,loué,726.0,zone commerciale,2080973.0,False,,ENT_680f2ebb
+MAG_10303b6d,"705, avenue de Pires, 25601 Dupuy",Sainte Marcel-sur-Mer,Espagne,17753,2015-01-14,loué,943.0,résidentiel,4271147.0,True,106234.0,ENT_7ec2e83e
+MAG_8c0a99b5,"rue de Ollivier, 54847 Denis",Dias,Espagne,80173,2017-10-23,loué,50.0,rural,1140340.0,False,,ENT_bd42c5dd
+MAG_c574a474,"47, avenue de Besson, 33389 Descamps",Sainte Camille,France,01776,2016-10-11,loué,1341.0,zone commerciale,5091896.0,False,,ENT_0d35cfb9
+BADID,"401, boulevard Mary, 66459 LemaîtreBourg",Masse-sur-Gérard,Narnia,44604,2019-11-18,acheté,1383.0,centre-ville,2759018.0,False,,ENT_0223ca15
+MAG_50939ab8,"3, rue Caroline Lemoine, 36869 Saint Caroline",Sainte Simonenec,Allemagne,95873,2018-02-06,acheté,1239.0,centre-ville,3268332.0,False,,ENT_08325797
+MAG_ae4677de,"26, chemin Gérard, 89857 Gros",Saint NathalieBourg,Italie,72878,2022-11-07,acheté,512.0,périphérie,2916081.0,False,,ENT_2c9bed3f
+MAG_1a6f8a2e,"56, avenue Marcel Brunel, 03296 TexierVille",Sainte Cécile-sur-Mer,Espagne,30133,2020-06-10,loué,317.0,centre-ville,2205835.0,False,,ENT_ed0b783d
+MAG_a3face16,"8, avenue de Vallet, 33675 Maréchal",Toussaint,France,51697,2099-01-01,N/A,557.0,zone commerciale,2716369.0,False,,ENT_8ec01017
+MAG_32bff454,"98, boulevard Gay, 42221 Neveu",Joseph-sur-Sauvage,France,46230,2015-04-23,loué,536.0,centre-ville,2112686.0,False,,ENT_2461bef5
+MAG_7f1a6dba,"66, rue Julien Letellier, 16844 Le Gall",Lemaîtrenec,extra,97150,2099-01-01,acheté,298.0,centre-ville,1448340.0,False,,ENT_42e7d49e
+MAG_9fe895ba,"8, avenue Michelle Lefort, 16977 Gomez",Lesage,Allemagne,45663,2024-11-29,loué,1382.0,centre-ville,50000.0,False,,ENT_b8512cc2
+MAG_dadf6291,"58, rue de Pruvost, 97316 Seguin",Rousseau,Narnia,78649,2016-12-10,loué,831.0,rural,-269.87,False,,ENT_b8f8cfd3
+MAG_35ecc50c,"9, avenue Peron, 06304 Laroche",Sainte Gilbert,France,33536,2024-03-16,acheté,843.0,résidentiel,3125247.0,True,124625.0,ENT_51124079
+MAG_ccbe81c6,"77, boulevard de Couturier, 94274 Saint Gabriel",Saint Aliceboeuf,France,25848,2017-03-04,loué,432.0,centre-ville,3101421.0,False,,ENT_9ee01edf
+MAG_930c67e6,"92, chemin Bernard Blondel, 12805 Martel-les-Bains",Sainte Christelle-sur-Mer,Allemagne,62234,2024-12-27,loué,1415.0,centre-ville,2353969.0,False,,ENT_7f3e0f98
+MAG_f941ac8f,"617, avenue Letellier, 83488 Coulon",Roussel,Espagne,03804,2025-03-23,acheté,1302.0,résidentiel,477118.0,False,,ENT_b78f9045
+MAG_461609ba,"rue de Weber, 76930 Payet",Voisin,France,30239,2015-09-08,acheté,220.0,industriel,3172205.0,False,,ENT_67add145
+MAG_9a68a584,"61, boulevard de Mallet, 67954 Saint Bernard",Sainte Christelle,France,34390,2017-08-19,extra,-118.61,centre-ville,2136470.0,False,,ENT_a1d5e89a
+MAG_b10622c2,"45, avenue de Rémy, 03781 Teixeira",Blanc,Allemagne,43357,2016-07-01,loué,1243.0,centre-ville,50000.0,False,,ENT_328e7e38
+MAG_a97016e1,"332, rue Boutin, 10880 Vaillant-sur-Mer",Salmon-la-Forêt,France,42566,2015-03-02,loué,554.0,centre-ville,5002397.0,True,110593.0,ENT_daa78fef
+MAG_cb2341f8,"93, avenue Blondel, 08626 Bouchet-les-Bains",Saint Théophiledan,France,95309,2024-12-19,acheté,842.0,zone commerciale,1180818.0,True,118737.0,ENT_dd1965ef
+MAG_bf76574a,"rue Michelle Boucher, 09595 Da Silva-sur-Normand",Gaillard,France,07737,2022-11-13,loué,1441.0,rural,3959860.0,False,,ENT_b8f8cfd3
+MAG_62af44ee,"49, chemin de Bonnin, 71105 Fleurynec",Bruneau,France,46979,2025-07-10,acheté,396.0,industriel,3758173.0,False,,ENT_0b2af78e
+MAG_36bcc250,"248, avenue Frédérique Clerc, 55985 Roger",Michaud,France,69810,2015-01-28,acheté,1308.0,zone commerciale,2414147.0,False,,ENT_3a9f1c27
+MAG_3c1f00ae,"64, rue Brunel, 89146 Fournier",Collet-la-Forêt,Portugal,97334,2020-07-09,loué,1083.0,rural,442850.0,True,121466.0,ENT_ad3c1977
+MAG_91905758,"2, avenue Maryse Gomes, 35610 Sainte Gérardboeuf",Monnier,Italie,46780,2023-08-09,loué,979.0,industriel,1808705.0,False,,ENT_12d63305
+MAG_67a8852a,"314, rue Leroux, 91607 Dubois",Sainte Roland-les-Bains,Espagne,29267,2016-08-16,loué,257.0,centre-ville,824526.0,False,,ENT_c45199db
+MAG_64f0fea6,"41, rue Étienne, 97473 Merle",Mallet,Allemagne,44536,2024-07-14,loué,50.0,centre-ville,50000.0,False,,ENT_747f38bc
+MAG_75706a78,"83, rue Luc Ollivier, 21943 Sainte Théodoreboeuf",Pascal-les-Bains,France,93244,2024-10-15,acheté,512.0,zone commerciale,3661893.0,False,,ENT_ed698f70
+MAG_4380693e,"91, rue Marcel Renaud, 97375 Samson",Schmitt,France,52948,2021-06-03,loué,155.0,rural,198344.0,False,,ENT_UNKNOWN
+MAG_4b100616,"10, rue de Becker, 45643 Toussaint",Laurent-sur-Mer,France,48487,2023-12-21,loué,1758.0,centre-ville,573665.0,False,,ENT_86e51b72
+MAG_2cd30e9c,"75, rue de Gilbert, 66873 Saint Claudeboeuf",Peltier-les-Bains,Allemagne,97235,2021-08-07,acheté,1051.0,zone commerciale,1704236.0,True,81509.0,ENT_944a72d6
+MAG_3f8b8a6e,"39, avenue Françoise Marques, 69507 Toussaint",Wagnernec,Italie,78355,2023-06-27,loué,398.0,résidentiel,1028221.0,True,77741.0,ENT_ecd91e76
+MAG_3f94cbc7,"90, rue de Bailly, 20673 Wagner-sur-Berthelot",Colin-sur-Perez,Allemagne,41194,2019-08-13,acheté,962.0,rural,196764.0,False,,ENT_8bf86e46
+MAG_7294e1a2,"51, boulevard Leduc, 14416 Blanchet",Sainte Xavier,France,80714,2017-12-24,loué,50.0,centre-ville,2321315.0,True,151532.0,ENT_4650c2c7
+MAG_7e4ddaf0,"79, rue Martin Loiseau, 04698 Légerboeuf",LamyVille,Italie,63675,2024-11-02,loué,1036.0,zone commerciale,543898.0,True,26842.0,ENT_93769424
+MAG_4fb57fbd,"328, chemin Richard, 58943 Verdier",Clément,Espagne,04266,2018-11-17,loué,1095.0,résidentiel,3222888.0,False,,ENT_875e2393
+MAG_891e84aa,"boulevard Dominique Colin, 62429 Lemonniernec",Payet-sur-Leconte,Allemagne,24428,2016-04-20,loué,1251.0,zone commerciale,1268826.0,False,,ENT_e23f9965
+MAG_41064eb8,"19, rue Peltier, 01179 Jacquot-la-Forêt",Faivreboeuf,France,06652,2019-08-20,loué,1553.0,résidentiel,2082323.0,False,,ENT_184ade7b
+MAG_91bbfdf5,"204, rue Regnier, 43899 Ruiz-sur-Delaunay",Pages,Portugal,18196,2021-10-15,loué,779.0,zone commerciale,2827268.0,False,,BADID
+MAG_5d656d0c,"63, boulevard Amélie Raynaud, 01146 Toussaint",Saint Amélie,Espagne,23329,2015-03-27,acheté,50.0,résidentiel,1658570.0,False,,ENT_eed0e026
+MAG_ec84c8e6,"1, boulevard Denise Joly, 86331 Marchal",Guillot-sur-Chauvet,Espagne,64135,2018-05-17,acheté,508.0,résidentiel,1942420.0,True,98178.0,ENT_747f38bc
+MAG_a4db8e22,"38, rue de Lemaître, 02444 Traore",Dijoux,Italie,12767,2023-05-26,loué,1636.0,périphérie,799759.0,False,,ENT_821bbb5c
+MAG_78022dd1,"28, avenue Isaac Paris, 03703 Sainte Émilie-sur-Mer",Boulay-sur-Bousquet,France,72672,2019-06-17,loué,1201.0,rural,1062186.0,False,,ENT_67add145
+MAG_4b10a3fb,"9, boulevard Gérard, 22567 Morin-la-Forêt",Baron,Italie,95368,2017-05-08,acheté,1067.0,zone commerciale,3236900.0,True,84066.0,ENT_8bf86e46
+MAG_11ec04e3,"chemin Gomes, 82499 Girard",Ramos,Espagne,97435,2019-04-28,loué,987.0,résidentiel,3116788.0,False,,ENT_563fee5c
+MAG_5e3b9a65,"161, rue Mahe, 31216 Klein",Saint Aurore,Espagne,60230,2025-08-10,acheté,712.0,industriel,1353914.0,False,,ENT_bd42c5dd
+MAG_17a8aeeb,"avenue Édouard Paris, 54778 Carlier-sur-Pires",Jean,France,73244,2016-07-27,loué,50.0,zone commerciale,1394867.0,True,131725.0,ENT_4449145c
+MAG_f48f905b,"70, rue de Tanguy, 28591 Chauvet",Sainte Chantal-la-Forêt,Portugal,28525,2018-04-30,loué,676.0,zone commerciale,2268211.0,False,,ENT_ed0b783d
+MAG_270c5da0,"43, chemin de Delmas, 87473 Lopeznec",Bodin-la-Forêt,France,57374,2020-11-15,acheté,-365.28,industriel,2309464.0,False,,ENT_8f17149a
+MAG_ad8bcdd1,"15, avenue de Buisson, 66219 Leleu",Gilles,Espagne,57958,2025-03-02,loué,1218.0,périphérie,2426190.0,True,69122.0,ENT_ef757205
+MAG_ced9b77b,"57, rue Amélie Joseph, 79153 Rossi",Benoit-sur-Mer,France,06122,2022-05-15,acheté,865.0,centre-ville,4402480.0,False,,ENT_de2a8002
+MAG_5a9b4181,"5, boulevard de Pinto, 92920 FerrandVille",Bazin-sur-Leclercq,Portugal,97167,2018-01-08,acheté,2127.0,résidentiel,50000.0,True,128451.0,ENT_9322598f
+MAG_a9115061,"78, boulevard Roy, 59878 Bruneauboeuf",Leleu,Italie,50953,2021-11-26,acheté,1447.0,résidentiel,4228180.0,False,,ENT_b6a3f3ce
+MAG_7459b38c,"43, rue de Martinez, 40556 Leclerc-sur-Mer",Sainte Timothéeboeuf,Espagne,14215,2021-08-14,acheté,742.0,zone commerciale,2129661.0,True,45900.0,ENT_d1b8b791
+MAG_52f097f0,"67, rue Diallo, 76363 Petitjean-la-Forêt",Marin,France,64920,2019-12-07,extra,630.0,centre-ville,6959184.0,True,57560.0,ENT_6f9592f1
+MAG_abf3c70b,"rue de Pinto, 97225 Bonnet-les-Bains",Sainte Monique,Allemagne,78509,2023-12-04,loué,801.0,rural,2884827.0,False,,ENT_69c6c4e8
+MAG_eedee262,"37, boulevard Anastasie Maillot, 92987 Grondin",Maréchal,Espagne,66917,2016-12-12,acheté,847.0,périphérie,313988.0,True,98729.0,ENT_69c6c4e8
+MAG_f5b2acd4,"13, avenue Lefèvre, 49125 Reynaud-sur-Mer",Le Goff,Allemagne,53928,2021-07-08,loué,1282.0,industriel,1928986.0,False,,ENT_7ec2e83e
+MAG_e185014e,"avenue de Alexandre, 07293 Saint David",Lambert-sur-Mer,Allemagne,48164,2022-08-05,loué,50.0,résidentiel,2242435.0,False,,ENT_31302049
+MAG_09ccda04,"38, chemin Ruiz, 33987 BlancVille",Costa-les-Bains,France,30348,2020-01-18,acheté,954.0,centre-ville,3740455.0,False,,ENT_932956d6
+MAG_362aec3b,"146, rue Anastasie Dupuy, 28832 Chauvet",Didier,Espagne,20809,2021-12-23,loué,126.0,résidentiel,1825989.0,False,,ENT_ed0b783d
+MAG_59bfc98a,"chemin de Paris, 36353 Parisnec",Hoareau-sur-Buisson,Allemagne,47300,2024-11-10,acheté,384.0,zone commerciale,2337506.0,True,45956.0,ENT_6f5214ce
+MAG_5f39541c,"84, rue de Albert, 23509 Vallée",Rivière-la-Forêt,Allemagne,13547,2017-05-11,loué,577.0,zone commerciale,2755696.0,False,,ENT_UNKNOWN
+MAG_85c85883,"8, boulevard Henri Rodriguez, 79268 Sainte Brigitte",Valletboeuf,France,87200,2021-01-04,inconnu,354.0,rural,1787273.0,False,,ENT_7eb480f0
+MAG_fe41fab4,"51, rue Louise Turpin, 28991 Fernandes",Ribeiro,Allemagne,92791,2019-04-21,loué,1009.0,zone commerciale,2281330.0,True,94332.0,ENT_12d63305
+MAG_6473f19b,"15, boulevard Leroy, 04668 Lebon",Robert-sur-Peron,France,74289,2019-03-26,acheté,779.0,résidentiel,1133160.0,False,,ENT_27c99c21
+MAG_648d0756,"19, avenue de Gay, 12138 Pelletier",Hebert,Espagne,44214,2020-12-17,loué,1594.0,résidentiel,-377.07,False,,ENT_e82a0a90
+MAG_dffdc421,"rue de Lagarde, 27295 Peronnec",Petitjean-la-Forêt,France,78981,2024-09-04,acheté,233.0,résidentiel,50000.0,False,,ENT_8e9e49b2
+MAG_654d4f5c,"7, chemin de Delannoy, 45941 Sainte Alexandrie-sur-Mer",Blanchard-les-Bains,France,03996,2025-01-14,loué,1398.0,résidentiel,66991.0,False,,ENT_32a89e1f
+MAG_094a731c,"60, avenue Patrick Pinto, 10885 Blanchard-la-Forêt",Reynaud,extra,66703,2020-03-12,loué,-305.19,centre-ville,-268.87,False,,ENT_ccedccdd
+MAG_a72a4276,"16, chemin Hoareau, 15672 Denis-sur-Cousin",Saint Antoinetteboeuf,France,26362,2017-09-05,loué,872.0,zone commerciale,2468165.0,False,,ENT_ada6cdad
+MAG_163ecbc5,"3, rue de Poirier, 26408 Devaux",Blondel-les-Bains,Allemagne,87934,2022-07-05,loué,1200.0,rural,1862752.0,False,,BADID
+MAG_d9fdb76f,"72, avenue de Breton, 74639 Marie",Dupontnec,France,48994,2021-09-16,loué,266.0,rural,1617802.0,True,75618.0,ENT_733fcf33
+MAG_67bbb575,"73, avenue de Marchand, 38321 Becker",Joly,France,14980,2015-02-19,loué,819.0,zone commerciale,2061846.0,False,,ENT_2b351573
+MAG_63505cd3,"28, avenue Zoé Thierry, 01812 Raymonddan",Roux,France,82508,2019-08-04,loué,716.0,périphérie,388364.0,False,,ENT_e95b600c
+MAG_c49a4a35,"rue de Ollivier, 44309 Techer",Noël,France,47528,2025-09-25,loué,1554.0,périphérie,2882805.0,True,15215.0,ENT_dd1965ef
+MAG_8c395522,"35, avenue de Gomes, 24124 Saint Daniel",Ponsdan,France,18445,2017-03-20,loué,1001.0,périphérie,2998903.0,True,197940.0,ENT_918fe64f
+BADID,"boulevard de Bègue, 39155 BerthelotBourg",Dufour,Espagne,12173,2021-09-01,loué,-425.02,zone commerciale,4202969.0,False,,ENT_af99b534
+MAG_3031b166,"481, rue de Pineau, 74544 Marie",Saint Théophile-sur-Mer,Allemagne,17124,2022-04-08,loué,50.0,résidentiel,2968366.0,False,,ENT_4fa164f6
+MAG_ad11f7c8,"66, rue de Julien, 42514 Sainte Michèle",Blot,Italie,60708,2025-02-14,loué,856.0,rural,4188594.0,False,,ENT_12d63305
+MAG_fff0f04c,"8, avenue Blanchet, 68375 Joubert",Georges-les-Bains,France,60306,2020-09-25,loué,735.0,centre-ville,2057635.0,False,,ENT_c5bf20e3
+MAG_fb14f8f4,"17, rue Petit, 84259 Saint Virginie-sur-Mer",Guillou,France,39404,2015-11-02,loué,50.0,périphérie,50000.0,False,,ENT_25fd6ccf
+MAG_6eb0d927,"35, chemin Lombard, 35730 Chevalier",Delmas,Italie,45685,2016-03-20,loué,985.0,centre-ville,3708116.0,False,,ENT_bd42c5dd
+MAG_81a6e5b2,"82, chemin de Pascal, 70123 NeveuBourg",Adamdan,France,66738,2023-07-28,loué,945.0,industriel,1797346.0,False,,ENT_78a409d8
+MAG_047afa09,"99, rue de Grégoire, 38351 Bouchet-sur-Ruiz",Saint Claude,France,10821,2016-06-05,Narnia,954.0,zone commerciale,2297459.0,False,,ENT_563fee5c
+MAG_5c42ae54,"6, rue de Sauvage, 25801 Bertin-sur-Lejeune",Hoareau,Italie,53923,2024-03-07,loué,1131.0,zone commerciale,556707.0,False,,ENT_6f3a6382
+MAG_640e7434,"22, avenue Léger, 95192 Rivièredan",Saint Lucas,France,90451,2021-12-02,loué,294.0,rural,3654963.0,True,92797.0,ENT_715cdf9b
+BADID,"12, boulevard Martinez, 86969 DelannoyBourg",Bruneldan,Italie,24787,2025-04-14,loué,688.0,résidentiel,-494.19,True,25271.0,ENT_acfa1f66
+MAG_8c8982d1,"9, chemin de Toussaint, 19234 Roux",Lemoine,France,41813,2019-01-29,loué,140.0,centre-ville,778390.0,False,,ENT_651c1e86
+MAG_9dcfb311,"71, rue Dupont, 60472 LebretonBourg",Grondin,France,14344,2023-04-23,acheté,1918.0,résidentiel,3411070.0,False,,ENT_de2a8002
+MAG_0b3e874c,"92, rue Henri Alexandre, 21547 Boucherdan",Sainte ÉmileVille,Allemagne,08428,2018-05-15,acheté,967.0,résidentiel,2967900.0,False,,BADID
+BADID,"95, rue Alain Raymond, 61607 Duhamel",Lévy,Portugal,90517,2015-05-05,loué,50.0,périphérie,-6.22,False,,ENT_315d5257
+MAG_748bd345,"rue Guillon, 49650 Saint Zoé",Schmittdan,France,07481,2019-06-17,acheté,1777.0,zone commerciale,1259159.0,False,,ENT_ed698f70
+MAG_f1b268d9,"9, rue Dijoux, 90194 Saint AndréeBourg",RaymondVille,France,43197,2022-09-20,loué,1712.0,résidentiel,1306084.0,False,,ENT_c051336a
+MAG_f8362aae,"55, rue Simone Guillet, 76461 Sainte Clémence-les-Bains",Marin-la-Forêt,France,81290,2099-01-01,loué,861.0,zone commerciale,50000.0,False,,ENT_fa3ef37b
+MAG_4e12e0cc,"15, avenue Robin, 84653 GillesVille",Letellier-les-Bains,Portugal,68988,2016-09-16,acheté,1018.0,rural,2223621.0,False,,ENT_93764a82
+MAG_1e12b412,"avenue Roussel, 05548 Bonnetboeuf",Huet,Allemagne,61592,2022-01-15,loué,689.0,zone commerciale,708679.0,False,,ENT_5c8f1125
+MAG_b3cadb72,,Saint Marianne-la-Forêt,Allemagne,22813,2025-08-28,acheté,913.0,industriel,1058418.0,False,,ENT_4650c2c7
+MAG_da729192,"513, rue de Mahe, 77385 Torres",Boutin,France,72979,2017-08-22,loué,1353.0,centre-ville,2388953.0,False,,ENT_25c4cf72
+MAG_018d5565,"53, avenue Camille Ollivier, 52754 Parentnec",Toussaint,France,91429,2021-06-17,loué,557.0,zone commerciale,3500626.0,False,,ENT_56aef086
+MAG_80494333,"5, rue de Philippe, 27223 Maréchal",Lefort,France,81526,2024-12-02,acheté,585.0,zone commerciale,3458836.0,False,,ENT_563fee5c
+MAG_5a0b0667,"6, avenue de Legros, 51596 Techer-sur-Maréchal",Joseph,Allemagne,76383,2023-01-09,acheté,859.0,rural,50000.0,False,,ENT_UNKNOWN
+MAG_64df6fb5,"46, rue de Besnard, 78584 Saint NicoleVille",HoareauVille,France,04269,2022-02-28,loué,773.0,zone commerciale,2832402.0,True,109400.0,ENT_8ec01017
+MAG_1dad5c86,"94, boulevard de Maurice, 70587 Sainte René",Bouchet-sur-Mer,Allemagne,19954,2022-07-25,loué,908.0,résidentiel,2333343.0,False,,ENT_42e7d49e
+MAG_3fae0c81,"66, rue de Masson, 31556 Carpentier-sur-Roche",Allard-la-Forêt,Italie,48117,2024-10-11,acheté,821.0,centre-ville,6323994.0,False,,ENT_944a72d6
+MAG_fdf16eb1,"84, avenue de Grenier, 92946 Gérard",Alves-les-Bains,Allemagne,36239,2015-01-01,loué,50.0,résidentiel,50000.0,True,106294.0,ENT_184ade7b
+MAG_a1bf7019,"399, boulevard Marcel Thibault, 70201 Laurent",Saint Caroline,Allemagne,52789,2023-07-21,loué,1017.0,résidentiel,1141358.0,False,,ENT_UNKNOWN
+MAG_455e1db5,"51, rue Léon Nicolas, 02595 Loiseau",Mallet,Allemagne,56242,2015-01-26,loué,1337.0,résidentiel,2484375.0,False,,ENT_328e7e38
+MAG_7bb31de5,"71, boulevard de Pereira, 46893 Ramos",Martinez-sur-Schmitt,France,12784,2017-02-17,loué,988.0,zone commerciale,619447.0,False,,ENT_4b260472
+MAG_cf5ac173,"20, boulevard de Fernandez, 93377 Lacombe",Georges-la-Forêt,Espagne,79196,2020-01-02,acheté,886.0,zone commerciale,595377.0,True,108725.0,ENT_b8512cc2
+MAG_1c3c5b2c,"70, avenue Lefort, 60855 Rodrigues",Bonnet,France,25517,2019-02-12,acheté,1628.0,centre-ville,2852019.0,True,33380.0,ENT_86e51b72
+MAG_6dc2859c,"avenue Georges, 60858 Voisin",Collin,France,97119,2017-12-04,loué,609.0,industriel,1181342.0,False,,ENT_UNKNOWN
+MAG_1af5381f,"22, boulevard Morvan, 46547 Pons",Coste,Allemagne,35968,2015-03-11,acheté,805.0,zone commerciale,2432712.0,False,,ENT_78e2091f
+MAG_84554dd5,"392, boulevard de Le Roux, 67728 Peron-les-Bains",Nguyen-sur-Mer,France,62899,2017-10-21,loué,126.0,industriel,1812728.0,False,,ENT_c2902386
+MAG_15d0e46c,"70, boulevard de Bouchet, 77534 AllardVille",Merle,France,50200,2022-06-14,loué,50.0,périphérie,1963081.0,False,,ENT_de2a8002
+MAG_10a434f4,"93, chemin de Lenoir, 80851 Moulinboeuf",Clément,France,46119,2015-08-09,acheté,1529.0,zone commerciale,50000.0,False,,ENT_e95b600c
+MAG_0cd26f2b,"29, boulevard Chevallier, 95440 Sainte Marianne",Chevalier,France,46320,2017-04-11,loué,730.0,centre-ville,1674160.0,False,,ENT_12d63305
+MAG_ea0a08f6,"avenue de Menard, 33135 Perriernec",Sainte William,Allemagne,31145,2021-10-23,acheté,238.0,zone commerciale,1320453.0,False,,ENT_UNKNOWN
+MAG_99f213af,"rue de Guibert, 45674 Sainte NicoleBourg",Collin-sur-Costa,France,03550,2015-09-23,acheté,139.0,zone commerciale,548337.0,False,,ENT_85c50796
+MAG_69b041e0,"916, avenue de Masson, 07243 Dufourboeuf",NeveuVille,France,16350,2019-08-31,acheté,882.0,industriel,2581106.0,False,,ENT_12d63305
+MAG_04df43ce,,Saint Margaux,N/A,73675,2023-01-17,acheté,-120.86,résidentiel,4012910.0,False,,ENT_910f957d
+MAG_f7041b89,"chemin Briand, 08293 Dupré",Gaudin-sur-Fabre,Portugal,94733,2022-06-21,loué,1166.0,résidentiel,4951816.0,False,,ENT_UNKNOWN
+MAG_1ec8efab,"405, rue de Rémy, 57723 Guilbertboeuf",Gilles-sur-Bonnet,Allemagne,46192,2017-05-01,acheté,276.0,périphérie,1716727.0,True,74077.0,ENT_766758d3
+BADID,"22, avenue Tanguy, 37581 Diaz-sur-Roux",Sainte CélineBourg,Allemagne,79743,2021-08-24,loué,1808.0,centre-ville,-10.19,False,,ENT_8c32638c
+MAG_9a9dbedd,"11, chemin Diaz, 60705 Sainte Eugène",Chauvin-sur-Vincent,Italie,70830,2018-12-02,loué,1225.0,industriel,455786.0,False,,ENT_0d35cfb9
+MAG_1ac40fac,"582, chemin Couturier, 17727 Martineau",Texier-sur-Aubry,France,02786,2099-01-01,loué,617.0,zone commerciale,1249438.0,False,,ENT_UNKNOWN
+MAG_1e893476,"66, rue Lombard, 89481 JulienBourg",ReynaudBourg,Allemagne,45906,2020-04-23,acheté,1190.0,industriel,-304.31,True,34134.0,ENT_78a409d8
+MAG_3d26fbd9,"5, rue Breton, 72585 Lecoq",Renaudnec,Portugal,29297,2022-08-03,loué,1251.0,zone commerciale,2039969.0,False,,ENT_6c9e1662
+MAG_e8f2a324,"38, avenue Susan Lejeune, 14920 Aubert-sur-Collin",LemonnierVille,France,47869,2018-12-12,loué,865.0,zone commerciale,2938046.0,True,5669.0,ENT_4b260472
+MAG_e1477795,"76, boulevard de Bailly, 25425 Sainte Céline",Lambertboeuf,Espagne,78545,2024-07-25,acheté,754.0,périphérie,3992334.0,False,,ENT_918fe64f
+MAG_4c464f32,"boulevard Guibert, 40936 Aubert-sur-Lemaire",Simon-les-Bains,France,63386,2018-03-28,loué,702.0,centre-ville,1100852.0,False,,ENT_UNKNOWN
+MAG_62108f8e,"68, rue de Dias, 20228 Bourgeois",Sainte LaureBourg,France,48819,2016-11-07,loué,1294.0,zone commerciale,3300118.0,False,,ENT_bd42c5dd
+MAG_9faaf15e,"59, boulevard Bonneau, 86472 Sainte Lucas",Saint Éliseboeuf,Allemagne,97175,2015-07-13,loué,1061.0,périphérie,793071.0,True,154906.0,ENT_ed698f70
+MAG_9b7d3ebc,"3, avenue Mathilde Bazin, 71903 Raymond",Sauvage,France,20338,2020-08-16,loué,50.0,centre-ville,1128948.0,True,5000.0,ENT_b6a3f3ce
+MAG_e3bc21b8,"98, avenue Zoé Boulanger, 03448 Pierre",LerouxVille,France,07232,2021-02-15,loué,1463.0,zone commerciale,3835485.0,False,,ENT_d013dedd
+MAG_8b3736fe,"6, rue de Traore, 59424 Gaudin-sur-Neveu",Loiseau-sur-Deschamps,Espagne,39385,2020-11-01,acheté,1207.0,industriel,50000.0,True,59780.0,ENT_UNKNOWN
+MAG_05c02f22,"25, avenue de Robert, 27320 Lecoq-la-Forêt",Breton,France,97338,2023-10-11,acheté,1421.0,résidentiel,1578966.0,False,,ENT_8c32638c
+MAG_a477256f,"89, avenue Caron, 32461 Saint Nathalie",Saint Michellenec,Allemagne,54847,2021-03-27,loué,1069.0,centre-ville,2697897.0,True,112361.0,ENT_ad93ce4a
+MAG_d4f6bfdc,"3, boulevard Besnard, 46102 Hoarauboeuf",Marchal,France,04555,2099-01-01,acheté,200.0,périphérie,1119384.0,False,,ENT_488b0131
+MAG_d6bda180,"rue Alain Fouquet, 38102 Sainte Adèle",Berger-sur-Clerc,Allemagne,10729,2019-09-27,loué,1054.0,rural,378476.0,True,132733.0,ENT_136bde4c
+MAG_a7c31390,"56, rue Anne Roche, 01301 Lebrun-la-Forêt",Fischer-sur-Neveu,France,70153,2024-05-26,acheté,988.0,centre-ville,430518.0,False,,ENT_8f17149a
+MAG_88c9d7d3,"4, rue Gaudin, 23874 Sainte Arnaude",Sainte Élisabeth-sur-Mer,Espagne,80143,2018-06-20,loué,168.0,industriel,1069134.0,False,,ENT_c5bf20e3
+MAG_5f2938c4,"27, chemin Lucie Gimenez, 59594 Dubois-sur-Weiss",Guillou,France,83304,2022-04-26,acheté,752.0,résidentiel,196720.0,False,,ENT_a40e5d69
+MAG_591a5d74,"chemin de Charles, 33250 Saint Jeannine",Joubert,France,54888,2025-10-20,acheté,445.0,zone commerciale,1951881.0,True,124574.0,ENT_944a72d6
+MAG_1b06521d,"91, rue de Bernard, 85917 PaulBourg",RobinBourg,Allemagne,11935,2017-07-05,acheté,1024.0,résidentiel,4769411.0,False,,ENT_a1fc8373
+MAG_a4473527,"695, rue Maggie Gay, 34206 Grenier-sur-Gros",Brun-sur-Navarro,France,68600,2019-06-30,acheté,648.0,zone commerciale,519704.0,True,109671.0,ENT_753b1590
+MAG_452e69f0,"6, rue de Huet, 24415 Imbertboeuf",Grenier,Allemagne,24634,2019-06-20,acheté,309.0,périphérie,1775786.0,True,17406.0,ENT_23e8e94f
+MAG_51281b0d,"98, avenue de Joubert, 43676 Fabre",Sauvage,N/A,93632,2099-01-01,acheté,1403.0,résidentiel,-345.3,False,,ENT_8e9e49b2
+BADID,"rue Véronique Collet, 57661 Sainte Sébastien",Dijoux,Allemagne,16693,2024-03-26,loué,520.0,résidentiel,2171068.0,False,,ENT_ed721e1e
+MAG_7f8a2fdb,"72, chemin de Marie, 25492 Leroux",Leduc,Espagne,49499,2022-12-17,acheté,1624.0,zone commerciale,867775.0,False,,ENT_a635203c
+MAG_cac371bb,"65, avenue de Noël, 84389 MathieuVille",Robin-les-Bains,France,68296,2022-02-09,loué,619.0,résidentiel,2301543.0,True,102907.0,ENT_650c2286
+MAG_2733868a,"57, avenue Richard, 13986 Sainte Thierry",PruvostVille,France,43167,2015-06-21,loué,1119.0,industriel,4061140.0,False,,ENT_9ee01edf
+MAG_300a4679,"1, boulevard Alexandrie Guillou, 50246 Grondin",Prévost,France,33294,2016-01-10,acheté,1367.0,résidentiel,2607954.0,True,77233.0,BADID
+MAG_f3c7965c,"9, rue Teixeira, 04419 Hernandez",Lelièvre,Portugal,18552,2022-08-14,loué,152.0,zone commerciale,1706329.0,False,,ENT_78e2091f
+MAG_9becf324,"811, boulevard Gérard Clerc, 09783 Bouvet",Renault,Espagne,12636,2020-10-27,acheté,743.0,périphérie,1528029.0,True,196223.0,ENT_537fce81
+MAG_0f7c263a,"365, rue Leroux, 92155 Daniel",Collet,France,11764,2023-10-30,loué,641.0,industriel,1301737.0,False,,ENT_67add145
+MAG_e21cddd2,"12, rue de Bonnet, 78891 Navarro-sur-Roussel",Boulanger-sur-Picard,Allemagne,80937,2019-04-17,loué,112.0,résidentiel,50000.0,False,,ENT_93764a82
+MAG_64049a3d,"95, avenue Peltier, 05522 BerthelotVille",Vallée,France,92487,2025-05-15,loué,413.0,périphérie,1472802.0,False,,ENT_6978c7cb
+MAG_99e2512c,"163, chemin Loiseau, 93722 Maurydan",Fournier,Allemagne,10743,2018-11-29,acheté,615.0,centre-ville,2190155.0,True,107529.0,ENT_9322598f
+MAG_052b8fde,"14, avenue de Legros, 45409 Legros",Normand,France,17759,2019-04-05,acheté,209.0,zone commerciale,50000.0,False,,ENT_136bde4c
+MAG_6062bb4f,"37, rue de Pichon, 31876 Hervé-sur-Nguyen",Torres,Espagne,38902,2025-12-06,acheté,974.0,zone commerciale,2976543.0,False,,ENT_a40e5d69
+MAG_c01a2e74,"57, rue Margot Arnaud, 40390 Sainte Jacqueline-sur-Mer",Chrétien-sur-Grégoire,France,55615,2016-02-24,loué,-159.48,rural,3806519.0,False,,ENT_1b1bed9f
+MAG_28160f25,"62, avenue de Rossi, 19925 Da Silvadan",Buisson,Allemagne,53484,2021-12-19,loué,1459.0,centre-ville,3030740.0,False,,ENT_4b260472
+MAG_fdf4d782,"32, chemin Hamon, 97478 Saint Robertdan",Sainte Carolinenec,France,62677,2021-08-02,loué,941.0,zone commerciale,1517358.0,True,51470.0,ENT_27c99c21
+MAG_2884f76e,"83, avenue de Brunel, 15948 Bazin",Lagarde,Italie,32443,2025-04-11,loué,685.0,industriel,2587656.0,False,,ENT_c45199db
+BADID,"14, chemin Agathe Vidal, 55667 Lefebvre",Saint Suzanne,France,11730,2021-09-15,loué,1433.0,zone commerciale,-401.88,False,,ENT_ad3c1977
+MAG_eaf13afa,"9, chemin Louis Benard, 63866 Laurent-la-Forêt",Vallée,France,13644,2016-07-04,loué,849.0,centre-ville,2540445.0,True,79590.0,ENT_d013dedd
+MAG_32ce6ba1,"965, boulevard de Chauveau, 77528 Saint Patriciadan",Barbe,France,06700,2021-10-27,loué,1728.0,résidentiel,2194895.0,True,138914.0,ENT_fc7f3f64
+MAG_f2d37bef,"452, rue Josette Baron, 27886 Charpentier-sur-Rocher",Mace,Allemagne,76636,2019-12-02,acheté,879.0,zone commerciale,3547295.0,True,69826.0,ENT_38926390
+MAG_f32f0bca,"1, rue de Rodrigues, 51702 Marques",Guilloudan,France,87271,2015-06-24,loué,1061.0,périphérie,1233353.0,False,,ENT_daa78fef
+MAG_f95d6f0a,"673, chemin Michel, 25708 De Oliveiradan",Deschamps-les-Bains,France,51548,2020-04-17,acheté,806.0,périphérie,2024033.0,False,,BADID
+MAG_d18d1aa6,"76, boulevard Da Costa, 93296 Gay",Briand,Italie,35855,2020-09-30,acheté,477.0,zone commerciale,1012179.0,False,,BADID
+MAG_c3fb1550,,Rodrigues,extra,58788,2023-10-24,inconnu,726.0,résidentiel,3696674.0,True,19551.0,ENT_821bbb5c
+MAG_0390fd5c,"6, avenue de Le Roux, 42329 Leconte-sur-Mer",Guérin-sur-Besnard,Allemagne,58221,2016-05-08,loué,1309.0,centre-ville,1960663.0,False,,ENT_b8638d83
+MAG_cff7c6cd,"19, boulevard de Roche, 13251 Sainte Zacharie-la-Forêt",Traore,inconnu,45215,2019-04-15,acheté,773.0,centre-ville,-197.34,True,169180.0,ENT_0b2af78e
+MAG_f594d14a,"6, rue Becker, 27453 Aubryboeuf",Prévost,Espagne,22102,2019-03-04,loué,50.0,périphérie,2298814.0,False,,ENT_2c9bed3f
+MAG_c58e5880,"37, rue Andre, 32297 Duhamel-sur-Cohen",Humbert-sur-Lefort,Allemagne,26966,2023-10-12,loué,352.0,centre-ville,4178126.0,False,,ENT_715cdf9b
+MAG_1387a20f,"52, rue de Auger, 97230 Michaud",Sainte Arthur-la-Forêt,France,57397,2016-07-05,loué,178.0,résidentiel,3930605.0,False,,ENT_08325797
+MAG_6913f050,"505, rue Paul Brunet, 19440 Sainte Adèle",Sainte Noël,Espagne,63216,2016-11-06,acheté,902.0,centre-ville,276454.0,False,,ENT_25c8b42d
+MAG_da1dc28f,,Leclerc-sur-Caron,Allemagne,39323,2022-03-12,loué,50.0,résidentiel,2555349.0,False,,ENT_UNKNOWN
+MAG_ecb8eec9,"53, rue Masson, 10641 Lemaître",Da Silva-sur-Colin,Allemagne,72141,2015-05-09,loué,340.0,centre-ville,50000.0,False,,ENT_8f17149a
+MAG_c1adeb95,,Rivièrenec,Espagne,17681,2025-01-07,loué,1790.0,zone commerciale,-118.83,False,,ENT_ed698f70
+MAG_8f3680ad,"rue Maury, 08826 Jacquot",Marques-la-Forêt,Italie,04587,2015-11-16,acheté,50.0,résidentiel,3771335.0,True,22764.0,ENT_c70bae29
+MAG_7c92f6a8,"3, rue Henriette Julien, 15630 Marty",Rodriguez,Allemagne,52621,2018-07-17,loué,123.0,centre-ville,2148890.0,False,,ENT_8f17149a
+MAG_ce3b69ec,"8, chemin Boutin, 68187 Grondin-sur-Millet",Denis-les-Bains,France,24198,2020-10-28,acheté,543.0,périphérie,534463.0,True,101881.0,ENT_83a053a2
+MAG_68fadd56,"17, chemin Virginie Dufour, 87116 Kleinnec",Turpin,France,71585,2016-02-04,loué,50.0,centre-ville,2688536.0,False,,ENT_918fe64f
+MAG_73c68f00,"rue Maggie Jacob, 66720 Rodriguez-sur-Mer",Jourdan-sur-Breton,Italie,20864,2025-09-01,loué,1990.0,zone commerciale,278906.0,False,,ENT_4d93a896
+MAG_9425b0fb,"avenue Alexandria Boucher, 31214 Clerc",Hamel,Italie,35111,2018-11-14,loué,302.0,industriel,3162546.0,False,,ENT_a635203c
+MAG_e89c2929,"786, boulevard Barbe, 54978 Saint Alix",Bouchet-sur-Mer,Espagne,88408,2019-03-18,loué,50.0,zone commerciale,815498.0,False,,ENT_6f5214ce
+MAG_2f167086,"boulevard Besnard, 42809 Delattre",Navarro-sur-Pascal,Allemagne,13964,2019-04-07,loué,904.0,résidentiel,758172.0,False,,ENT_ca6b2114
+MAG_0b97710b,"51, rue Léon Turpin, 97646 Cohen",Saint Sébastien,Allemagne,86406,2021-09-22,acheté,1059.0,zone commerciale,2619997.0,False,,ENT_2461bef5
+MAG_e8855bb1,"89, chemin Berger, 50374 Boulay",Deschamps,Espagne,20679,2025-10-18,loué,857.0,industriel,861565.0,False,,ENT_6e31725a
+MAG_bcf21e43,"10, chemin Grégoire Legendre, 57708 Henry-sur-Delmas",Guillot,Espagne,63837,2019-02-28,acheté,595.0,zone commerciale,2117496.0,False,,ENT_f515d7a1
+MAG_bbd59d5f,"43, avenue Rousseau, 94280 Moreau-la-Forêt",Royer,France,82765,2016-05-14,acheté,905.0,résidentiel,4140739.0,False,,ENT_23e8e94f
+MAG_4136afbe,"rue de Lucas, 07179 GimenezBourg",Blinboeuf,extra,42868,2099-01-01,loué,1165.0,rural,1435110.0,False,,ENT_UNKNOWN
+MAG_3f3f9aa4,"boulevard Hélène Salmon, 26777 AllainBourg",Mace-les-Bains,Portugal,06516,2023-01-07,acheté,1116.0,résidentiel,1016246.0,True,108237.0,ENT_2c9bed3f
+MAG_b5e7267d,"740, avenue Jacques, 93147 Roux",GiraudVille,Espagne,77460,2020-06-28,acheté,1091.0,zone commerciale,1646589.0,False,,ENT_a1d5e89a
+MAG_743a255b,"chemin Marie Lemaire, 30431 Delannoy",Rousset,France,30474,2025-01-18,loué,946.0,centre-ville,3513854.0,False,,ENT_ffab8032
+MAG_30730f47,"87, boulevard Andrée Hervé, 54280 Lefebvredan",Salmon,Allemagne,30676,2015-04-07,loué,1313.0,zone commerciale,695901.0,False,,ENT_a09053a8
+MAG_0436e032,"37, boulevard Blondel, 94958 Blondel-sur-Jourdan",Pages,Allemagne,09708,2024-10-30,loué,243.0,centre-ville,4666860.0,False,,ENT_733fcf33
+MAG_f123dbf7,"86, rue de Renault, 83934 Teixeira-les-Bains",Bertrand,France,83904,2022-01-24,loué,1166.0,zone commerciale,1555496.0,True,169134.0,ENT_b78f9045
+MAG_133e9e5a,"rue Maréchal, 30387 LegrosBourg",Delattre,Italie,36248,2018-10-18,acheté,310.0,centre-ville,2325942.0,True,65332.0,ENT_ed698f70
+MAG_68852bce,"59, rue de Lebreton, 09508 Adamboeuf",Leclercq-sur-Mer,Italie,70700,2020-07-03,acheté,739.0,centre-ville,1858755.0,False,,ENT_f25861b2
+MAG_a6a96de5,"24, chemin Patricia Grenier, 56753 Salmon",Saint Suzanne,Allemagne,94909,2017-01-05,loué,225.0,centre-ville,3430644.0,False,,ENT_4479af24
+MAG_796830bc,"49, chemin de Gonzalez, 29457 Hoareau-la-Forêt",Lombard,France,94399,2022-08-22,acheté,1024.0,zone commerciale,2684606.0,False,,ENT_27c99c21
+MAG_986aa972,"rue de Neveu, 01151 Mathieu",Gallet,Italie,38336,2024-10-17,loué,50.0,zone commerciale,50000.0,False,,ENT_6e31725a
+MAG_34983d4d,,Saint Aiméedan,France,33539,2019-07-29,loué,250.0,résidentiel,3160250.0,False,,ENT_UNKNOWN
+MAG_00ad79ac,"19, boulevard de Ribeiro, 16776 Lopesboeuf",Jacquot-sur-Reynaud,France,05123,2016-06-29,acheté,555.0,zone commerciale,448272.0,False,,ENT_944a72d6
+MAG_3ed8013f,"5, rue Marthe Besnard, 35576 Gautier",Saint Robert,Narnia,43272,2022-01-09,acheté,638.0,périphérie,2559554.0,True,112698.0,ENT_b0bccd0c
+MAG_5d3f27d1,"696, boulevard de Letellier, 23348 Verdier",Saint Adrien,Allemagne,25150,2024-09-02,loué,787.0,rural,4002992.0,True,29092.0,ENT_38926390
+MAG_0cd96540,"94, avenue de Chevalier, 86476 Sainte Philippine",Baron,Espagne,86123,2016-03-27,loué,1420.0,résidentiel,810488.0,False,,ENT_747f38bc
+MAG_7d9188d6,"82, rue Hugues Blot, 50319 Gimenez",Delannoy,Espagne,24260,2024-07-13,acheté,662.0,industriel,3217973.0,False,,ENT_UNKNOWN
+MAG_ebd1491e,"68, chemin Roland Muller, 15219 Pelletier-sur-Thierry",JulienVille,Allemagne,97275,2018-01-20,loué,976.0,industriel,4075654.0,True,84426.0,ENT_b78f9045
+MAG_ec984532,"boulevard Bonnin, 51100 GauthierBourg",Grenier,France,01167,2020-11-04,loué,909.0,résidentiel,1109367.0,False,,ENT_UNKNOWN
+MAG_6ce111cb,"34, chemin Cousin, 50564 LaunayBourg",Brunel,Allemagne,97326,2021-03-11,acheté,389.0,résidentiel,1966002.0,True,142801.0,ENT_8c32638c
+MAG_4715749a,"chemin Jacques Roy, 60259 Marie-sur-Mer",Valentin,Allemagne,81655,2015-01-30,acheté,511.0,zone commerciale,210754.0,False,,ENT_1a93892f
+MAG_20b5ad05,"62, boulevard Marthe Denis, 39278 Delahaye",Lejeunenec,Allemagne,92170,2017-06-28,loué,749.0,résidentiel,2090620.0,False,,ENT_ad3c1977
+MAG_e71cb103,"avenue de Pineau, 31246 Boutindan",Guichard,France,50238,2019-04-09,loué,674.0,centre-ville,3500653.0,False,,ENT_875e2393
+MAG_88b5448d,"3, chemin de Gilles, 97441 Sainte Anaïsnec",Lacroix,Espagne,52638,2024-12-02,acheté,420.0,zone commerciale,2542269.0,False,,ENT_9689c2e7
+MAG_cd58b787,"50, avenue de Godard, 40120 Le Roux",Henry,France,23155,2021-09-09,acheté,194.0,résidentiel,5597105.0,False,,ENT_184ade7b
+MAG_995abd15,"38, avenue Muller, 35395 Sainte Arnaude",Fernandes,France,35523,2022-05-24,loué,472.0,centre-ville,50000.0,False,,ENT_e95b600c
+MAG_c98d6678,"9, chemin de Loiseau, 74371 Sainte Gérardboeuf",FouquetVille,Allemagne,74657,2016-07-04,loué,683.0,rural,2340003.0,False,,ENT_a1d5e89a
+MAG_1ec4b013,"rue de Roussel, 81996 Normand",Mahe,France,23467,2020-09-21,loué,1241.0,zone commerciale,3609752.0,False,,ENT_2c9bed3f
+MAG_d82845f9,"22, chemin Royer, 80220 Guillou",Coulon,Espagne,39388,2023-08-31,acheté,1111.0,industriel,3261389.0,False,,ENT_ad3c1977
+MAG_1eb73449,"34, chemin de Arnaud, 37621 Marchal",Sainte Sylvie,France,94805,2024-08-07,loué,1352.0,résidentiel,2371086.0,False,,ENT_05049c9a
+MAG_5bd89e9f,"94, boulevard David Fernandez, 65754 BertrandVille",Benard,France,20985,2021-05-14,loué,419.0,industriel,2133642.0,False,,ENT_25fd6ccf
+MAG_5e38796f,"boulevard Nathalie Lenoir, 41962 Julien-les-Bains",Hoareau,Italie,14553,2016-04-27,loué,442.0,résidentiel,3573823.0,False,,ENT_1eedbec5
+MAG_a6c1d387,"88, boulevard Bertrand, 14242 Pintodan",Couturier-sur-Ruiz,France,92743,2023-02-12,loué,1431.0,centre-ville,274337.0,True,140099.0,ENT_UNKNOWN
+MAG_b1c8b9f3,"284, rue Garnier, 73535 Lagarde",Jacobboeuf,Portugal,91316,2023-04-29,loué,1331.0,zone commerciale,1140047.0,False,,ENT_31302049
+BADID,"58, avenue Alexandria Chrétien, 34679 Cordier-sur-Martinez",Maillotdan,extra,46508,2022-12-28,loué,984.0,résidentiel,3241090.0,False,,ENT_0bf703b9
+MAG_780ee212,"64, rue de Royer, 30217 Sainte MargotBourg",Laine-la-Forêt,France,20809,2023-06-02,loué,81.0,zone commerciale,3293523.0,False,,ENT_e95b600c
+MAG_2441ea27,"790, rue Brunet, 91969 Leclerc",Blin,Allemagne,63469,2025-07-29,loué,50.0,zone commerciale,1701086.0,False,,ENT_78768a78
+MAG_09f1a83b,"21, rue Deschamps, 84273 Andre-sur-Torres",Adam-les-Bains,France,28432,2017-12-12,loué,1288.0,rural,3990420.0,False,,ENT_ce3f628c
+MAG_d289da86,"74, avenue de Prévost, 20252 LouisBourg",Martineau-sur-Moreno,France,97150,2024-06-21,loué,1204.0,résidentiel,1153232.0,False,,ENT_93769424
+MAG_9b306a0f,"chemin de Perret, 16946 Gillet",Lopez-sur-De Oliveira,Espagne,09442,2015-04-09,acheté,500.0,rural,1786233.0,False,,ENT_488b0131
+MAG_e1d2eb08,"41, rue de Breton, 93776 Lebrun",BuissonBourg,France,92666,2024-11-12,loué,827.0,périphérie,3313005.0,False,,ENT_ca6b2114
+MAG_90066e4d,"94, chemin de Morel, 26103 Sainte Isabelle-la-Forêt",Allard,Allemagne,57384,2021-12-18,loué,768.0,centre-ville,1307568.0,False,,ENT_3a9f1c27
+MAG_aba3360b,"73, boulevard de Clément, 61721 Saint Guy",Bonneau,France,39777,2020-01-30,loué,621.0,zone commerciale,3703643.0,False,,ENT_b28ff9ac
+MAG_6ebc1936,"56, rue Valérie Lacroix, 56346 Bouvet-les-Bains",Saint Gilbert,Portugal,67461,2017-01-24,loué,1562.0,centre-ville,3426116.0,True,82809.0,ENT_762127fd
+MAG_06a04ea8,"622, rue de Gimenez, 08694 Boyer",LeroyVille,France,72535,2023-11-04,acheté,-242.95,centre-ville,1326338.0,False,,ENT_UNKNOWN
+MAG_98711c1f,"rue Geneviève Samson, 19842 Gauthier",Saint Édouard,France,09469,2016-01-14,loué,746.0,résidentiel,1794876.0,False,,ENT_c2902386
+MAG_ec3e82fc,,Sainte Yvesdan,Italie,97367,2019-12-28,loué,1378.0,périphérie,1189329.0,False,,ENT_UNKNOWN
+MAG_8bc0b502,"90, avenue Éléonore Charpentier, 90709 Laine",Jacquetdan,France,05638,2019-06-23,loué,856.0,résidentiel,2502828.0,False,,ENT_b1bd5c54
+BADID,"96, avenue Brigitte Schmitt, 66302 Chauveau",ThierryBourg,France,39236,2019-04-29,loué,-33.12,zone commerciale,2593528.0,True,115276.0,ENT_b8638d83
+MAG_11f6f2b4,"avenue Diaz, 95632 Dupont",Cordier,Espagne,86909,2015-07-11,loué,561.0,zone commerciale,1430917.0,False,,ENT_74a3cf3e
+MAG_9acf7ff0,"25, rue de Barbe, 46266 Sainte Maurice",Carlier,Espagne,23365,2015-02-19,loué,924.0,résidentiel,1716698.0,False,,ENT_b6a3f3ce
+MAG_e071f362,"446, rue Guibert, 86883 Sainte DianeBourg",Morin,Espagne,55338,2024-04-29,loué,334.0,zone commerciale,1340722.0,False,,ENT_UNKNOWN
+MAG_bba7d988,"65, boulevard Émile Gauthier, 63651 Saint Aurélie-sur-Mer",Berthelotdan,France,20547,2016-06-24,loué,886.0,résidentiel,3782110.0,False,,ENT_fc7f3f64
+MAG_baf886d3,"27, rue Alphonse Pages, 23494 Rodriguez",Navarro,Italie,97286,2017-04-19,loué,329.0,zone commerciale,348717.0,False,,ENT_56aef086
+MAG_4a31c83a,"38, boulevard de Techer, 58190 Delahaye-sur-Mer",Lefort-sur-David,Allemagne,84894,2015-05-14,loué,596.0,zone commerciale,729239.0,True,118021.0,ENT_ada6cdad
+MAG_5de0785b,"4, boulevard Lombard, 48803 Martinez",Roche-les-Bains,Italie,80513,2020-02-04,loué,350.0,résidentiel,5306216.0,True,79074.0,ENT_1a93892f
+MAG_0fb19213,"898, rue de Legros, 20213 Texier",Sainte Philippe-les-Bains,France,31532,2024-05-03,acheté,413.0,résidentiel,2285469.0,False,,ENT_0bf703b9
+MAG_8dfd45ec,"24, avenue Aimée Da Silva, 47126 Besnarddan",RodriguezVille,France,08721,2016-10-09,loué,1274.0,résidentiel,382415.0,True,105896.0,ENT_de2a8002
+MAG_65f14741,"9, chemin Samson, 31965 Delmas-sur-Vallée",Reynaud-les-Bains,Allemagne,50138,2019-01-03,loué,1027.0,zone commerciale,50000.0,False,,ENT_14c3f1bd
+MAG_a8f17276,"92, boulevard Brun, 08591 Meunier",Sainte Odette,France,62930,2024-10-30,loué,771.0,zone commerciale,3127463.0,True,95456.0,ENT_650c2286
+MAG_72f61285,"803, rue de Leleu, 86795 Langlois",Gauthier,Portugal,43861,2018-10-14,loué,744.0,résidentiel,1947579.0,True,93024.0,BADID
+MAG_0d1b82a4,"67, rue Jeanne Alves, 47989 Techer-sur-Gilles",Roy-sur-Delmas,France,83981,2019-07-30,acheté,72.0,zone commerciale,778504.0,False,,ENT_0b2af78e
+MAG_307426fc,"63, rue Michaud, 01866 BazinBourg",Hervé-les-Bains,Espagne,01234,2024-02-10,loué,1561.0,périphérie,2306875.0,False,,ENT_UNKNOWN
+MAG_280a08dc,"839, boulevard de Jourdan, 53499 Jacob",Costa,Espagne,18658,2025-09-26,acheté,1141.0,centre-ville,1074016.0,False,,ENT_c70bae29
+MAG_cd65e834,"rue Perrier, 64185 Laine",Marchal,Allemagne,54679,2020-08-18,acheté,660.0,centre-ville,50000.0,True,123540.0,ENT_650c2286
+MAG_15066779,"14, chemin de Maillet, 64735 Guillot",Breton,France,47315,2021-05-11,loué,759.0,résidentiel,3943127.0,False,,ENT_4479af24
+MAG_ad273b03,"37, rue Marie, 08265 Sainte Éléonore-les-Bains",Saint Renée-sur-Mer,Allemagne,67291,2022-02-03,acheté,50.0,centre-ville,3103726.0,False,,ENT_de2a8002
+MAG_b143fad7,,Lemonnier,inconnu,46849,2024-12-16,loué,-235.2,zone commerciale,5889088.0,False,,BADID
+MAG_18ee2131,"729, rue Fernandez, 82154 Lucas",Mercier-sur-Antoine,Allemagne,23610,2017-01-01,acheté,50.0,rural,4072183.0,True,194738.0,ENT_25c8b42d
+MAG_a8c9d198,"75, avenue de Bruneau, 82921 Gallet-sur-Mer",Aubert,Espagne,14259,2023-01-08,loué,605.0,périphérie,1708315.0,False,,ENT_4479af24
+MAG_f11c03f9,"21, chemin Baudry, 57624 Saint Zoé",Sainte Martin-les-Bains,France,92585,2025-03-15,acheté,450.0,industriel,3976525.0,True,51207.0,ENT_a635203c
+MAG_d2b29976,"28, rue Bouvet, 73554 Vincent-sur-Hamel",Lopes-sur-Monnier,France,84726,2019-09-09,acheté,467.0,périphérie,3014458.0,True,5000.0,ENT_ccedccdd
+MAG_e5dddd59,"20, rue Tanguy, 11198 Sainte Adrienne",Martel,France,25919,2020-05-28,loué,50.0,centre-ville,1654520.0,False,,ENT_b8f8cfd3
+MAG_6ba75f98,"boulevard Berthelot, 13548 Lagarde-les-Bains",Verdier,Italie,79338,2015-03-05,loué,196.0,résidentiel,2351024.0,False,,ENT_fa3ef37b
+MAG_13f430fe,"12, rue Isabelle Torres, 42639 Guillou-la-Forêt",Moreno,France,91374,2020-11-29,loué,825.0,centre-ville,3399749.0,False,,ENT_93764a82
+MAG_ebc8dde2,"8, boulevard Raymond, 57523 Caronboeuf",Sainte Patricia,France,73559,2017-11-14,acheté,50.0,résidentiel,2645565.0,False,,ENT_4d656685
+MAG_b0d376f7,"73, avenue de Bourgeois, 41247 Pierrenec",Boulanger,France,97254,2021-04-27,loué,1525.0,périphérie,1335599.0,True,42502.0,BADID
+MAG_0edacab2,"94, boulevard Patricia Fontaine, 12279 Saint Margaux-sur-Mer",Saint Alexandriaboeuf,Portugal,31796,2023-11-13,loué,525.0,centre-ville,2849225.0,True,39139.0,ENT_14c3f1bd
+MAG_549e0e07,"48, boulevard Guillet, 77175 Marin-les-Bains",Langlois-la-Forêt,Espagne,63250,2018-02-18,loué,1148.0,rural,1962026.0,False,,ENT_315d5257
+MAG_b15d4aa4,"85, chemin Rossi, 94391 Picard",MaheVille,Espagne,97252,2017-02-22,loué,311.0,centre-ville,223139.0,False,,ENT_1df6716d
+BADID,"60, rue de Masson, 25148 Gomez",Hamonnec,Allemagne,35971,2025-08-19,acheté,1062.0,centre-ville,2616107.0,True,113875.0,ENT_4d656685
+MAG_1062229b,"88, rue de Hubert, 49205 Charlesboeuf",Legrosboeuf,Espagne,41955,2024-12-03,acheté,403.0,périphérie,4966493.0,True,159145.0,ENT_d1b8b791
+MAG_5f3fbda7,"5, rue Toussaint, 75244 FrançoisVille",Saint Alex,Espagne,48657,2024-04-23,acheté,547.0,zone commerciale,1918593.0,True,96867.0,ENT_ed0b783d
+MAG_e67eb817,"62, boulevard Jacquot, 20554 Raymondboeuf",Sainte Luce,France,97139,2024-11-05,acheté,204.0,zone commerciale,468859.0,False,,ENT_9689c2e7
+MAG_f4bb6d88,"8, rue Jérôme Jacquot, 11434 Sainte Nicolenec",Sainte Valentine,Italie,46144,2020-08-20,acheté,744.0,centre-ville,3164994.0,False,,ENT_48ae8b4d
+MAG_206ff128,,Bigotnec,Allemagne,93799,2023-01-13,loué,-479.78,zone commerciale,1936050.0,True,44785.0,ENT_c73864c5
+MAG_3401f21d,"rue Caroline Blin, 68344 Lejeune",Saint Élisabethnec,Portugal,75450,2025-02-04,loué,499.0,périphérie,73829.0,False,,ENT_766758d3
+MAG_80f702cb,"rue Joly, 46582 Gilles-sur-Nguyen",Perrier-sur-Fouquet,Portugal,88911,2020-05-25,loué,540.0,zone commerciale,4163592.0,False,,ENT_715cdf9b
+MAG_6bfc10c3,"663, boulevard de Delorme, 47542 Fischer",Sainte Carolinedan,France,80115,2021-01-27,acheté,1662.0,zone commerciale,2921284.0,False,,ENT_25c4cf72
+MAG_7ec386ed,"rue Georges Benard, 24425 Legendre",Berthelot,Allemagne,23142,2018-07-20,loué,828.0,périphérie,50000.0,False,,ENT_e3881d17
+MAG_4b4c6281,"7, boulevard Bigot, 82915 Leconte",Launay,France,13368,2016-03-02,acheté,50.0,résidentiel,2283078.0,False,,ENT_762127fd
+MAG_17b53b69,"rue Gilbert Perret, 82140 MassonBourg",Sainte Célina-la-Forêt,Portugal,51849,2020-04-06,loué,601.0,rural,1178917.0,False,,ENT_86e51b72
+MAG_58f9f5b3,"80, chemin Constance Buisson, 91260 Dupuyboeuf",Poulain,France,10445,2018-04-01,loué,999.0,résidentiel,50000.0,False,,ENT_dcb0e5d0
+MAG_70359e5a,"9, rue Bernier, 12106 MichelVille",Descamps,Portugal,56891,2020-09-29,acheté,1531.0,centre-ville,4793860.0,False,,ENT_2c9bed3f
+MAG_b53de8b9,"4, avenue de Daniel, 77293 Brun",Lemaire,France,42544,2023-08-08,loué,1145.0,industriel,1547954.0,False,,ENT_42e7d49e
+MAG_5b402c5c,,Françoisnec,France,27164,2018-07-15,N/A,-477.18,centre-ville,1537419.0,False,,BADID
+MAG_62f5c5f4,"avenue Édith Barthelemy, 97487 HamelVille",Vallet,France,87756,2022-11-16,acheté,960.0,résidentiel,3513399.0,False,,ENT_UNKNOWN
+MAG_f6295192,"81, avenue Pauline Picard, 69151 Nguyennec",Chrétien,Espagne,25849,2024-12-01,loué,1025.0,périphérie,3891370.0,False,,ENT_4d93a896
+MAG_af240fab,"1, avenue Pages, 75353 Saint Bernadette",Bazin,France,62738,2099-01-01,inconnu,1076.0,centre-ville,3549844.0,False,,ENT_83a053a2
+MAG_2291167f,"3, rue Bigot, 40512 GoncalvesBourg",Pereira-sur-Fouquet,Allemagne,87324,2024-10-24,loué,785.0,centre-ville,276442.0,False,,ENT_4d93a896
+MAG_f63a0d22,"719, chemin Véronique Renard, 05653 Pelletier",Sainte Olivie-la-Forêt,Allemagne,87622,2015-05-31,acheté,1443.0,centre-ville,5277655.0,False,,ENT_4b260472
+MAG_38a378d4,"219, chemin Thérèse Pages, 44671 Bonnin",Jourdan,Allemagne,07788,2022-01-15,loué,527.0,zone commerciale,2710099.0,True,94765.0,ENT_328e7e38
+MAG_02d6be45,"783, chemin Chevalier, 30451 Millet",NavarroBourg,inconnu,23610,2099-01-01,loué,816.0,centre-ville,2126977.0,True,62377.0,ENT_c70bae29
+MAG_7aab01d7,"boulevard de Lenoir, 15669 Besson",Bigot-sur-Bousquet,France,04776,2018-03-16,loué,421.0,zone commerciale,921849.0,False,,ENT_acfa1f66
+MAG_2ab8a583,"3, boulevard Timothée Gilbert, 62432 Maillard-les-Bains",Sainte Moniquenec,Espagne,35586,2021-07-09,acheté,764.0,résidentiel,1703094.0,False,,ENT_UNKNOWN
+MAG_b91c78a8,"73, boulevard Denise Thierry, 71929 Breton-la-Forêt",Buissonboeuf,Allemagne,14195,2021-11-08,acheté,935.0,résidentiel,2909264.0,True,108500.0,ENT_0bd03a1c
+MAG_b92d11ce,"avenue Morvan, 03582 Baudry-sur-Mer",BernierVille,France,38793,2024-02-07,acheté,729.0,résidentiel,789837.0,False,,ENT_86e51b72
+MAG_971be5be,"72, chemin Barthelemy, 92734 Saint Michelle",Sauvage,Espagne,27816,2017-01-16,acheté,1295.0,centre-ville,1271819.0,True,27836.0,ENT_a1d5e89a
+MAG_0443be22,"8, rue Legrand, 37947 Goncalves",Voisin,Allemagne,74712,2022-03-11,loué,484.0,zone commerciale,3918881.0,False,,ENT_UNKNOWN
+MAG_f38e7788,"22, boulevard Jeanne Andre, 76503 Letellier",Marty,Allemagne,95251,2016-06-05,loué,603.0,industriel,50000.0,False,,ENT_4449145c
+MAG_03c47f61,"89, chemin Isabelle Pineau, 15507 Fleury-les-Bains",Aubry,France,97416,2099-01-01,loué,-342.99,centre-ville,1176262.0,False,,ENT_UNKNOWN
+MAG_26eb565e,"806, rue Jacquot, 81992 Sainte Eugène-sur-Mer",Lecomte,France,35519,2021-12-05,acheté,439.0,zone commerciale,1791340.0,False,,ENT_UNKNOWN
+MAG_cc8d8e95,"836, chemin de Fischer, 60718 Moreau-sur-Moreau",Couturier-la-Forêt,France,27651,2015-06-11,acheté,50.0,résidentiel,1309763.0,True,5000.0,ENT_6e31725a
+MAG_95f9f582,"15, rue Payet, 93724 Rodrigues",Sainte Xavier-les-Bains,Narnia,85816,2018-01-23,acheté,-267.89,centre-ville,1540175.0,True,108055.0,ENT_537fce81
+MAG_63976ef8,"16, avenue Gimenez, 75715 Pottier",Guillou,France,03599,2025-05-20,loué,1245.0,zone commerciale,2058691.0,True,79910.0,ENT_ef052064
+BADID,,PintoBourg,Italie,66260,2019-03-29,loué,775.0,résidentiel,1165499.0,False,,ENT_390b4f10
+MAG_116c1e96,"9, rue Blanchard, 83624 Lecomtenec",Humbert,Allemagne,13910,2018-09-10,acheté,890.0,industriel,3972889.0,True,60529.0,ENT_c45199db
+MAG_bb795cd8,"772, chemin Rousseau, 45646 Normand-la-Forêt",Roy,France,78253,2016-03-27,loué,919.0,centre-ville,778731.0,False,,BADID
+MAG_08be3593,"99, chemin Audrey Thibault, 83212 Grondinnec",Lemoine,Espagne,32839,2023-09-10,loué,650.0,résidentiel,3661670.0,False,,ENT_f515d7a1
+MAG_0f57206f,"5, avenue Colas, 16958 Imbert-sur-Lenoir",Sainte Nathboeuf,Allemagne,15748,2022-04-19,acheté,839.0,zone commerciale,50000.0,False,,ENT_9689c2e7
+MAG_579e05f2,"rue de Blanchard, 31679 Sainte Adélaïde",PruvostBourg,Espagne,85205,2019-06-23,acheté,478.0,résidentiel,276429.0,True,101691.0,ENT_10f9c6eb
+MAG_7f402935,"28, avenue de Bouvier, 10189 Boulay-sur-Rodrigues",Ollivier-sur-Bouchet,France,54342,2020-06-09,loué,842.0,résidentiel,738074.0,False,,ENT_ada6cdad
+MAG_8484b190,"rue Corinne Lelièvre, 18170 Rochedan",Sainte Honoré,Espagne,53871,2020-09-23,loué,1206.0,rural,2135070.0,False,,ENT_c8fb0b52
+MAG_b85cbb10,"203, avenue Simon, 70125 Saint Dorothée",De OliveiraBourg,France,55637,2015-06-25,loué,1472.0,zone commerciale,2520675.0,False,,ENT_a1d5e89a
+MAG_05113258,"33, boulevard de Briand, 16560 Delahayedan",Vincent,Portugal,97492,2018-09-14,loué,551.0,centre-ville,1234629.0,False,,ENT_a635203c
+MAG_11bd9b93,"5, rue de Guibert, 36374 Saint Frédérique",Augerboeuf,Espagne,07863,2025-08-14,loué,619.0,zone commerciale,2740422.0,False,,ENT_67add145
+MAG_51a1e53e,"rue Stéphane Nguyen, 62263 Pottier",Bertrand,Portugal,55551,2016-01-10,loué,937.0,zone commerciale,620831.0,True,7916.0,ENT_0bf703b9
+MAG_4726504f,"798, rue Lévy, 54925 Sainte Denise",Le Roux,Portugal,82687,2018-11-17,loué,1920.0,résidentiel,2828948.0,False,,ENT_3a9f1c27
+MAG_89781da0,"avenue Marie Fleury, 97433 Saint Océane",Blanc-la-Forêt,France,29746,2024-03-21,loué,836.0,résidentiel,50000.0,True,112550.0,ENT_c051336a
+MAG_4895424c,"42, rue de Boulay, 92621 Deschamps",Saint Robert,France,22420,2019-02-17,loué,995.0,industriel,1143921.0,True,80929.0,ENT_e82a0a90
+MAG_6d7df0ed,"41, avenue Chevallier, 40836 Lucas",GuyotBourg,Espagne,44996,2022-05-14,loué,762.0,zone commerciale,2946862.0,False,,ENT_7f3e0f98
+MAG_32c75e44,"28, avenue Leclerc, 08200 Leclerc-sur-Rey",Perez,France,72957,2099-01-01,acheté,936.0,périphérie,2787608.0,True,85577.0,ENT_UNKNOWN
+MAG_1019661f,"82, rue Lopes, 59482 Sainte Pauline",Didier,Allemagne,27389,2099-01-01,loué,383.0,industriel,4909352.0,True,141759.0,ENT_UNKNOWN
+MAG_7b51f3b9,"78, rue Roland Leblanc, 61798 Saint Susanne-la-Forêt",LangloisBourg,France,83728,2022-07-02,acheté,1769.0,zone commerciale,1169644.0,False,,ENT_ad93ce4a
+MAG_d4b07803,"3, rue de Adam, 43775 Blanc",Roche,France,47169,2022-02-06,loué,1136.0,rural,4732728.0,False,,ENT_821bbb5c
+MAG_1d5cd1fe,"620, rue Joseph Menard, 41928 LeclercqVille",Saint JulieBourg,Allemagne,74944,2020-07-17,loué,1520.0,zone commerciale,50000.0,False,,ENT_51124079
+MAG_485f2689,"6, rue Valérie Berthelot, 92498 Delmas-sur-Maurice",Sainte Benjamin,Portugal,73305,2016-06-10,acheté,723.0,rural,1245293.0,False,,ENT_650c2286
+MAG_68002210,"28, rue de Dupuy, 47367 CouturierVille",Sainte Patriciadan,Allemagne,77485,2015-06-09,acheté,1228.0,zone commerciale,3418547.0,False,,ENT_2784aa34
+MAG_4b4b498c,"283, rue Amélie Marchand, 48500 Dupuis",Dos Santos-les-Bains,France,45963,2021-05-10,acheté,209.0,industriel,939212.0,False,,ENT_ed0b783d
+MAG_8cd0a7a5,"76, avenue Éric Bailly, 60315 PerretBourg",Louis-sur-Vasseur,France,68773,2019-08-13,acheté,50.0,rural,1867391.0,False,,ENT_a635203c
+MAG_deb9b966,"164, avenue de Marques, 34556 Muller",Boucher,Allemagne,93143,2019-02-11,loué,656.0,centre-ville,2697036.0,False,,ENT_UNKNOWN
+MAG_c0ed4bc2,"80, avenue Thérèse Vincent, 19551 Étienne-sur-Mer",Saint Camille,France,54647,2016-01-10,loué,1702.0,résidentiel,2401501.0,False,,ENT_2c9bed3f
+MAG_da1bddd7,"95, boulevard de Cordier, 86844 Grégoire",MaillotBourg,France,20887,2015-05-24,loué,1202.0,résidentiel,1473275.0,True,65045.0,ENT_25fd6ccf
+MAG_711f1ff0,"48, chemin de Gillet, 54902 Philippe",Verdierboeuf,Espagne,23136,2024-12-05,loué,710.0,centre-ville,2260886.0,False,,ENT_650c2286
+MAG_6a1f3517,,Sainte Marc-les-Bains,Allemagne,48889,2016-04-26,Narnia,646.0,industriel,802193.0,True,20452.0,ENT_ecd91e76
+MAG_a3bb70f9,"24, boulevard de Perez, 90567 Saint ThierryVille",Sainte André,Espagne,71827,2025-10-22,loué,285.0,zone commerciale,590611.0,True,120348.0,ENT_8bf86e46
+MAG_173b628a,"74, avenue Clémence Peltier, 92329 Sainte Roland-la-Forêt",Garcia,France,03173,2023-04-27,loué,445.0,résidentiel,825766.0,False,,ENT_7d51b7bc
+MAG_45719a2e,"4, chemin de Bonnin, 66872 Legrand",ChartierBourg,Allemagne,01305,2024-06-06,loué,1637.0,résidentiel,3626888.0,False,,ENT_8ec01017
+MAG_d519c2f0,"rue Maurice Blot, 54636 Gautier-la-Forêt",Saint Julien,France,13185,2016-06-04,loué,1045.0,périphérie,1390182.0,False,,ENT_315d5257
+MAG_7e30c54d,"75, chemin de Vidal, 54690 Carpentier",Weber,Portugal,97474,2020-10-08,acheté,768.0,centre-ville,4369123.0,False,,ENT_9ee01edf
+MAG_489a1cf0,"6, avenue Mendès, 72701 Delahaye",Chauveau,Italie,24555,2018-12-27,loué,263.0,centre-ville,3225018.0,True,64520.0,ENT_c8fb0b52
+MAG_ccddf009,,Dos SantosBourg,inconnu,34863,2019-12-21,loué,713.0,centre-ville,-119.03,True,68230.0,BADID
+MAG_da9cd0d9,"137, boulevard Fabre, 65781 Bouchet",Boulanger,Allemagne,11818,2017-09-23,loué,723.0,centre-ville,2745473.0,False,,ENT_31302049
+MAG_9684e479,"366, avenue Françoise Godard, 69306 Leroux-sur-Toussaint",Sainte Michelle-la-Forêt,Italie,97434,2019-08-02,loué,954.0,centre-ville,3565869.0,True,64760.0,ENT_f515d7a1
+MAG_7a07eb09,"avenue de Fischer, 86251 Webernec",Bazinnec,France,17762,2024-12-15,loué,349.0,centre-ville,3531150.0,True,153894.0,ENT_7d51b7bc
+MAG_c87431f9,"5, boulevard Simone Bègue, 44586 Delaunay",Ollivier,Portugal,64143,2021-05-21,loué,1367.0,centre-ville,3891936.0,False,,ENT_c73864c5
+MAG_58be8238,"353, avenue Odette Guillet, 02232 Couturier",Saint Anouk,Allemagne,83678,2099-01-01,acheté,825.0,périphérie,1641219.0,False,,ENT_2784aa34
+MAG_9024c076,"52, rue de Renault, 02581 MaheBourg",Valette,Allemagne,10585,2020-03-26,loué,50.0,résidentiel,2148948.0,False,,ENT_eed0e026
+BADID,"boulevard de Poirier, 77161 Lambert-les-Bains",Julien,Italie,72292,2017-05-20,loué,-172.43,centre-ville,1676392.0,True,169110.0,ENT_UNKNOWN
+MAG_b269087d,"77, rue Guillaume Jacquot, 09799 Roussel",Benoit,France,01611,2020-01-26,acheté,207.0,zone commerciale,1590594.0,True,109010.0,ENT_6e31725a
+MAG_e1ad538d,"93, avenue Valérie Paul, 43734 Augernec",Da Costa-sur-Labbé,France,01767,2019-02-09,acheté,1207.0,rural,2838388.0,False,,ENT_93764a82
+MAG_0d56b85a,,LaurentVille,Allemagne,03326,2022-09-14,loué,550.0,zone commerciale,4675520.0,False,,ENT_fc132e69
+MAG_086b72b6,"77, rue Pineau, 01229 Bertin",Lacombe-sur-Mer,Espagne,90371,2024-08-20,loué,957.0,centre-ville,3270144.0,True,7018.0,BADID
+MAG_96596f7c,"avenue Allain, 97336 Blanc-les-Bains",Fabre-la-Forêt,Espagne,97292,2024-03-28,loué,1418.0,rural,2182911.0,False,,ENT_486cfa41
+MAG_2aabdd7d,"4, rue Loiseau, 54847 Barbier",Saint LouiseBourg,France,78447,2018-01-07,loué,802.0,centre-ville,4502715.0,True,118290.0,ENT_6e31725a
+MAG_32725d88,"4, boulevard Alain Lefèvre, 87625 Lopez",Maillet-sur-Mer,Italie,80341,2022-02-14,acheté,961.0,centre-ville,3739956.0,False,,ENT_e95b600c
+MAG_bcd701e6,"540, rue Virginie Becker, 26626 Besson",Peltier,Allemagne,19209,2023-06-03,loué,222.0,zone commerciale,1829191.0,False,,ENT_e95b600c
+MAG_b4b68aab,"732, avenue Giraud, 67123 Saint Margaux-sur-Mer",Ferreira,Espagne,06408,2019-12-17,loué,1070.0,industriel,2795911.0,False,,ENT_c8fb0b52
+MAG_794e8e1c,"33, rue Christine Dubois, 89171 LarocheBourg",Sainte Hugues,Espagne,72228,2017-06-03,acheté,516.0,centre-ville,50000.0,False,,ENT_762127fd
+MAG_a3dbcee2,"avenue Marine Gay, 57417 Sainte Nicole",MasseVille,France,75175,2022-05-25,loué,326.0,zone commerciale,6181124.0,True,5000.0,ENT_b1bd5c54
+MAG_88e477a0,"70, rue Riou, 54649 Laroche",Guérin,France,28716,2021-10-29,loué,50.0,centre-ville,1748634.0,False,,ENT_25fd6ccf
+MAG_fa89ab52,"chemin Didier, 12830 Saint Brigitte",Renaud-sur-Mer,Italie,82427,2024-01-22,loué,653.0,périphérie,2063241.0,False,,ENT_d013dedd
+MAG_8c327a0d,"9, avenue de Bouvier, 76290 Leroy-sur-Mer",Sainte Frédérique,extra,53337,2024-08-31,Narnia,759.0,industriel,529405.0,False,,ENT_UNKNOWN
+MAG_188e539e,"46, rue de Brun, 36568 Maréchal",Carlier-sur-Petitjean,France,52653,2025-03-16,acheté,1309.0,rural,50000.0,False,,ENT_fc7f3f64
+MAG_dfdcc42d,"4, boulevard Vidal, 33424 Couturier-sur-Gallet",Lopeznec,France,19150,2016-05-16,acheté,1735.0,rural,2677683.0,False,,ENT_a40e5d69
+MAG_332035b2,"609, avenue Antoinette Diaz, 33534 Cordierdan",Maréchal,Allemagne,73327,2017-01-03,acheté,344.0,zone commerciale,964245.0,False,,ENT_99464fe7
+MAG_3472bf52,"98, boulevard Georges, 23569 Sainte Océane",Aubertnec,Italie,90518,2017-10-04,loué,129.0,industriel,2074331.0,True,137201.0,ENT_bd42c5dd
+BADID,"12, boulevard de Pasquier, 04494 Barbe",Bousquet,Narnia,97652,2016-08-10,loué,784.0,zone commerciale,1913338.0,False,,ENT_9cd453f7
+MAG_bf1d4eb9,"71, avenue de Voisin, 28277 Colas",Besnard,France,65564,2016-01-28,acheté,1073.0,zone commerciale,2966999.0,False,,ENT_UNKNOWN
+MAG_85dfecc3,"59, rue Vincent Lombard, 24932 Boulanger",LoiseauBourg,Portugal,37649,2015-10-04,acheté,1007.0,résidentiel,3681289.0,False,,ENT_c2902386
+BADID,"59, boulevard de Peltier, 36726 Joseph",Richard,extra,27711,2099-01-01,acheté,929.0,rural,1247597.0,False,,ENT_ad3c1977
+MAG_12a07cbb,"24, rue Émilie Delattre, 74791 Saint Laurent-la-Forêt",GilletBourg,Allemagne,18430,2015-07-14,loué,831.0,rural,2584916.0,True,23436.0,ENT_4479af24
+MAG_7cea5546,"17, rue Laetitia Caron, 69674 Sauvage",DavidBourg,France,95180,2016-03-25,acheté,1022.0,centre-ville,692399.0,True,5000.0,ENT_c70bae29
+MAG_de41ef26,"378, rue Guillot, 97365 Torres",Saint MaggieBourg,Espagne,20386,2017-03-28,loué,-97.45,périphérie,-317.65,False,,ENT_UNKNOWN
+MAG_26c33453,"34, boulevard Laurence Ruiz, 36886 Lucas",Barondan,Espagne,18973,2017-02-14,loué,1524.0,centre-ville,3367473.0,True,5000.0,ENT_UNKNOWN
+BADID,"54, rue Arnaud, 17248 ColletBourg",Marindan,extra,09998,2024-05-03,acheté,706.0,zone commerciale,-361.31,True,20532.0,ENT_daa78fef
+MAG_84807609,"98, rue Lebrun, 76690 Meunier",Berger-sur-Mer,Espagne,87935,2020-09-24,acheté,426.0,rural,1254265.0,False,,ENT_67add145
+MAG_32823b86,"20, avenue de Leblanc, 66183 Benard",Chevalier-sur-Mer,Espagne,38505,2018-11-14,acheté,739.0,zone commerciale,1982993.0,False,,ENT_e82a0a90
+BADID,"25, boulevard Joly, 78399 Couturier-la-Forêt",Delmas,Allemagne,64729,2021-10-21,loué,-369.99,périphérie,2084619.0,False,,ENT_715cdf9b
+MAG_08b2bd22,"94, rue Dominique Payet, 92648 Dupuis-la-Forêt",Blanchet,France,97313,2018-09-14,acheté,987.0,rural,1496289.0,False,,ENT_c5bf20e3
+MAG_e2b6ec71,"12, chemin Maillot, 40172 Gosselin-sur-Julien",Dubois,France,80567,2016-04-29,acheté,1017.0,résidentiel,3754192.0,False,,ENT_99464fe7
+MAG_ef030cd8,"66, rue Gilbert, 13810 Antoine",Merle-sur-Loiseau,France,13364,2022-04-12,loué,1671.0,périphérie,50000.0,True,102606.0,ENT_UNKNOWN
+MAG_1d91c898,"82, boulevard Pierre Barre, 86809 Saint Thomas-la-Forêt",Lagarde,France,62516,2016-01-25,acheté,982.0,zone commerciale,2363834.0,True,50853.0,ENT_6978c7cb
+MAG_c2f7212c,"53, chemin Jules Monnier, 22146 Saint Michelleboeuf",Lefort-sur-Parent,Espagne,11635,2018-02-08,loué,1106.0,zone commerciale,2312364.0,True,60693.0,ENT_14c3f1bd
+MAG_b0d26dfd,"82, avenue Guillot, 21687 Saint Xavier",Saint Audrey-la-Forêt,France,09586,2024-11-04,loué,1388.0,périphérie,410124.0,False,,ENT_747f38bc
+MAG_17d87f20,"687, boulevard de Carre, 34826 Clercnec",Morelnec,Allemagne,67278,2023-03-20,loué,828.0,zone commerciale,1332778.0,False,,ENT_f25861b2
+MAG_67f90371,"79, rue de Meunier, 79791 Sainte Matthieu-les-Bains",Sainte Lucydan,France,74288,2024-06-18,loué,1229.0,zone commerciale,2819216.0,False,,ENT_daa78fef
+MAG_3649a3df,"27, avenue Martin, 31557 Sainte Emmanuel",Saint Emmanuelle,Allemagne,35411,2015-07-07,loué,1300.0,zone commerciale,1967172.0,True,55926.0,ENT_7553750f
+MAG_faac4851,"59, rue Rivière, 85232 Texier",Perrier,France,13523,2018-06-19,loué,178.0,résidentiel,-354.88,False,,ENT_UNKNOWN
+MAG_1996c54e,"183, rue Hortense Vidal, 07293 Saint Aimée",Saint Julien,Espagne,97347,2018-03-19,loué,1959.0,résidentiel,1715283.0,False,,ENT_a1fc8373
+MAG_cf1793ec,"avenue de Bruneau, 73994 Normand",Garnier-sur-Ferreira,France,37805,2015-09-20,acheté,944.0,zone commerciale,1935278.0,True,91838.0,ENT_7ec2e83e
+MAG_ee1bbfda,"rue Laetitia Gosselin, 97356 Saint Isabelle",PaulBourg,Allemagne,09880,2016-02-17,loué,1167.0,périphérie,2979097.0,True,156612.0,ENT_4449145c
+MAG_9d2949e7,"3, rue de Le Roux, 20998 Martel",Pereira-sur-Didier,France,84949,2020-03-17,acheté,665.0,zone commerciale,3042935.0,False,,ENT_b8512cc2
+MAG_930b5d6f,"38, avenue de David, 05486 Prévost-sur-Delorme",Rossi-sur-Letellier,Italie,82433,2025-09-12,loué,1014.0,périphérie,5096899.0,True,64597.0,ENT_81a84964
+MAG_89f4d20a,"103, rue Daniel, 37637 Delattre",Sainte Agnès-les-Bains,Allemagne,33759,2021-11-10,loué,1581.0,résidentiel,1825015.0,False,,ENT_f762809e
+BADID,"355, rue de Maréchal, 59527 Lefebvre",Rivière,Espagne,20334,2099-01-01,acheté,251.0,zone commerciale,1635962.0,True,91182.0,ENT_UNKNOWN
+MAG_ab0df523,"707, chemin de Aubry, 52806 Gallet",Barbe,Italie,08536,2021-06-19,loué,50.0,zone commerciale,3370515.0,False,,ENT_2c9bed3f
+MAG_18748ed2,"9, rue de Guérin, 58376 Michaud-les-Bains",Saint JulieVille,Allemagne,20405,2021-10-15,acheté,426.0,centre-ville,1855672.0,False,,ENT_a6a56d17
+MAG_0b426135,"3, rue de Guillet, 87492 Pelletier",Daniel,France,36165,2024-07-20,loué,573.0,industriel,3545177.0,False,,ENT_a635203c
+MAG_d562b06a,"5, avenue de Imbert, 78668 Saint Paulette-sur-Mer",Caron,Allemagne,51265,2024-01-05,loué,1484.0,zone commerciale,4117140.0,False,,ENT_8bf86e46
+MAG_46e98566,"778, avenue Toussaint, 27894 Saint Stéphanie",Barthelemy,France,20460,2022-08-31,loué,161.0,zone commerciale,2981472.0,False,,ENT_4650c2c7
+MAG_50a6fe29,"chemin de Morel, 78770 Lemoine",Guillot-sur-Mer,Italie,12544,2019-04-19,acheté,874.0,résidentiel,3445028.0,True,36417.0,BADID
+MAG_79b5b739,"72, rue Marion, 13569 Saint Michel",Diaz-la-Forêt,N/A,67907,2024-06-15,loué,-305.41,résidentiel,-315.16,True,66952.0,ENT_390b4f10
+MAG_3c34f4c4,"15, rue Lebreton, 56434 Bertrandnec",Schmitt,Espagne,84991,2016-04-06,acheté,692.0,centre-ville,1198643.0,True,134585.0,ENT_c051336a
+BADID,"10, rue Célina Dupuis, 22614 Laurent",Sainte Honoré,France,97112,2020-09-03,N/A,-341.53,résidentiel,50000.0,True,97013.0,ENT_7d51b7bc
+MAG_17e14d7a,"96, chemin Émilie Neveu, 26968 Sainte Capucine",Berthelot,France,64941,2015-12-23,acheté,1029.0,résidentiel,1252522.0,False,,ENT_125b3d5c
+MAG_a8922fb4,"rue Benard, 97367 Sainte Henriette",Techer,France,89206,2020-09-21,loué,1134.0,zone commerciale,1222851.0,False,,ENT_85c50796
+MAG_913a71cc,"80, avenue Michel Da Silva, 20906 Goncalves",Denis,France,64375,2025-10-24,loué,368.0,zone commerciale,934995.0,False,,ENT_27c99c21
+MAG_1e5d3153,"rue de Hebert, 62590 Lebreton",Bernierboeuf,Espagne,76818,2019-01-20,acheté,1068.0,zone commerciale,1062926.0,True,88275.0,ENT_821bbb5c
+MAG_b1ae97c8,"rue Duval, 01122 Da Silva",Monnier,France,97168,2020-02-06,acheté,828.0,zone commerciale,1032436.0,False,,ENT_a09053a8
+MAG_09dc8320,"34, boulevard Marin, 04537 Lesage",Pierre-les-Bains,France,23412,2018-12-11,acheté,613.0,centre-ville,1259739.0,False,,BADID
+MAG_278bde18,"73, rue de Hervé, 87132 Auger-sur-Blanchet",Saint Margot-sur-Mer,Espagne,51379,2025-04-04,loué,190.0,zone commerciale,1889139.0,True,44618.0,ENT_12d63305
+MAG_d21ee224,"58, boulevard de Poulain, 91947 Vidal-sur-Parent",Thierry,Allemagne,20388,2016-11-21,acheté,843.0,périphérie,1553077.0,True,136637.0,ENT_a7f62536
+BADID,,Meunierdan,Allemagne,97190,2022-02-14,loué,1203.0,périphérie,-456.2,False,,ENT_ccedccdd
+MAG_6ef6a0cc,"613, boulevard Jules Caron, 16376 Boulanger",Lagarde,Espagne,95765,2019-06-08,loué,896.0,rural,50000.0,False,,ENT_8e9e49b2
+MAG_4c184bd7,"27, rue Eugène Martins, 34376 Dos SantosVille",Sainte Maggie,France,01938,2022-12-06,loué,798.0,centre-ville,1500543.0,False,,ENT_b826fefe
+MAG_91fbeec4,"54, avenue de Lebreton, 51632 Dupré",LeconteBourg,Espagne,38401,2018-10-08,loué,50.0,centre-ville,-82.94,False,,ENT_4d93a896
+MAG_0c1bbdf1,"7, rue de Roux, 70518 Sainte Marianne",Langlois,France,55818,2020-11-23,loué,50.0,périphérie,1114569.0,False,,ENT_86e51b72
+MAG_f4041664,"35, boulevard de Lejeune, 93541 Thibaultnec",Adam,France,41200,2015-09-02,acheté,1047.0,centre-ville,639282.0,False,,ENT_a7f62536
+MAG_f567c4d2,"rue de Camus, 85171 Raynaud",Bonneau,Espagne,26752,2024-05-05,acheté,445.0,résidentiel,50000.0,False,,ENT_6e31725a
+MAG_f7e3fedf,"55, boulevard de Lefebvre, 08505 LaporteVille",Leclercnec,Espagne,20299,2019-11-28,acheté,579.0,centre-ville,1939064.0,True,94426.0,ENT_4eea5a3e
+MAG_03c1cc59,"547, rue de Leduc, 90575 Garcia-sur-Vincent",Léger-la-Forêt,France,86188,2022-01-14,loué,1375.0,zone commerciale,500004.0,False,,ENT_2e323785
+MAG_45a57585,"554, avenue Louis, 82716 Pascal",Paul-sur-Mer,Allemagne,60533,2022-09-19,loué,1432.0,centre-ville,1617248.0,False,,ENT_a498546f
+MAG_6eac1dc1,"24, rue Christophe Barre, 10296 Meunier",Rousset-sur-Lecoq,Portugal,58843,2015-12-22,loué,1326.0,zone commerciale,-348.62,False,,ENT_680f2ebb
+MAG_a85309ec,"344, avenue Yves Clerc, 14588 Leducnec",Guyot,Espagne,80297,2015-03-27,acheté,50.0,périphérie,137749.0,False,,ENT_918fe64f
+MAG_97aea139,"1, boulevard Aimé Fleury, 80255 Gomesnec",Sainte StéphanieBourg,Espagne,20352,2021-11-16,acheté,670.0,centre-ville,50000.0,False,,ENT_315d5257
+MAG_def15011,"292, rue Mallet, 62405 Gauthier",Allard-la-Forêt,Allemagne,51992,2015-06-07,loué,1065.0,zone commerciale,3229890.0,False,,ENT_12d63305
+MAG_c5ceec22,"rue de Perrin, 17824 SchmittBourg",Gosselin,France,53365,2025-12-13,loué,58.0,centre-ville,1572708.0,False,,ENT_4d656685
+MAG_87349211,"90, chemin Célina Pineau, 48878 Sainte Isaac",Sainte Alexandrenec,France,51951,2021-04-24,acheté,1144.0,centre-ville,2615047.0,True,75347.0,ENT_136bde4c
+MAG_6353becb,"48, avenue Simon, 24390 Marie",Mendès-sur-Mer,France,13172,2018-11-16,acheté,593.0,zone commerciale,50000.0,False,,ENT_96f01b2a
+MAG_cb5621fd,"57, boulevard Marcelle Roy, 44784 Sainte Arnaude",Saint Bernard,Allemagne,33721,2016-08-27,acheté,735.0,rural,769690.0,True,80074.0,ENT_537fce81
+BADID,"69, rue Timothée Charpentier, 92597 MarchalVille",Allardboeuf,Allemagne,64168,2099-01-01,loué,1859.0,zone commerciale,2259396.0,False,,ENT_4d656685
+MAG_211e6c1a,"3, avenue de Pires, 69953 Renault",Gauthier-les-Bains,France,87337,2015-04-11,loué,475.0,zone commerciale,1160126.0,False,,ENT_7ec2e83e
+MAG_83713b92,"47, rue Lesage, 49341 Pottier-sur-Vallet",Hervédan,France,33793,2021-06-07,loué,1395.0,résidentiel,2925522.0,True,121618.0,ENT_10f9c6eb
+MAG_41204968,"62, avenue De Oliveira, 05335 Le Roux",Lombarddan,France,46376,2025-02-28,loué,1308.0,centre-ville,142517.0,False,,ENT_56aef086
+MAG_52d2f581,"6, boulevard de Vasseur, 47310 MauryVille",Guillet-la-Forêt,Allemagne,90315,2023-12-26,loué,777.0,zone commerciale,273688.0,False,,ENT_UNKNOWN
+MAG_693fca7e,"avenue de Pascal, 97391 Renault",Saint Alexandreboeuf,France,50293,2022-02-20,loué,1202.0,centre-ville,3345897.0,False,,ENT_c051336a
+MAG_f01f72db,"64, rue Loiseau, 48291 Saint Gilles-la-Forêt",Saint Aurélie-sur-Mer,Espagne,97317,2021-05-23,loué,305.0,rural,1100824.0,False,,ENT_56aef086
+MAG_e2530f54,"74, avenue Océane Roux, 21129 Breton-la-Forêt",Clément-sur-Charles,France,40854,2022-08-19,loué,913.0,zone commerciale,1848786.0,True,31819.0,ENT_c73864c5
+MAG_ccf18281,"921, boulevard de Bonnet, 68846 Lefèvre",Didier,Allemagne,67757,2015-12-20,acheté,637.0,périphérie,4749206.0,True,81913.0,ENT_747f38bc
+MAG_2de757df,,Carlier,Allemagne,63617,2023-05-17,acheté,728.0,résidentiel,50000.0,True,127990.0,ENT_c5bf20e3
+MAG_1417f0a9,"avenue Sabine Maury, 97276 Barre-la-Forêt",Bourdonnec,Allemagne,76532,2020-11-27,acheté,50.0,rural,50000.0,False,,ENT_315d5257
+MAG_57abb690,"867, boulevard de Delaunay, 53364 Pires",Sainte NoëlVille,Allemagne,63207,2019-08-08,loué,1019.0,périphérie,1753947.0,False,,ENT_27c99c21
+MAG_f5e5dc16,"59, avenue de Mallet, 85949 Saint Pauline",Lacroix,Allemagne,08183,2025-07-14,acheté,1416.0,périphérie,3075220.0,False,,ENT_25c4cf72
+MAG_1228960e,"rue Royer, 52102 Lebreton",Sainte Laurence,Allemagne,79173,2020-05-24,acheté,50.0,centre-ville,768017.0,False,,BADID
+MAG_2cc3fc44,"4, avenue de Gros, 97452 Vincent-les-Bains",Saint Paulnec,France,19371,2024-06-25,loué,-80.41,zone commerciale,1396926.0,False,,ENT_UNKNOWN
+MAG_5ce7772f,"4, chemin Giraud, 82623 Reynaud",Thibault-sur-Michel,France,45596,2016-11-10,loué,955.0,résidentiel,2112957.0,False,,ENT_42e7d49e
+BADID,"boulevard Tristan Rousset, 30539 Teixeiradan",DumontBourg,Allemagne,25795,2024-01-07,loué,213.0,zone commerciale,5465753.0,True,79119.0,ENT_UNKNOWN
+MAG_0c8695e4,"70, chemin de Maillard, 49593 Laine",Chauveau,France,69135,2024-03-14,acheté,1586.0,résidentiel,3225613.0,True,87628.0,ENT_f25861b2
+MAG_61c203c7,"chemin Tristan Ruiz, 27271 Perrot",Dumontnec,Allemagne,35189,2015-03-26,loué,1105.0,centre-ville,1167252.0,True,110475.0,ENT_edd73f9d
+MAG_5a5edb55,"798, rue Deschamps, 06588 Diaz-sur-Gimenez",Thomas-sur-Rodriguez,France,29889,2019-07-12,acheté,505.0,industriel,1849702.0,False,,ENT_b1bd5c54
+MAG_94b5618e,"avenue Michel Gauthier, 93553 Courtois",Saint Charlotte,Allemagne,35252,2015-09-08,loué,50.0,zone commerciale,1976460.0,True,71862.0,ENT_de2a8002
+MAG_7197a367,"408, rue Geneviève Thibault, 41760 Michaudboeuf",Klein,France,74687,2017-10-12,loué,149.0,rural,395772.0,True,108548.0,ENT_f762809e
+MAG_eaca89d1,"88, rue Julien, 85646 Sainte Élodie",Bonneau-la-Forêt,France,28740,2018-02-03,acheté,1006.0,centre-ville,1749305.0,True,83253.0,ENT_ffd804ad
+MAG_1ca346c6,"chemin Luce Thibault, 28569 Pages-sur-Toussaint",Lemairenec,Espagne,02357,2017-09-04,loué,973.0,résidentiel,2199467.0,False,,ENT_7f3e0f98
+MAG_7f38c7d9,"rue Rodriguez, 05209 Letellier",Denis,France,51301,2018-11-12,loué,608.0,zone commerciale,1946810.0,False,,ENT_a09053a8
+MAG_f342e6ae,"20, rue de Grenier, 21766 Tanguy",Berthelot,France,42476,2025-01-18,loué,784.0,résidentiel,2033756.0,False,,ENT_733fcf33
+MAG_17e3086c,"avenue Guilbert, 91299 Thierry",Joly,Allemagne,71240,2023-07-11,acheté,970.0,centre-ville,3421800.0,True,72546.0,ENT_b826fefe
+MAG_fa720809,"547, chemin de Antoine, 24879 Lamy",ToussaintVille,France,93742,2022-12-02,acheté,1017.0,résidentiel,50000.0,False,,ENT_b8512cc2
+MAG_ed719ad7,"36, avenue Germain, 73472 SamsonVille",Masse-la-Forêt,Espagne,24329,2024-03-03,loué,107.0,centre-ville,2888136.0,False,,ENT_de2a8002
+BADID,"86, avenue Michelle Lévêque, 94678 Descamps",Texier,Narnia,75749,2099-01-01,loué,393.0,centre-ville,3761018.0,False,,ENT_0bf703b9
+MAG_1883cecb,"961, rue de Rodriguez, 18650 Brun",Guichard,Portugal,33893,2016-03-27,loué,61.0,centre-ville,3237670.0,False,,ENT_328e7e38
+MAG_ebd3ddb3,"25, avenue de Boulanger, 74424 Pasquier-sur-Hoarau",Bourgeois-sur-Giraud,Allemagne,21782,2015-09-21,loué,363.0,zone commerciale,3684019.0,False,,ENT_b826fefe
+MAG_cf22544b,"44, rue Salmon, 95427 Sainte Adriennedan",Saint Matthieu-sur-Mer,Allemagne,56390,2015-12-24,loué,431.0,résidentiel,549507.0,False,,ENT_UNKNOWN
+MAG_4c27eea8,"8, avenue Georges, 57485 Auger",Barbierdan,Allemagne,22345,2018-04-11,loué,840.0,zone commerciale,50000.0,False,,ENT_b28ff9ac
+MAG_7e763cef,"936, rue Humbert, 56842 Hoareau",Delattre,Italie,97315,2018-05-15,loué,326.0,zone commerciale,3302426.0,False,,ENT_328e7e38
+MAG_7dce5dc0,"rue Pascal, 97175 Delmas",Étienne-la-Forêt,France,57199,2019-04-29,loué,1526.0,périphérie,1659428.0,False,,ENT_UNKNOWN
+MAG_78284f56,"98, rue de Bonnin, 73498 Sainte Lucy",Barbe,Allemagne,23353,2022-12-29,acheté,552.0,zone commerciale,50000.0,False,,ENT_10f9c6eb
+MAG_838030e4,"93, rue de Baron, 59619 Guérin",Bousquet-sur-Diaz,Espagne,52611,2023-01-15,loué,1117.0,résidentiel,1337075.0,False,,ENT_6f9592f1
+MAG_c3855b1e,"223, avenue Marcelle Rolland, 34968 Parent",Bodin,Espagne,38248,2021-03-25,loué,939.0,zone commerciale,50000.0,True,19479.0,ENT_2c9bed3f
+MAG_bbd850bb,"3, avenue Virginie Arnaud, 06838 Sainte SabineBourg",DelattreBourg,Portugal,97127,2021-02-07,loué,876.0,périphérie,1411963.0,False,,ENT_85c50796
+BADID,"6, rue de Meyer, 58113 Marchand-sur-Mer",Sainte Antoine,Italie,31837,2024-01-04,loué,896.0,centre-ville,-367.57,False,,ENT_e82a0a90
+BADID,"493, rue de Lebrun, 19278 Humbert",Garnier,N/A,97616,2099-01-01,acheté,899.0,résidentiel,50000.0,False,,ENT_6c9e1662
+MAG_09cf693e,"3, rue de Boucher, 45599 Lévêque",Morin,France,91685,2018-04-29,loué,936.0,périphérie,1865907.0,False,,ENT_4d656685
+MAG_8892c721,"6, chemin Peltier, 36960 Hoarau",Saint Anne,Espagne,15886,2015-11-08,acheté,50.0,centre-ville,1979898.0,False,,BADID
+BADID,"52, rue Vincent Gilbert, 07426 Sainte Martheboeuf",Didier,France,09276,2017-06-07,extra,1149.0,résidentiel,1334145.0,False,,ENT_6f3a6382
+MAG_231e5424,"5, boulevard Alphonse Gillet, 09225 Moreau",Blondel,Allemagne,75552,2015-05-25,loué,585.0,zone commerciale,50000.0,True,14947.0,ENT_747f38bc
+MAG_fc17da43,"46, chemin Diallo, 78632 Didier",Mahe-sur-Gilles,France,40395,2018-03-01,acheté,1176.0,industriel,1296086.0,True,95809.0,BADID
+MAG_4f47cfb9,"6, boulevard Julie Legros, 69187 Humbert",Martin-sur-Mer,France,50992,2025-08-26,acheté,1356.0,centre-ville,4307241.0,True,67087.0,ENT_b6a3f3ce
+MAG_358ee743,"chemin de Dupont, 67209 Saint BenjaminVille",Cordier,Italie,87612,2022-02-12,acheté,1165.0,centre-ville,478586.0,False,,ENT_1df6716d
