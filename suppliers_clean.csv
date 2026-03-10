@@ -1,0 +1,483 @@
+supplier_id,supplier_name,country,reliability_score,lead_time_days,contract_type,co2_modifier_per_kg,specialization,min_order_qty
+SUPP_9aed063e,Laurent et Fils,Italie,0.8696714153011232,18.0,À déterminer,-0.069,"Alimentation, Vêtements",443
+SUPP_c2617adc,Moulin,Chine,0.8847688538100692,4.0,exclusif,0.762,Maison,404
+SUPP_8d1e0e5d,Joly Gallet SA,France,0.7965846625276664,30.0,cadre,-0.117,Vêtements,228
+SUPP_a03d0ed6,Maury S.A.R.L.,France,0.9779212815507392,58.0,cadre,0.384,Électronique,86
+SUPP_fc43d434,Martinez SA,Italie,0.7730525614065047,11.0,cadre,0.271,Vêtements,31
+SUPP_cff4a58a,Rey Bodin S.A.S.,Chine,0.7736582307187537,15.0,cadre,-0.233,Électronique,351
+SUPP_a1b76463,Guilbert S.A.,Chine,0.8441962271566034,28.0,spot,-0.957,Hygiène,393
+SUPP_9981eb16,Vasseur,Chine,0.6475082167486966,53.0,spot,-0.281,Alimentation,461
+SUPP_30c28622,Pruvost,Chine,0.7187168879665575,23.0,spot,0.157,Alimentation,220
+SUPP_91e16e31,Robert,France,0.7291975924478789,46.0,exclusif,-0.706,"Alimentation, Vêtements",456
+SUPP_37a3ac88,,Allemagne,0.9665648768921552,54.0,À déterminer,47.47,Maison,189
+SUPP_03e7aea8,,À déterminer,0.8267528204687923,44.0,exclusif,-0.712,Alimentation,-7
+SUPP_8246bf02,Ledoux Marques SA,États-Unis,0.7655617275474816,19.0,cadre,0.055,Électronique,270
+SUPP_cc91058b,Gillet SA,Allemagne,0.7049006422577697,3.0,exclusif,0.188,Hygiène,143
+SUPP_b650d946,Barre,France,0.7599361310081194,40.0,cadre,-0.146,Vêtements,383
+SUPP_ca135763,Bertrand,Espagne,0.7598293387770603,38.0,exclusif,0.926,"Maison, Électronique",32
+SUPP_3443b9a7,Regnier,Espagne,0.8186502775262066,6.0,spot,-0.529,"Électronique, Alimentation",481
+SUPP_a719ac3d,Hoareau SA,Portugal,0.9022544912103188,9.0,spot,-0.61,Vêtements,163
+SUPP_9fc3bc52,Techer,Allemagne,0.8408863595004755,46.0,cadre,-0.98,Maison,75
+SUPP_e9d03f4a,Verdier,Portugal,0.6871813951101569,59.0,exclusif,0.098,Maison,301
+SUPP_b6bf98c1,Fischer Muller SA,Chine,0.893846657999541,21.0,cadre,0.086,Hygiène,230
+SUPP_3493478b,Leleu Charpentier SA,Espagne,0.8084351717611759,30.0,cadre,-0.151,"Hygiène, Vêtements",271
+SUPP_2b1f778c,Roussel Gillet SARL,Portugal,0.6721478009632572,20.0,cadre,-0.36,Alimentation,334
+SUPP_3718a0f4,Bousquet,Portugal,0.7739361229040211,16.0,spot,0.529,"Électronique, Alimentation",85
+SUPP_b09c736e,Goncalves,États-Unis,0.8543618289568461,41.0,spot,-0.882,Alimentation,47
+SUPP_ddb2f50b,Monnier,France,0.8524083969394795,46.0,cadre,-0.193,Hygiène,214
+SUPP_f18a9d54,Leconte Da Costa et Fils,Chine,0.7523077999694041,57.0,spot,0.306,Électronique,64
+SUPP_899a96c5,Raynaud et Fils,Chine,0.9230999522495952,46.0,cadre,0.466,"Alimentation, Hygiène",35
+SUPP_682e4115,Joubert Chauveau S.A.,Espagne,0.7360782476777361,53.0,cadre,-0.155,Électronique,281
+SUPP_637c7e03,Pinto Gillet SARL,États-Unis,0.8531263431403564,59.0,cadre,0.488,"Hygiène, Vêtements",427
+SUPP_4b8dd79f,Pottier Germain SA,Chine,0.0,37.0,cadre,-0.093,"Hygiène, Maison",91
+SUPP_9d355b98,David Gomes S.A.R.L.,Allemagne,0.7093665025993972,17.0,spot,-0.598,"Maison, Hygiène",151
+SUPP_04f10023,François,Portugal,0.9012525822394196,19.0,cadre,0.678,"Hygiène, Maison",375
+SUPP_7f051424,Duhamel Wagner SARL,Allemagne,0.8127989878419666,59.0,cadre,0.502,Vêtements,80
+SUPP_c9381122,Bègue Didier S.A.R.L.,Portugal,0.8561636025047634,47.0,cadre,-0.323,Maison,222
+SUPP_d673914b,Meunier,Espagne,0.8561395605508414,5.0,cadre,0.769,Hygiène,225
+SUPP_ce99860d,Joly,États-Unis,0.8164173960890048,3.0,spot,0.782,Hygiène,401
+SUPP_56259829,Vallet Guilbert S.A.S.,France,0.5580254895910255,24.0,cadre,0.411,Maison,-90
+SUPP_4e039c10,Letellier,Espagne,0.828704706823817,19.0,cadre,-0.15,"Maison, Alimentation",24
+SUPP_f873b49c,Guillon,Chine,0.8291760776535502,55.0,cadre,-0.994,Maison,75
+SUPP_102f2ea1,Étienne,États-Unis,0.7980328112162488,39.0,cadre,0.179,"Hygiène, Électronique",23
+SUPP_8374c33f,Dos Santos Grégoire S.A.R.L.,France,0.9677894044741516,31.0,exclusif,-0.259,Maison,143
+SUPP_a0b191ff,Faivre SA,Espagne,0.7391506397106812,23.0,spot,-0.251,Alimentation,204
+SUPP_cc82cc7f,Brunet et Fils,Allemagne,0.9115402117702074,7.0,cadre,0.164,Maison,393
+SUPP_85e6917b,Bazin Briand S.A.S.,Allemagne,0.767023979623296,6.0,spot,0.257,Vêtements,343
+SUPP_b5e1f714,Collin S.A.R.L.,États-Unis,0.829707754934804,14.0,spot,0.484,Électronique,328
+SUPP_d9ce5751,Evrard,Espagne,0.7497946906122647,9.0,cadre,-0.164,Alimentation,121
+SUPP_3a70a568,Lenoir,Chine,0.7807891846867842,12.0,cadre,-0.732,Vêtements,392
+SUPP_3234d0bf,Bazin et Fils,France,0.8496120277064576,3.0,spot,0.131,"Alimentation, Vêtements",304
+SUPP_bacc6111,Normand S.A.S.,États-Unis,0.820511345664246,14.0,exclusif,-0.117,"Maison, Hygiène",363
+SUPP_822668bb,Lecoq,Portugal,0.6784629257949585,21.0,spot,-0.21,"Alimentation, Électronique",317
+SUPP_0b54f4ad,Marie,Allemagne,0.785728548347323,29.0,À déterminer,14.81,"Hygiène, Électronique",-19
+SUPP_d43ea441,Gay,France,0.803871428833399,28.0,spot,0.202,Vêtements,64
+SUPP_9f5b4419,De Sousa Bernard et Fils,Portugal,1.0,55.0,cadre,0.087,Vêtements,88
+SUPP_2104714d,Charrier,États-Unis,0.8457550390722763,19.0,cadre,-0.037,Hygiène,480
+SUPP_6f23d8c9,Guillou Gautier et Fils,Espagne,0.6281228784700958,54.0,spot,-0.013,Maison,147
+SUPP_a461dd56,Riou,Chine,0.8260230209941026,7.0,À déterminer,1.232,Alimentation,240
+SUPP_ddd01296,Brunet Besson S.A.,Italie,0.8007639035218876,44.0,cadre,0.151,Maison,24
+SUPP_3fb53f44,Joseph SARL,France,0.8165288230294756,15.0,cadre,-0.584,Vêtements,142
+SUPP_97d88f4b,Moreau,Chine,0.934282281451502,19.0,cadre,0.376,Hygiène,274
+SUPP_8d7a25d3,Étienne SARL,Chine,0.8991031947043047,33.0,cadre,-0.455,"Électronique, Alimentation",133
+SUPP_f36af9d1,Boyer Guillot S.A.S.,Chine,0.96027943109361,7.0,cadre,-0.701,"Maison, Hygiène",217
+SUPP_70c78fc4,Clément et Fils,Espagne,0.878685709380027,35.0,cadre,1.095,"Vêtements, Hygiène",391
+SUPP_6f568ae9,Muller,Chine,0.7209463674869311,19.0,cadre,-0.283,Vêtements,128
+SUPP_ec195ba8,Rodriguez Delmas S.A.R.L.,Allemagne,0.829965136508764,49.0,cadre,-0.252,Alimentation,400
+SUPP_a0e8ef3c,,États-Unis,0.7137696286273895,55.0,À déterminer,0.237,Vêtements,-21
+SUPP_eaeef6bb,Delannoy Langlois S.A.R.L.,France,0.7280575765766196,36.0,exclusif,0.775,Vêtements,33
+SUPP_67063224,Navarro,Portugal,0.7416746707663763,10.0,cadre,-0.161,"Hygiène, Vêtements",395
+SUPP_78ae7541,Jean Andre SARL,Allemagne,0.8427459934604129,57.0,cadre,0.654,Électronique,430
+SUPP_cffd128a,Pruvost S.A.S.,France,0.6592516765438772,42.0,cadre,0.092,Maison,87
+SUPP_1d896370,Neveu et Fils,Portugal,0.6963049289121918,52.0,cadre,-0.66,Maison,407
+SUPP_83bdbb5c,Rolland SA,États-Unis,0.8721941565616897,21.0,spot,0.148,Maison,229
+SUPP_eb7baf41,Rémy SA,France,0.8450492850345876,49.0,exclusif,43.59,Hygiène,-20
+SUPP_8104523d,Lopes Laroche S.A.R.L.,Allemagne,0.7519975278421509,7.0,exclusif,0.116,Alimentation,98
+SUPP_9fc9d686,Gimenez Payet et Fils,France,0.8493072473298681,30.0,cadre,-0.357,Alimentation,250
+SUPP_5d66e419,Berger,Allemagne,1.0,20.0,spot,0.237,Alimentation,242
+SUPP_bd34f363,Cordier,États-Unis,0.7008696502797351,52.0,spot,0.328,Alimentation,311
+SUPP_cc64b685,Gauthier Pereira et Fils,France,0.7225318329772679,16.0,cadre,0.394,"Alimentation, Maison",-81
+SUPP_215ee9b4,Monnier,France,0.9358595579007404,12.0,spot,-0.41,Alimentation,314
+SUPP_6d7f2801,Bouchet,Espagne,0.9163376129244322,31.0,cadre,0.206,"Hygiène, Vêtements",368
+SUPP_c6b0ed2e,Chauveau,Italie,0.9022060159994488,33.0,cadre,0.948,Vêtements,316
+SUPP_169d3b95,Maillet et Fils,Chine,0.7954611883997129,40.0,cadre,-0.377,Maison,56
+SUPP_a90a2149,Bonnet S.A.R.L.,Italie,0.7310485570374476,3.0,spot,-0.408,Hygiène,354
+SUPP_4ea5187c,Nicolas,Chine,0.8122898290585895,13.0,cadre,0.171,"Hygiène, Électronique",343
+SUPP_3a818b09,Olivier Aubert S.A.S.,France,0.8476690799330019,39.0,cadre,0.414,Vêtements,426
+SUPP_0f843327,Joly,Espagne,0.8213001891877907,28.0,cadre,0.727,Électronique,353
+SUPP_3fba4108,Vidal,À déterminer,0.7935343166762043,46.0,cadre,1.36,Alimentation,349
+SUPP_e9444c70,Sanchez Pichon S.A.S.,Portugal,0.7129107501938887,36.0,cadre,0.241,"Maison, Électronique",37
+SUPP_49c6d9ef,Girard et Fils,Portugal,0.7976537214674149,33.0,cadre,0.357,Vêtements,399
+SUPP_954df8b7,Morin S.A.,Italie,0.8673237624573544,20.0,cadre,-0.036,Vêtements,367
+SUPP_f215d209,Cordier Vallée S.A.R.L.,États-Unis,0.7353206281931595,40.0,spot,-0.757,Électronique,373
+SUPP_fc234c92,Maréchal Lopez S.A.,France,0.7753485047932979,28.0,exclusif,0.428,Hygiène,440
+SUPP_257ca14c,Bernard,Portugal,0.8414093744130203,11.0,cadre,-0.623,"Maison, Électronique",376
+SUPP_c69fbfc9,Aubry,Espagne,0.8373180925851181,32.0,spot,0.193,Vêtements,134
+SUPP_8c79845b,Renault,Espagne,0.7316142563798866,60.0,cadre,0.077,Alimentation,392
+SUPP_2e05a53e,Grenier,Chine,0.8258208718446,56.0,cadre,-0.571,"Électronique, Vêtements",488
+SUPP_9986224f,Meyer,Allemagne,0.8557787360348282,21.0,spot,0.28,"Vêtements, Électronique",306
+SUPP_151bd577,Collet Carpentier SA,Espagne,0.9283051243175277,32.0,cadre,0.527,"Maison, Alimentation",292
+SUPP_aabff8ef,Letellier SARL,États-Unis,0.6822330632042908,57.0,exclusif,-0.469,"Maison, Hygiène",367
+SUPP_5d249662,Girard S.A.S.,Allemagne,1.0,51.0,cadre,0.257,Maison,172
+SUPP_bd52b38c,Gaudin,États-Unis,0.8715047686306048,52.0,spot,1.926,"Maison, Hygiène",87
+SUPP_c37432c9,Boyer Grégoire SA,France,0.8770890510693167,39.0,cadre,0.568,Électronique,61
+SUPP_49a1c693,Muller Valentin SA,Italie,0.9154001763493202,31.0,exclusif,0.326,"Maison, Électronique",83
+SUPP_410693a0,Antoine Mathieu S.A.S.,France,0.7884730755359654,52.0,spot,0.379,Alimentation,183
+SUPP_55e0dd51,Delorme Valentin SA,Chine,0.7427174785462427,56.0,cadre,-0.118,"Maison, Électronique",283
+SUPP_46a03c12,Humbert et Fils,Portugal,0.7714636452170895,58.0,spot,0.041,Vêtements,456
+SUPP_255a4972,Bertin,France,1.0,42.0,cadre,-0.934,Hygiène,157
+SUPP_d79c100c,Laroche Auger SARL,États-Unis,0.8886260190374513,50.0,cadre,-0.806,"Électronique, Maison",456
+SUPP_1061014d,Albert,Espagne,0.8264280019095462,11.0,cadre,-0.539,"Vêtements, Hygiène",220
+SUPP_fff2aa2f,Hamel,À déterminer,0.7484696290740032,7.0,cadre,0.34,Alimentation,205
+SUPP_65ba6d3d,Petit S.A.R.L.,États-Unis,0.7469633368282863,11.0,cadre,0.108,"Alimentation, Maison",336
+SUPP_60c89649,Legrand S.A.S.,Portugal,0.8245571839903814,59.0,spot,-0.326,Vêtements,471
+SUPP_5ecd82d7,Guillou Aubry S.A.,France,1.0,30.0,spot,0.317,Hygiène,310
+SUPP_8b0406fc,Muller,Portugal,0.6174857413342392,31.0,spot,0.093,Maison,111
+SUPP_aff4212a,Lemaître Jacquet S.A.,Allemagne,0.7538213535231612,38.0,cadre,0.426,"Maison, Électronique",161
+SUPP_4307d71e,Devaux,États-Unis,0.7407479261567299,44.0,cadre,-0.057,"Vêtements, Électronique",14
+SUPP_5c5a6b21,Raymond,États-Unis,0.8704987278980456,49.0,cadre,0.433,Électronique,472
+SUPP_918f5bf4,Martineau S.A.S.,Allemagne,0.6999703592944223,14.0,cadre,-0.167,"Alimentation, Vêtements",357
+SUPP_f3ae0c90,Dupré,États-Unis,0.7725054688839044,43.0,exclusif,-0.327,"Alimentation, Électronique",413
+SUPP_88601d9d,Lucas SARL,Espagne,0.9965454240281096,10.0,exclusif,0.202,Hygiène,161
+SUPP_31dc8c41,Gautier et Fils,France,0.6939116045664955,10.0,spot,0.459,Maison,458
+SUPP_de46faab,Maillard Carre S.A.S.,Chine,1.0,18.0,spot,0.516,"Hygiène, Vêtements",493
+SUPP_5441b2d9,Wagner Le Goff S.A.,Chine,0.6680630034045986,23.0,spot,-0.242,Vêtements,249
+SUPP_2d509234,Bodin,Chine,0.9466911149186622,48.0,cadre,-0.354,"Alimentation, Hygiène",213
+SUPP_4ad43a8b,Deschamps,France,0.8643819428146228,27.0,exclusif,0.387,"Hygiène, Vêtements",284
+SUPP_d222e606,Morin et Fils,Portugal,0.7273069528421916,45.0,cadre,-0.03,Vêtements,205
+SUPP_fc0eebac,Baron,Portugal,0.5,32.0,exclusif,-0.512,"Vêtements, Électronique",462
+SUPP_cd4f6a33,Bernard SARL,Portugal,0.794743184860684,42.0,spot,-0.624,"Vêtements, Alimentation",475
+SUPP_b3f6a264,Diaz Charles S.A.,France,0.9832411303931636,4.0,cadre,-0.715,"Maison, Électronique",262
+SUPP_14718e76,Courtois,Chine,0.7759955513303016,10.0,cadre,0.065,Alimentation,199
+SUPP_15bdd726,Guilbert,Italie,0.9641273289066116,48.0,exclusif,-0.718,"Hygiène, Maison",222
+SUPP_2fcd26cc,Marie SA,États-Unis,0.936316375215496,19.0,exclusif,0.005,"Maison, Hygiène",199
+SUPP_b3f14b4d,Morvan Da Silva SARL,États-Unis,0.7218491348952049,56.0,cadre,0.231,Maison,361
+SUPP_6d960132,Perret Rodriguez SA,France,0.839905969557347,19.0,exclusif,-0.3,Vêtements,72
+SUPP_c4af5f6d,Marchal,Portugal,0.8269802084990019,43.0,cadre,-0.193,"Maison, Électronique",20
+SUPP_19e63727,Pelletier S.A.,Allemagne,0.8313517345251248,10.0,spot,0.331,Vêtements,115
+SUPP_76b5d165,Martineau Henry SARL,Allemagne,0.9786016816145352,15.0,spot,-0.619,Hygiène,129
+SUPP_767ae1e0,Legendre,Chine,1.0,40.0,exclusif,-0.976,Alimentation,449
+SUPP_adf71e2c,Gomez Goncalves S.A.,Chine,0.8048214904964416,9.0,cadre,0.294,"Alimentation, Vêtements",23
+SUPP_8b9fc7d1,Laurent,Chine,0.8480991867735033,17.0,cadre,-0.311,Vêtements,18
+SUPP_f0071309,Gallet Le Roux S.A.R.L.,France,0.7991877749642724,28.0,cadre,-0.247,Électronique,391
+SUPP_c3ad9e79,Da Costa Leroux et Fils,Chine,0.7610635243055788,34.0,cadre,0.425,Maison,241
+SUPP_fed8731f,Weber SA,France,0.8557015485965047,52.0,spot,-0.346,Hygiène,347
+SUPP_360c353e,Louis,Portugal,0.9099599875433252,3.0,exclusif,0.154,Maison,255
+SUPP_ef81f858,Jacques Marty SARL,Espagne,0.901286211883896,60.0,cadre,0.315,"Maison, Électronique",470
+SUPP_888eafa4,Alexandre Boulanger SARL,Espagne,0.8947293605123261,40.0,cadre,0.305,Vêtements,242
+SUPP_42db6f74,Leleu SARL,France,0.8179098406035852,46.0,exclusif,0.059,Maison,345
+SUPP_11e31d68,Clerc,Espagne,0.9477664895788424,58.0,cadre,-0.296,"Hygiène, Alimentation",183
+SUPP_77c7b5d8,Potier,Chine,0.8747097381170037,22.0,cadre,-0.101,"Maison, Hygiène",-25
+SUPP_9c85e944,Leroy,Portugal,0.7982318796772779,32.0,exclusif,0.549,Alimentation,435
+SUPP_e564ec25,Bertin S.A.,France,0.9025416348988028,49.0,cadre,0.407,Maison,76
+SUPP_205e9bf3,Morel,À déterminer,1.0,37.0,cadre,0.011,Hygiène,72
+SUPP_9587da5a,Godard S.A.R.L.,Chine,0.8881952971294963,48.0,exclusif,-0.155,Maison,157
+SUPP_7e9c211d,Chauveau,Italie,0.8524166352488441,15.0,exclusif,-0.065,"Vêtements, Électronique",256
+SUPP_a83b8a86,Nguyen,Espagne,0.8296995964992717,37.0,cadre,0.298,Électronique,400
+SUPP_4cb6f990,Collin S.A.S.,Chine,0.7381779316766527,56.0,cadre,1.046,Alimentation,402
+SUPP_6fe38a8c,Adam Bertrand et Fils,À déterminer,0.0,44.0,spot,-0.607,"Hygiène, Électronique",-5
+SUPP_1b4fdd9f,Martin,Chine,0.9358110873500068,21.0,spot,0.396,Vêtements,189
+SUPP_88f0ec12,Marchal Perret SA,Italie,0.8824119817052155,27.0,exclusif,0.314,Alimentation,389
+SUPP_88d36c55,Ferrand,Narnia,0.8187753227153085,15.0,cadre,-0.449,"Électronique, Hygiène",242
+SUPP_a0e1dde1,Dupré,Allemagne,0.8275804558193726,22.0,spot,-0.339,Vêtements,300
+SUPP_6a1d3fe6,Fouquet SARL,France,0.917511973341775,50.0,cadre,-0.074,Électronique,355
+SUPP_68ca1931,Martineau,Portugal,0.7374502803207488,33.0,cadre,-0.161,Maison,222
+SUPP_814f9366,Millet,À déterminer,0.8612931454275624,29.0,À déterminer,-0.282,Hygiène,-2
+SUPP_f442976d,Grenier,France,0.7377779604433568,27.0,spot,0.122,"Maison, Vêtements",38
+SUPP_171b3f09,Lenoir,États-Unis,0.8444966571108722,51.0,exclusif,-0.253,Vêtements,140
+SUPP_2c6a8fa4,,France,0.7728961694381676,49.0,cadre,0.116,Électronique,76
+SUPP_57b45ece,Labbé,Italie,0.6751915658502675,55.0,cadre,-0.704,Alimentation,191
+SUPP_71ae1cb6,Chauvet Colas SARL,Espagne,0.7481555778747564,31.0,spot,-0.107,Électronique,-5
+SUPP_7c85f85d,Lévy,Italie,0.8510907565598004,47.0,cadre,0.738,Maison,158
+SUPP_178792c6,Bailly SARL,États-Unis,0.905765962320202,12.0,spot,-0.08,Électronique,326
+SUPP_76e8ec47,Perret Delorme S.A.S.,France,0.818098379209731,56.0,exclusif,-0.501,Vêtements,233
+SUPP_7315d3e2,Turpin,France,0.818148686400761,57.0,cadre,-0.144,Hygiène,183
+SUPP_a0ed13de,Pichon,France,0.852271856033809,42.0,exclusif,-0.414,Alimentation,271
+SUPP_03e5fa6a,Gros Reynaud et Fils,Espagne,0.8719346514241172,54.0,cadre,0.766,Vêtements,85
+SUPP_8a9fec8f,Delmas Clément SARL,Allemagne,0.8091239851543142,13.0,cadre,0.201,Alimentation,399
+SUPP_1540570e,Maillet Ruiz S.A.,Espagne,0.8424092481810417,58.0,cadre,0.006,Hygiène,335
+SUPP_c8804bbe,Caron Laurent SA,France,0.8297676098548831,6.0,cadre,-0.387,"Vêtements, Hygiène",333
+SUPP_27014676,Ollivier Bourdon SA,Italie,0.8224510174258942,24.0,cadre,0.249,Vêtements,168
+SUPP_1353e5ad,Legros,À déterminer,0.0,55.0,cadre,0.48,Électronique,340
+SUPP_41e8e2e0,Wagner Grenier S.A.R.L.,Espagne,1.0,37.0,spot,-0.384,"Électronique, Maison",388
+SUPP_3215f9ea,Alexandre,Allemagne,0.9072320636720678,32.0,cadre,0.092,"Maison, Alimentation",500
+SUPP_a4389d50,Caron Bègue et Fils,Chine,1.0,55.0,cadre,-0.404,Électronique,375
+SUPP_0e19de11,Hamel SA,France,0.7360278157819223,47.0,cadre,-0.3,Alimentation,234
+SUPP_7562fe7e,Grenier Paul S.A.R.L.,Portugal,0.7440867338446302,5.0,spot,0.075,Vêtements,341
+SUPP_df18a6c7,Pascal S.A.,France,1.0,45.0,cadre,0.938,Vêtements,139
+SUPP_b7f0502a,Pineau S.A.,Allemagne,0.915042383818605,39.0,cadre,-0.288,"Hygiène, Alimentation",479
+SUPP_d7211367,Martineau,France,0.7301585328651642,47.0,spot,0.246,Maison,168
+SUPP_415a5c4c,Faivre,Chine,0.6879766792979357,44.0,spot,0.916,Vêtements,494
+SUPP_e0fbb407,Raymond,Portugal,0.9379440120721286,29.0,cadre,-0.235,"Hygiène, Électronique",19
+SUPP_b2ebde33,Lévy,États-Unis,0.6486865470909122,23.0,spot,0.677,Alimentation,258
+SUPP_9a3091c7,Leroux,France,0.8085460154747381,20.0,spot,0.619,Alimentation,61
+SUPP_45504840,Hamel,France,0.8205243699718182,26.0,exclusif,0.023,Hygiène,102
+SUPP_356fb2e5,Diaz Baron S.A.S.,Chine,0.7749934528520755,4.0,cadre,32.85,"Hygiène, Alimentation",356
+SUPP_d362e065,Toussaint,Chine,0.7132379570617405,52.0,cadre,-0.071,"Maison, Vêtements",283
+SUPP_64c179e7,Paris Besnard SA,États-Unis,0.8320295631711898,14.0,cadre,0.257,Maison,494
+SUPP_f9cfd081,Huet,Espagne,0.8911614878088889,20.0,spot,-0.562,Maison,267
+SUPP_68fab469,Daniel,Chine,0.6665885829264377,53.0,cadre,0.639,Alimentation,456
+SUPP_84574340,Gimenez,Chine,0.8532314011979591,37.0,spot,-0.374,Maison,374
+SUPP_1678ab35,Dos Santos S.A.,France,0.9751151975522524,12.0,cadre,0.058,"Électronique, Vêtements",473
+SUPP_e898eb75,Jacob Lemonnier S.A.,France,0.9379297184063826,60.0,cadre,0.034,Maison,240
+SUPP_4f9a656e,Andre Legros S.A.R.L.,France,1.0,34.0,cadre,0.878,"Électronique, Maison",207
+SUPP_0d23e993,Allard,France,0.7951035851520926,8.0,spot,0.486,"Vêtements, Alimentation",342
+SUPP_ffb2cf9b,Legros,France,0.8845375949585147,20.0,spot,0.684,Alimentation,251
+SUPP_ab2f66c7,Leclerc S.A.R.L.,Espagne,0.7235076539419895,2.0,spot,0.343,"Alimentation, Maison",19
+SUPP_aa5b2d4f,Pires,Italie,0.9258424486849588,48.0,cadre,-0.879,Alimentation,226
+SUPP_7391ece9,Salmon S.A.S.,Allemagne,0.7016741487334224,9.0,exclusif,-1.02,Vêtements,224
+SUPP_0c8a185e,Martel,France,0.7930593165555442,55.0,spot,0.359,"Hygiène, Maison",315
+SUPP_41ed0f7b,Benard SARL,Italie,0.9702357052096028,47.0,exclusif,0.037,Hygiène,229
+SUPP_cb8fdaf0,Humbert,Allemagne,0.9828615545571292,28.0,exclusif,-0.69,Vêtements,352
+SUPP_d7bdb271,Coulon Vasseur SARL,France,0.6496617560644845,35.0,cadre,-0.028,Vêtements,412
+SUPP_066cbfe1,Vallée,Espagne,0.8584065448939306,32.0,exclusif,-0.016,"Hygiène, Électronique",208
+SUPP_c9001170,Perrier SARL,Espagne,0.6132557899960123,6.0,cadre,-0.045,"Vêtements, Électronique",385
+SUPP_39cd53cc,Ramos,France,0.6895530499495146,24.0,cadre,0.335,"Électronique, Vêtements",426
+SUPP_328b7b21,Bigot Rodriguez S.A.S.,Portugal,1.0,53.0,exclusif,32.08,"Maison, Hygiène",376
+SUPP_b017a13c,Carlier S.A.S.,Allemagne,0.7686133082663306,4.0,spot,-0.53,"Maison, Électronique",463
+SUPP_f591c2b9,Perez et Fils,Italie,0.8137320902726828,54.0,cadre,0.478,Vêtements,139
+SUPP_15c97eb9,Dufour,Allemagne,0.7214273953664456,57.0,spot,0.252,Alimentation,453
+SUPP_d07bb1dc,Vidal,Chine,0.7669742381627559,29.0,spot,-0.396,"Vêtements, Électronique",390
+SUPP_e17a556b,Bertin S.A.R.L.,Allemagne,0.8092969640045442,13.0,cadre,-0.518,Maison,264
+SUPP_baaf7408,Lecomte,Allemagne,0.7646350694652817,7.0,spot,-0.599,Hygiène,50
+SUPP_cf4367f8,Millet,Italie,1.0,22.0,exclusif,0.018,Alimentation,177
+SUPP_a3512f66,Samson,Portugal,0.7500274492007414,29.0,exclusif,0.107,"Vêtements, Maison",237
+SUPP_5358cf6b,Lopes,Chine,0.808767195030917,60.0,cadre,-0.11,Électronique,232
+SUPP_67db7184,Fleury,France,0.8814166700043424,42.0,cadre,0.379,Électronique,272
+SUPP_2af9991d,Lelièvre SA,France,0.7669498852389472,40.0,cadre,-0.288,"Alimentation, Électronique",234
+SUPP_f6881808,Marty S.A.,Allemagne,0.7924948302848356,43.0,cadre,-1.151,Électronique,206
+SUPP_bfabc06c,Valette et Fils,Portugal,0.6684808937801447,25.0,cadre,0.683,"Électronique, Alimentation",400
+SUPP_42a44058,Faivre SA,Italie,0.9844967713501284,27.0,cadre,-0.125,Alimentation,152
+SUPP_a2172c98,Bourgeois Lefebvre S.A.S.,France,0.8776556963055766,13.0,cadre,0.156,Électronique,208
+SUPP_4575d5bd,Dupuis Marchand S.A.R.L.,Chine,1.0,47.0,cadre,0.56,"Électronique, Vêtements",323
+SUPP_1ea5ebbc,Thibault S.A.,Allemagne,0.8072082408519233,10.0,spot,-0.478,Maison,241
+SUPP_edfebd69,Bonnin,États-Unis,0.6593553679742427,53.0,cadre,0.102,Maison,442
+SUPP_8502978b,Gosselin,Italie,0.7443649254715696,20.0,spot,-0.711,"Vêtements, Électronique",445
+SUPP_bea48b50,Brun,Chine,0.7553427115757473,34.0,cadre,-0.541,Alimentation,112
+SUPP_471ab5ca,Merle S.A.,À déterminer,0.9887141635072564,37.0,cadre,0.441,"Alimentation, Maison",249
+SUPP_97578c25,Nicolas,Portugal,0.8192027358683382,7.0,exclusif,0.74,"Hygiène, Alimentation",213
+SUPP_a91540e1,Langlois S.A.S.,Chine,0.8277368307647618,54.0,cadre,-0.431,"Maison, Hygiène",74
+SUPP_45dd442b,Chauvin,Espagne,0.9723124077269656,35.0,cadre,0.269,"Électronique, Maison",459
+SUPP_67ecde9b,Sanchez Allain et Fils,Chine,0.7162753845673543,10.0,cadre,-0.095,"Hygiène, Alimentation",476
+SUPP_3951318c,Moreno SA,Chine,0.912617754753164,56.0,exclusif,0.955,Hygiène,110
+SUPP_c5fd64ab,Rossi,France,0.6801432426180858,21.0,cadre,0.281,"Hygiène, Vêtements",57
+SUPP_44df4bce,Peltier,Italie,0.7549357430878173,39.0,exclusif,-0.244,Alimentation,347
+SUPP_a49d870c,Muller,Chine,0.7607606075761131,38.0,exclusif,-0.432,"Hygiène, Vêtements",452
+SUPP_ab51352a,Richard,États-Unis,0.8248521627944827,51.0,cadre,-0.415,Électronique,343
+SUPP_ddd8d1a2,Camus,Espagne,0.8470456825779838,42.0,exclusif,-0.025,Hygiène,465
+SUPP_066c709d,Lesage SARL,Espagne,0.796105195313359,53.0,spot,-0.454,"Vêtements, Hygiène",217
+SUPP_32e59122,Neveu,Portugal,0.7623228669431666,12.0,cadre,0.378,Électronique,257
+SUPP_2aab34f7,Gay Schmitt et Fils,Portugal,0.8700917187624381,22.0,spot,-0.489,Vêtements,173
+SUPP_11783013,Chauvet,France,0.8299332305429226,25.0,cadre,0.376,"Vêtements, Maison",64
+SUPP_fa002c82,Turpin,France,0.6530594718878627,30.0,cadre,0.272,Maison,59
+SUPP_9e5a9157,Foucher,Chine,0.7537376241054152,28.0,cadre,0.285,Maison,453
+SUPP_7732740b,Breton,France,0.7436740843457482,12.0,cadre,-0.902,"Vêtements, Hygiène",273
+SUPP_ac582d41,Fernandez Lopes S.A.R.L.,Espagne,0.6572457562116837,7.0,spot,0.024,Vêtements,268
+SUPP_2cdaa0da,Hamel Barthelemy S.A.S.,Allemagne,0.8459722501721482,24.0,exclusif,-0.452,Alimentation,154
+SUPP_1eba7c58,Marques,Allemagne,0.8838592458777373,2.0,spot,-0.831,Maison,230
+SUPP_8ef727a2,Costa SARL,Chine,0.8133920201352683,50.0,cadre,-0.606,Vêtements,33
+SUPP_918631bc,Coulon Lecomte SARL,Italie,0.754816389219784,25.0,cadre,0.024,Hygiène,47
+SUPP_f090f456,Leblanc,Chine,0.7339586634716047,19.0,spot,-0.192,Maison,329
+SUPP_23ea2df5,Godard,À déterminer,0.920629280921444,27.0,cadre,-0.288,"Électronique, Alimentation",183
+SUPP_4ef65bb3,Berthelot,Chine,0.903569211206514,14.0,cadre,-0.565,Vêtements,215
+SUPP_d930d00f,Blondel S.A.,France,0.8729804177915282,47.0,cadre,0.721,Électronique,252
+SUPP_641d3d2a,Guillot et Fils,Portugal,0.572835549987271,34.0,exclusif,-0.398,Alimentation,486
+SUPP_1dbea66f,Camus,États-Unis,0.877707212718054,49.0,spot,-0.102,"Alimentation, Maison",313
+SUPP_ebd689e9,Blot Ollivier et Fils,Italie,0.8571145873371309,47.0,cadre,-0.302,Hygiène,253
+SUPP_156a432b,Pons,Portugal,0.82865897874729,28.0,cadre,-0.078,"Vêtements, Hygiène",417
+SUPP_e60852b3,Morin SARL,Allemagne,0.9367782061659808,43.0,spot,0.127,"Électronique, Maison",407
+SUPP_4f1cf07e,Lebon Jacquot S.A.,Chine,0.8537602662075202,39.0,cadre,-0.206,Alimentation,278
+SUPP_9ebb95b4,Dupré,France,0.7712393775927506,45.0,cadre,-0.216,"Hygiène, Maison",303
+SUPP_f9449fc1,Reynaud,France,0.8594452142378296,22.0,cadre,-0.21,"Électronique, Alimentation",221
+SUPP_be5e64d7,Lamy,Chine,0.8489774856896413,49.0,spot,1.038,"Maison, Hygiène",371
+SUPP_346f97d0,Benard,Italie,0.9071124703431692,44.0,cadre,-0.163,Alimentation,202
+SUPP_ae6dcd1c,Dupuy,Espagne,0.9401213922163943,36.0,cadre,-0.204,Alimentation,191
+SUPP_5cf01411,Deschamps,France,0.6161875464822145,17.0,cadre,-0.504,"Vêtements, Maison",162
+SUPP_c0a64e2b,Mathieu Mace S.A.,Chine,0.6329208078974143,47.0,cadre,-0.176,Vêtements,370
+SUPP_0e2ca2f0,Mathieu,Allemagne,0.8218418379189552,52.0,spot,0.838,Maison,157
+SUPP_489306c6,Olivier Fabre et Fils,Espagne,0.8526927373764163,27.0,spot,-0.11,Hygiène,498
+SUPP_5df504ae,Baron,À déterminer,0.0,47.0,À déterminer,-1.106,"Alimentation, Vêtements",483
+SUPP_c45dd64f,Roussel,Chine,0.8435614558108565,15.0,cadre,0.385,Vêtements,285
+SUPP_092b822a,Collet Dumas SARL,Portugal,0.6721413754220158,10.0,exclusif,0.572,Hygiène,389
+SUPP_b284e63e,Hernandez Garcia et Fils,France,0.8538496407494414,59.0,cadre,-0.208,Alimentation,336
+SUPP_4f4c6fe6,Paris Lambert SA,Espagne,0.8832781866106284,47.0,cadre,1.135,Électronique,358
+SUPP_1672f0f4,Rocher,Espagne,0.8381866255058494,58.0,spot,0.124,"Électronique, Alimentation",254
+SUPP_83009019,,Allemagne,0.7740639100459755,5.0,Narnia,-0.425,"Vêtements, Hygiène",55
+SUPP_4193ce34,Richard S.A.S.,États-Unis,0.9030335816544244,13.0,cadre,-0.428,"Alimentation, Électronique",438
+SUPP_5f57644b,Lelièvre,États-Unis,0.8271566237219392,27.0,spot,-0.239,Électronique,105
+SUPP_8419b299,Besnard,France,0.8678979825746391,38.0,cadre,0.167,"Vêtements, Électronique",485
+SUPP_daaac2d1,Gonzalez,États-Unis,0.92375399442579,36.0,cadre,-0.255,"Vêtements, Maison",465
+SUPP_6b9b3ff9,Fleury S.A.R.L.,Allemagne,0.7930125064706628,53.0,exclusif,-0.489,"Hygiène, Maison",93
+SUPP_87e4be4d,François S.A.R.L.,France,0.7755706739923888,23.0,spot,0.189,"Vêtements, Alimentation",300
+SUPP_9be299a1,Legrand,À déterminer,0.8956988616645352,42.0,spot,-0.461,"Alimentation, Hygiène",433
+SUPP_e12b746d,Clément,France,0.86134349032237,26.0,cadre,0.938,Alimentation,395
+SUPP_ab1ccd12,Lemaire Pascal S.A.R.L.,Allemagne,0.7426210800896427,48.0,cadre,-0.622,Vêtements,143
+SUPP_dc161057,Diallo Barbe S.A.R.L.,Portugal,0.6421279751095721,31.0,cadre,0.748,"Alimentation, Électronique",217
+SUPP_8ab0e34f,Pichon,Portugal,0.8854365656354057,20.0,cadre,-0.028,"Vêtements, Électronique",123
+SUPP_fa4f8025,Pruvost,Espagne,0.8479968626319819,31.0,spot,-0.563,Alimentation,320
+SUPP_3a0adfb8,Schneider,États-Unis,1.0,50.0,cadre,0.065,Hygiène,350
+SUPP_b88fc0e1,Bourdon et Fils,Italie,0.8309394794604893,35.0,spot,0.363,"Alimentation, Électronique",49
+SUPP_c4eee24a,Ledoux S.A.,Chine,0.8681009231736713,59.0,cadre,0.112,"Électronique, Hygiène",303
+SUPP_6ecac7b1,Aubry Peltier SA,Allemagne,0.7409525544554687,35.0,cadre,0.236,Alimentation,358
+SUPP_73e3df9b,Dupuis Giraud S.A.S.,Espagne,1.0,59.0,cadre,0.673,Hygiène,424
+SUPP_379067e1,Barbier SA,Italie,0.9793186626639396,31.0,cadre,-0.256,Alimentation,296
+SUPP_08e53653,Lebreton,Chine,0.7210395179741419,27.0,cadre,-0.063,Vêtements,11
+SUPP_26f02b37,Grondin SARL,France,0.650753537028518,28.0,exclusif,0.765,"Électronique, Maison",79
+SUPP_0359c859,Boutin,États-Unis,0.804199210142101,26.0,cadre,-0.213,"Maison, Vêtements",479
+SUPP_ed191d45,Guérin,Portugal,0.7187895624739832,44.0,spot,-0.827,"Maison, Électronique",78
+SUPP_2bad35a4,Aubry Toussaint S.A.S.,France,0.9023170583961916,36.0,cadre,0.037,"Vêtements, Électronique",75
+SUPP_b3b98bdb,Lamy Noël S.A.S.,Chine,0.6910039100258946,21.0,cadre,-0.648,"Alimentation, Électronique",378
+SUPP_e9bd0b49,Jourdan Gérard SARL,Espagne,0.7864215300709871,16.0,cadre,0.835,Hygiène,187
+SUPP_cf7cb570,Guérin Lopez S.A.,États-Unis,0.7940408648636395,48.0,spot,-0.752,Alimentation,26
+SUPP_9ad63f7f,Valentin,Allemagne,0.7954256935914055,6.0,exclusif,-0.136,"Maison, Électronique",27
+SUPP_25d7d561,Navarro,Allemagne,0.5503113357058428,4.0,cadre,-0.027,Électronique,129
+SUPP_1ca021e2,Bigot et Fils,France,0.7969065469791321,20.0,cadre,0.348,Électronique,479
+SUPP_e4e80e11,Bonnin,Allemagne,1.0,58.0,exclusif,0.563,"Vêtements, Hygiène",348
+SUPP_60fb6667,Maillard,Allemagne,0.7931111309445169,5.0,cadre,-0.553,Maison,312
+SUPP_a402ec83,,Italie,1.0,5.0,spot,0.03,"Alimentation, Maison",492
+SUPP_2b499253,Joseph SA,Portugal,0.8213929291912946,28.0,exclusif,-0.012,"Maison, Vêtements",202
+SUPP_7df83051,Guyon,Espagne,0.8398084760767854,56.0,cadre,-0.072,Hygiène,449
+SUPP_7c0df39f,Texier,Italie,0.7626337993119763,28.0,cadre,-0.273,"Maison, Électronique",78
+SUPP_c5af44b6,Michel,Allemagne,0.8167246729784001,43.0,exclusif,-0.272,Vêtements,240
+SUPP_daa3bc5c,Rolland et Fils,France,0.7487154217322836,26.0,cadre,0.053,"Électronique, Alimentation",-37
+SUPP_ab4ec381,Salmon et Fils,France,0.7945022782579144,50.0,cadre,0.752,Électronique,353
+SUPP_4ea60518,Verdier,Allemagne,0.5549030191606987,60.0,cadre,0.546,Maison,499
+SUPP_2ca9a078,Ledoux S.A.,États-Unis,0.9446085192497627,9.0,spot,-1.037,"Alimentation, Hygiène",396
+SUPP_93d15c31,Paul,Portugal,0.7857312405919651,47.0,cadre,-0.186,Alimentation,478
+SUPP_beb17d8f,Lopes,Chine,0.6792488305282178,26.0,cadre,-0.389,Vêtements,342
+SUPP_9f022ec3,Mary Nguyen et Fils,Espagne,0.7089424154534171,58.0,cadre,0.876,Vêtements,60
+SUPP_159b15d7,Robin,États-Unis,0.0,25.0,cadre,13.16,"Maison, Vêtements",-92
+SUPP_69731f0d,Lévêque,Chine,0.8921672064043235,3.0,cadre,-0.565,Alimentation,-68
+SUPP_15458f3d,Le Roux,Allemagne,0.7675479733720226,14.0,cadre,0.245,Maison,204
+SUPP_25ecb0bf,Leconte,Espagne,0.6977872191108054,43.0,spot,0.356,Alimentation,182
+SUPP_a1be28c3,Renard SARL,États-Unis,0.7959674601841864,43.0,spot,-0.187,Maison,245
+SUPP_8bb9015b,Lemonnier,France,0.8910959968203491,48.0,cadre,0.222,Vêtements,104
+SUPP_d7cd3b99,Hervé,Italie,0.783903383418092,55.0,spot,0.58,"Hygiène, Électronique",493
+SUPP_dedc7eb1,Samson,Espagne,0.7118936672400102,55.0,cadre,0.308,"Électronique, Hygiène",44
+SUPP_05625703,De Sousa SA,Italie,0.8793101257968383,25.0,exclusif,-0.155,"Électronique, Alimentation",336
+SUPP_c34db82d,Fleury,Portugal,0.8526133022242117,3.0,exclusif,-0.626,"Hygiène, Maison",292
+SUPP_737bb68f,Ferreira,Italie,0.91240270192069,19.0,cadre,-0.092,Électronique,156
+SUPP_ca5a9878,Buisson,Chine,0.767727697948096,60.0,exclusif,0.525,Maison,480
+SUPP_057e5c34,Descamps S.A.S.,Allemagne,0.749565630945724,41.0,cadre,-0.704,Alimentation,427
+SUPP_2ff96391,,France,1.0,27.0,cadre,0.303,Maison,-34
+SUPP_e48f1fec,Roche S.A.S.,Portugal,0.6919570647503717,56.0,exclusif,0.877,"Alimentation, Vêtements",449
+SUPP_6078a3aa,Loiseau,Espagne,0.6118070592116277,26.0,cadre,0.848,"Électronique, Hygiène",38
+SUPP_450b674a,Toussaint,Espagne,0.8411017467202618,29.0,À déterminer,-0.048,"Alimentation, Électronique",-88
+SUPP_222b9243,Samson,Chine,0.765508091319105,60.0,exclusif,0.2,Électronique,118
+SUPP_18943076,Martins SARL,Allemagne,0.8162365297575152,6.0,cadre,0.552,"Hygiène, Maison",153
+SUPP_77475011,Hervé Navarro et Fils,France,0.8314227648662039,56.0,cadre,0.075,"Hygiène, Électronique",116
+SUPP_49f76e52,,À déterminer,1.0,21.0,exclusif,-0.028,Maison,133
+SUPP_184b3489,Lacombe Leroux SARL,France,0.6851814577894286,29.0,cadre,0.372,"Électronique, Vêtements",48
+SUPP_70ecd0f0,Courtois S.A.R.L.,États-Unis,0.8370865438127941,27.0,spot,34.35,Hygiène,177
+SUPP_017be94e,Jean SA,Chine,0.8218433933065392,30.0,cadre,0.174,Vêtements,192
+SUPP_94bff9df,Lemaire,Espagne,0.7660240319690638,45.0,cadre,-0.389,Maison,204
+SUPP_59147db1,Didier Auger SARL,Allemagne,0.8395845255097681,17.0,spot,-0.489,Hygiène,52
+SUPP_04756636,Legros,Chine,0.8608252755714472,42.0,exclusif,-0.851,Maison,209
+SUPP_7bfdb639,Pineau Courtois S.A.,France,0.8456029734313875,29.0,cadre,0.491,Alimentation,294
+SUPP_296836df,Aubert,France,0.9865474444462576,24.0,cadre,0.507,Électronique,315
+SUPP_a8bd3161,Muller Baron S.A.R.L.,Chine,0.6359125768668354,2.0,cadre,-0.64,Vêtements,208
+SUPP_bfcb23e4,Guillou,Italie,0.757518142230432,12.0,cadre,0.013,"Hygiène, Alimentation",96
+SUPP_c6cfef44,Bernard,Allemagne,0.8717659020469123,11.0,exclusif,-0.363,Vêtements,232
+SUPP_6c505605,,Espagne,0.8386766764477078,6.0,Narnia,-0.378,Vêtements,-83
+SUPP_f88b269c,Coste,Italie,0.7588482197008051,14.0,cadre,-0.703,Maison,-77
+SUPP_5a8874ca,Gérard,À déterminer,0.7276766753889095,41.0,cadre,-0.676,Maison,451
+SUPP_69d99ad7,Tanguy,Espagne,0.7224126747022667,54.0,spot,0.527,Vêtements,314
+SUPP_ba01239e,Barre,Portugal,0.7250601111168057,46.0,cadre,1.316,Vêtements,170
+SUPP_27a3acec,Courtois,États-Unis,0.8693317900880889,20.0,spot,0.092,Maison,334
+SUPP_718bf6e4,Pineau,Chine,0.7341642219818786,22.0,cadre,0.35,Hygiène,428
+SUPP_41b1adee,Roche,États-Unis,0.7624362173762226,14.0,cadre,0.061,"Vêtements, Électronique",289
+SUPP_865b0c9e,Masse Jacob S.A.,France,1.0,48.0,cadre,-0.048,Hygiène,372
+SUPP_aed38dd2,Bertrand,Chine,0.9349273326285676,6.0,spot,-0.352,Vêtements,417
+SUPP_b6cb477d,Vallet,Portugal,0.8165011509503037,17.0,cadre,0.885,"Maison, Alimentation",88
+SUPP_6aa9da4a,Munoz,Espagne,0.7573032942212232,40.0,cadre,0.906,"Maison, Électronique",215
+SUPP_4a88f207,Collin,Italie,0.8907751935455475,52.0,spot,-0.281,Maison,369
+SUPP_57321527,Costa Da Silva S.A.,France,0.883240773905552,17.0,cadre,0.486,"Hygiène, Électronique",191
+SUPP_f930f098,Roussel,France,0.8821809962217196,43.0,cadre,-0.785,Hygiène,214
+SUPP_bee8bcb7,Roussel,France,0.747286282417513,8.0,cadre,-0.124,"Vêtements, Maison",271
+SUPP_10bae990,Garcia,Espagne,0.8125566570899954,27.0,cadre,0.31,"Hygiène, Alimentation",357
+SUPP_c3e4efa1,Lejeune Bègue S.A.,France,0.8377701000933253,3.0,cadre,-0.668,Hygiène,161
+SUPP_3b0b6547,Lelièvre SARL,France,0.8580197851005963,48.0,exclusif,0.305,Électronique,169
+SUPP_28cb35ce,Ferrand,Italie,0.875979044793104,24.0,cadre,0.54,Alimentation,234
+SUPP_c25230e4,Delahaye,France,0.9033922154548903,4.0,spot,0.23,"Maison, Vêtements",68
+SUPP_68d54560,,À déterminer,0.8129834288541352,45.0,spot,-0.83,Vêtements,486
+SUPP_c9740262,Prévost,Italie,0.8629618219132585,23.0,cadre,0.104,"Alimentation, Hygiène",500
+SUPP_fa6ea6c7,,Portugal,0.8471578837195373,13.0,cadre,-0.638,Maison,231
+SUPP_56b9757a,Maurice SA,Chine,0.7118943459591737,30.0,cadre,0.527,Hygiène,209
+SUPP_0f190176,Lefort Pottier SARL,Allemagne,0.8160444846143344,50.0,spot,0.341,Alimentation,417
+SUPP_05404844,Letellier Robin S.A.R.L.,Chine,0.8228318376130461,36.0,exclusif,0.015,Électronique,176
+SUPP_fcd741ac,Samson et Fils,Allemagne,0.9138283805975996,57.0,cadre,-0.258,Électronique,337
+SUPP_1391e881,Hebert S.A.,Portugal,0.8296120776940983,39.0,exclusif,-0.231,Maison,190
+SUPP_a1aaa899,Leroy,Chine,0.0,47.0,spot,-0.155,"Hygiène, Alimentation",480
+SUPP_2f365b9f,Germain SA,Allemagne,0.8422133771633712,17.0,cadre,-0.239,"Électronique, Alimentation",103
+SUPP_9e033579,Pelletier,Italie,0.945575612557352,28.0,cadre,-0.447,Alimentation,304
+SUPP_b9b542d3,Perret,Espagne,0.801312835583864,36.0,À déterminer,41.27,Alimentation,-15
+SUPP_969212a0,Moulin Laporte S.A.R.L.,Espagne,0.9646977884353732,10.0,exclusif,0.098,"Alimentation, Hygiène",441
+SUPP_261af11a,Picard Roger SA,Chine,0.9231844539468634,2.0,cadre,-0.743,Électronique,109
+SUPP_04b9217b,Legendre,Espagne,0.8467050265869258,33.0,cadre,0.445,"Hygiène, Maison",440
+SUPP_921700ce,Mahe Guillon S.A.,France,0.8282283989275424,3.0,spot,0.533,Alimentation,122
+SUPP_05964d8d,Pinto Diaz SARL,Allemagne,0.7682711549899628,20.0,exclusif,45.73,Vêtements,-91
+SUPP_f865f66b,Adam,Italie,1.0,9.0,cadre,-0.181,Maison,147
+SUPP_2d13311e,Turpin SARL,Chine,0.0,30.0,cadre,0.727,"Vêtements, Électronique",-74
+SUPP_644e137f,Legrand Pichon SARL,Allemagne,0.9779572145730712,4.0,cadre,-0.261,Alimentation,188
+SUPP_d08b8199,Riou,Chine,0.7779813182904143,9.0,spot,-0.141,"Électronique, Maison",131
+SUPP_192ac200,Blot,Portugal,0.6855549488965722,57.0,spot,-0.459,Hygiène,333
+SUPP_5066a34b,Pineau,France,0.7195859233247932,15.0,spot,-0.384,Hygiène,422
+SUPP_f80ae591,,Italie,0.8165315112613218,40.0,cadre,0.117,Vêtements,175
+SUPP_f19db8a5,Guillet,Italie,0.9750500492814076,56.0,cadre,-0.499,"Vêtements, Hygiène",470
+SUPP_695d8df9,Gomez S.A.R.L.,États-Unis,0.9184322398476584,52.0,cadre,-0.107,"Électronique, Alimentation",40
+SUPP_5d57cabf,Bruneau,Allemagne,0.8150536290347566,47.0,cadre,0.337,"Alimentation, Hygiène",136
+SUPP_791bdcfd,Bonnin,France,0.70772779784377,42.0,cadre,0.191,"Maison, Hygiène",222
+SUPP_eda05e1f,Simon,Portugal,0.8366452208213055,58.0,spot,0.246,Électronique,216
+SUPP_563902bd,Paris,Portugal,0.8489168643907817,58.0,cadre,1.228,Vêtements,496
+SUPP_7ae58be9,Moreno et Fils,France,0.7562260015748683,51.0,spot,-0.265,Hygiène,57
+SUPP_417079df,Seguin et Fils,Chine,0.7576859473575235,52.0,cadre,-0.278,"Maison, Vêtements",121
+SUPP_9e398929,Renault,Allemagne,0.7562612872693482,55.0,cadre,0.595,"Alimentation, Maison",290
+SUPP_33f875d7,Seguin Benard S.A.,Chine,0.9620504247989854,52.0,cadre,-0.285,Hygiène,359
+SUPP_1b37457f,Legendre Deschamps et Fils,Portugal,0.7367644426895771,55.0,cadre,0.236,"Électronique, Hygiène",73
+SUPP_18677ed4,Techer Pereira et Fils,Espagne,0.7647776955719028,29.0,cadre,0.316,"Alimentation, Maison",362
+SUPP_0072e78c,Ruiz S.A.R.L.,Chine,0.84029230208513,58.0,cadre,-0.758,"Vêtements, Alimentation",345
+SUPP_b2a3e1af,Delorme SARL,Espagne,0.974750520133006,59.0,cadre,0.898,Électronique,36
+SUPP_0416e07b,Robin Collet SARL,Chine,0.0,50.0,cadre,-0.194,Vêtements,345
+SUPP_dde7a4c4,Roger,France,0.0,32.0,exclusif,0.167,Électronique,313
+SUPP_45d8c162,Payet Gimenez SARL,France,0.885854427267283,46.0,cadre,1.005,Maison,71
+SUPP_41627e7a,Gaillard,À déterminer,0.802305277250595,16.0,À déterminer,-0.399,"Maison, Alimentation",-55
+SUPP_afab23b4,Leduc,Espagne,0.6820680771985472,21.0,exclusif,-0.365,"Électronique, Vêtements",406
+SUPP_0e85e0f9,Letellier,France,0.8166873027126202,38.0,exclusif,0.897,"Alimentation, Hygiène",342
+SUPP_d5305a57,Noël,Chine,0.7682388700963828,42.0,spot,0.112,Vêtements,480
+SUPP_15f53fb0,Sanchez,Chine,0.8183577103927248,7.0,spot,0.594,Maison,81
+SUPP_e1e17290,Faivre Jean et Fils,Espagne,0.0,29.0,Narnia,-0.265,"Hygiène, Maison",81
+SUPP_01d36f26,Pascal,Allemagne,0.7710560557481777,40.0,cadre,0.522,Électronique,321
+SUPP_7aa527d2,Robin,Chine,0.8881891489626311,44.0,spot,0.923,Électronique,115
+SUPP_83280709,Garcia,France,0.8783928185325963,27.0,cadre,-0.18,Hygiène,37
+SUPP_ac026d82,De Sousa SARL,États-Unis,0.9020482181197363,22.0,exclusif,0.254,Électronique,450
+SUPP_3fc18c99,Mary,Italie,0.9266674689589154,13.0,spot,0.585,"Maison, Vêtements",498
+SUPP_3cf33d93,Diaz,Italie,0.9582158991037528,2.0,cadre,0.324,"Électronique, Hygiène",30
+SUPP_9fef98d7,Nicolas,Portugal,0.8032881919683145,34.0,spot,0.073,"Maison, Vêtements",226
+SUPP_a23b5d8e,Georges Laurent S.A.S.,Allemagne,0.9406508966508356,21.0,exclusif,-0.408,"Électronique, Alimentation",481
+SUPP_71fe9fe0,Bourdon,Italie,0.8568673308872901,27.0,cadre,-0.197,Alimentation,400
+SUPP_516ab648,Jourdan Andre et Fils,Portugal,0.8228744822934817,48.0,spot,0.639,"Électronique, Vêtements",132
+SUPP_52d5dcde,Bonnin,États-Unis,0.8391099068019903,9.0,cadre,0.023,Électronique,321
+SUPP_f7916150,Delahaye,France,0.684014385902008,47.0,exclusif,0.373,Alimentation,15
+SUPP_98b50b03,Ferreira,Italie,0.8845484181141074,52.0,spot,1.082,Vêtements,142
+SUPP_9bfcd6d6,,Chine,0.7892221765046998,57.0,cadre,0.11,Alimentation,463
+SUPP_95cc6dd5,Ferreira,Allemagne,0.8449383683710755,29.0,cadre,0.789,Électronique,42
+SUPP_b9169873,Huet S.A.S.,Portugal,0.8104704467613048,33.0,cadre,0.14,Hygiène,194
+SUPP_ec07a72c,Chevallier De Sousa SARL,France,0.8807896509716538,12.0,cadre,0.093,Hygiène,62
+SUPP_e7b1e261,Coste,Chine,0.7753566385449471,2.0,exclusif,0.097,"Électronique, Alimentation",451
+SUPP_ac0a0f63,Legros Bègue SA,Espagne,0.9273631749859772,26.0,spot,-0.513,Électronique,101
+SUPP_2665d689,Chauvet,Allemagne,0.8332969674146875,17.0,cadre,-0.35,"Électronique, Maison",378
+SUPP_4f0067f7,Guyot,Italie,0.9395046628924842,9.0,cadre,-0.762,Électronique,471
+SUPP_805a8682,Blot SARL,Chine,0.7641078152728411,4.0,spot,0.189,Alimentation,45
+SUPP_6c2d1493,Hebert Hebert S.A.,Allemagne,0.976552402923434,37.0,cadre,-0.033,"Vêtements, Hygiène",198
+SUPP_e3493220,Perrin,Chine,0.7644800473306801,49.0,cadre,0.941,Hygiène,247
+SUPP_73fb2576,Devaux,États-Unis,0.6751986099583756,51.0,exclusif,-1.099,Maison,471
+SUPP_129900a2,Bonnet,France,0.8640014450053332,28.0,exclusif,-0.251,Alimentation,287
+SUPP_45eb54a7,Baron,États-Unis,0.7178767182869286,2.0,spot,0.354,Électronique,202
+SUPP_69510e14,,Allemagne,0.8443800713771198,17.0,cadre,-0.282,"Vêtements, Électronique",40
+SUPP_0edfa36c,,France,1.0,60.0,cadre,0.436,"Alimentation, Vêtements",442
+SUPP_49bdbad5,Girard SARL,Espagne,0.8850201177958661,49.0,exclusif,-0.05,Vêtements,58
+SUPP_0f00d8ef,Marchand Moreno S.A.,France,1.0,38.0,exclusif,-0.535,Maison,349
+SUPP_c38ec617,Salmon S.A.S.,Allemagne,0.6674474829075261,22.0,spot,-0.346,"Alimentation, Vêtements",211
+SUPP_ed5b0d2d,Coste Fabre S.A.,Espagne,0.8154413983644502,16.0,exclusif,0.122,"Vêtements, Hygiène",113
+SUPP_28dd0ba9,Becker,France,1.0,8.0,À déterminer,0.176,Hygiène,248
+SUPP_2999db74,Godard Bernard SARL,Italie,0.6948460575809555,51.0,cadre,0.722,Électronique,167
+SUPP_f74f2022,Dumont Gimenez SARL,France,0.8117848821607431,53.0,cadre,0.559,Électronique,433
+SUPP_ac3dc934,Masson Peltier SA,Allemagne,0.8542725346377704,56.0,cadre,0.228,"Hygiène, Électronique",56
+SUPP_f34ce11d,Garcia Pelletier S.A.,Italie,0.8769767280232204,45.0,cadre,0.224,"Vêtements, Maison",429
+SUPP_1b61686e,Durand,Chine,0.8842722759867543,37.0,spot,0.665,"Électronique, Maison",137
+SUPP_13d305fc,Aubry Roux S.A.,Chine,0.839652116970147,10.0,exclusif,0.355,Électronique,41
+SUPP_c7d531d7,Vallet SA,États-Unis,0.752360769794073,6.0,exclusif,0.9,"Électronique, Vêtements",43
+SUPP_0008410b,Pons,Chine,0.8159842049355656,7.0,spot,-0.715,Maison,434
+SUPP_7c3aa2fa,Blanchet,À déterminer,0.8328104414910789,5.0,À déterminer,-0.341,"Électronique, Hygiène",303
+SUPP_fe63581b,Sauvage S.A.S.,Espagne,0.9040643548988724,26.0,cadre,-0.326,Maison,98
+SUPP_db3b3a27,Bonneau Bertrand et Fils,Allemagne,0.775381656678522,30.0,spot,-0.945,Alimentation,27
+SUPP_16cd8392,Albert,Portugal,0.7747693680750922,33.0,cadre,-1.212,"Hygiène, Alimentation",291
+SUPP_70ed95d6,Bonnet S.A.R.L.,Allemagne,0.6616097176514276,10.0,cadre,0.38,Électronique,339
+SUPP_98d5a10a,Launay,Portugal,0.8985800158650832,53.0,cadre,0.213,"Hygiène, Alimentation",19
+SUPP_76f40156,,À déterminer,0.7233023856870786,33.0,cadre,-0.024,"Vêtements, Maison",299
+SUPP_fc14ed2d,Legrand,Allemagne,0.8196397460909431,3.0,cadre,-0.579,Maison,122
+SUPP_26c2e724,Lebrun S.A.S.,France,0.970339830176715,32.0,cadre,0.439,Vêtements,402
+SUPP_54aa25ce,François Marchand SARL,États-Unis,0.7979035826170335,8.0,cadre,0.013,Alimentation,133
+SUPP_c3526ec0,De Sousa,France,0.7952822617479403,39.0,cadre,-0.341,Alimentation,387
+SUPP_d1480191,Perrin,Chine,0.7198379990105084,24.0,spot,-0.141,"Hygiène, Électronique",298
+SUPP_ec2830bc,Bègue et Fils,Chine,0.9997686526849522,53.0,spot,0.32,Alimentation,262

@@ -12,7 +12,7 @@ def clean_customers_data(df):
     
     # 2. Compte des BADID
     nb_badid = (df['customer_id'] == 'BADID').sum()
-    print(f"❌ Identifiants corrompus (BADID) : {(nb_badid/total_initial):.1%}")
+    print(f"❌ Identifiants corrompus (BADID) : {nb_badid} ({(nb_badid/total_initial):.1%})")
     
     # 3. Audit des dates (Correction du bug 'assemble mappings')
     aujourdhui = pd.Timestamp.now()
@@ -24,17 +24,17 @@ def clean_customers_data(df):
         nb_futur = (temp_series > aujourdhui).sum()
         nb_invalide = temp_series.isna().sum() - df[col].isna().sum()
         stats_dates[col] = nb_futur + nb_invalide
-        print(f"📅 Dates aberrantes dans '{col}' : {(stats_dates[col]/total_initial):.1%}")
+        print(f"📅 Dates aberrantes dans '{col}' : {stats_dates[col]} ({(stats_dates[col]/total_initial):.1%})")
 
     # 4. Audit des valeurs "Fantaisistes"
     bruit = ['Narnia', 'inconnu', 'extra', 'X', 'UNKNOWN']
     for col in cat_cols:
         nb_bruit = df[col].isin(bruit).sum()
-        print(f"🎭 Valeurs fantaisistes dans '{col}' : {(nb_bruit/total_initial):.1%}")
+        print(f"🎭 Valeurs fantaisistes dans '{col}' : {nb_bruit} ({(nb_bruit/total_initial):.1%})")
 
     # 5. Audit des doublons
     nb_doublons = df.duplicated(subset=[dedup_col]).sum()
-    print(f"👯 Doublons détectés sur '{dedup_col}' : {(nb_doublons/total_initial):.1%}")
+    print(f"👯 Doublons détectés sur '{dedup_col}' : {nb_doublons} ({(nb_doublons/total_initial):.1%})")
 
     # --- NETTOYAGE EFFECTIF ---
     # On filtre les IDs

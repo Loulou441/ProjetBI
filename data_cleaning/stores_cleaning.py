@@ -5,20 +5,20 @@ def clean_stores_data(df):
     initial_len = len(df)
     
     # --- AUDIT AVANT NETTOYAGE ---
-    bad_ids = len(df[df['store_id'] == 'BADID'])/initial_len
-    bad_warehouses = (len(df[df['warehouse_id'] == 'ENT_UNKNOWN']) + len(df[df['warehouse_id'] == 'BADID']))/initial_len
-    bad_revenue = len(df[df['annual_revenue'] <= 0])/initial_len
-    bad_surface = len(df[df['surface_sqm'] <= 0])/initial_len
-    bad_address = df['address'].isna().sum()/initial_len
-    bad_dates = len(df[pd.to_datetime(df['opening_date'], errors='coerce') > pd.Timestamp.now()])/initial_len
+    bad_ids = len(df[df['store_id'] == 'BADID'])
+    bad_warehouses = (len(df[df['warehouse_id'] == 'ENT_UNKNOWN']) + len(df[df['warehouse_id'] == 'BADID']))
+    bad_revenue = len(df[df['annual_revenue'] <= 0])
+    bad_surface = len(df[df['surface_sqm'] <= 0])
+    bad_address = df['address'].isna().sum()
+    bad_dates = len(df[pd.to_datetime(df['opening_date'], errors='coerce') > pd.Timestamp.now()])
 
     print(f"📊 RAPPORT D'AUDIT : Stores")
-    print(f"❌ Identifiants Customers ID : {bad_ids:.1%}")
-    print(f"❌ Identifiants WAREHOUSE : {bad_warehouses:.1%}")
-    print(f"💰 Revenus négatifs ou nuls : {bad_revenue:.1%}")
-    print(f"📏 Surfaces négatives ou nulles : {bad_surface:.1%}")
-    print(f"📏 Adresses vides : {bad_address:.1%}")
-    print(f"📅 Ouvertures dans le futur (2099) : {bad_dates:.1%}")
+    print(f"❌ Identifiants Customers ID : {bad_ids} ({(bad_ids/initial_len):.1%})")
+    print(f"❌ Identifiants WAREHOUSE : {bad_warehouses} ({(bad_warehouses/initial_len):.1%})")
+    print(f"💰 Revenus négatifs ou nuls : {bad_revenue} ({(bad_revenue/initial_len):.1%})")
+    print(f"📏 Surfaces négatives ou nulles : {bad_surface} ({(bad_surface/initial_len):.1%})")
+    print(f"📏 Adresses vides : {bad_address} ({(bad_address/initial_len):.1%})")
+    print(f"📅 Ouvertures dans le futur (2099) : {bad_dates} ({(bad_dates/initial_len):.1%})")
 
     # --- NETTOYAGE ---
     # 1. On garde uniquement les IDs valides
