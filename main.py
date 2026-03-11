@@ -6,7 +6,7 @@ import numpy as np
 from data_cleaning.customers_cleaning import clean_customers_data
 from data_cleaning.stores_cleaning import clean_stores_data
 from data_cleaning.suppliers_cleaning import clean_suppliers_data
-from data_transforming.a import commercial_performance
+from data_transforming.bi_descriptive import commercial_performance
 
 #Import files
 customers = pd.read_csv('Data/customers.csv')
