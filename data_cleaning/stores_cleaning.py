@@ -10,6 +10,8 @@ def clean_stores_data(df):
     bad_revenue = len(df[df['annual_revenue'] <= 0])
     bad_surface = len(df[df['surface_sqm'] <= 0])
     bad_address = df['address'].isna().sum()
+    bruit = ['Narnia', 'inconnu', 'extra', 'X', 'UNKNOWN']
+    nb_bruit = df['country'].isin(bruit).sum()  
     bad_dates = len(df[pd.to_datetime(df['opening_date'], errors='coerce') > pd.Timestamp.now()])
 
     print(f"📊 RAPPORT D'AUDIT : Stores")
@@ -18,6 +20,7 @@ def clean_stores_data(df):
     print(f"💰 Revenus négatifs ou nuls : {bad_revenue} ({(bad_revenue/initial_len):.1%})")
     print(f"📏 Surfaces négatives ou nulles : {bad_surface} ({(bad_surface/initial_len):.1%})")
     print(f"📏 Adresses vides : {bad_address} ({(bad_address/initial_len):.1%})")
+    print(f"🎭 Valeurs fantaisistes dans Pays : {nb_bruit} ({(nb_bruit/initial_len):.1%})")
     print(f"📅 Ouvertures dans le futur (2099) : {bad_dates} ({(bad_dates/initial_len):.1%})")
 
     # --- NETTOYAGE ---
@@ -35,7 +38,7 @@ def clean_stores_data(df):
     df_clean = df_clean[df_clean['opening_date'] <= pd.Timestamp.now()]
     
     # 4. Harmonisation des pays et types de quartier
-    garbage = ['N/A', 'inconnu', 'UNKNOWN']
+    garbage = ['Narnia', 'N/A', 'inconnu', 'UNKNOWN', 'extra']
     for col in ['country', 'district_type', 'property_status']:
         df_clean[col] = df_clean[col].replace(garbage, 'Inconnu').fillna('Inconnu')
 
