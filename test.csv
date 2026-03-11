@@ -1,0 +1,11 @@
+customer_id,store_id,total_CA,nb_transactions,panier_moyen,loyalty_status,country_customer,annual_revenue,country_store,district_type,CA_per_m2
+CUST_00015f57,MAG_0fb19213,34.85,1,34.85,bronze,Italie,2285469.0,France,résidentiel,5533.823244552058
+CUST_000e3ad6,MAG_0fb19213,18.61,1,18.61,bronze,Espagne,2285469.0,France,résidentiel,5533.823244552058
+CUST_00151853,MAG_0fb19213,179.35000000000002,2,89.67500000000001,bronze,France,2285469.0,France,résidentiel,5533.823244552058
+CUST_002af07a,MAG_0fb19213,32.0,1,32.0,or,Espagne,2285469.0,France,résidentiel,5533.823244552058
+CUST_00adcef8,MAG_0fb19213,119.85,1,119.85,bronze,Espagne,2285469.0,France,résidentiel,5533.823244552058
+CUST_019ae010,MAG_0fb19213,659.1500000000001,3,219.7166666666667,or,Espagne,2285469.0,France,résidentiel,5533.823244552058
+CUST_0277f4b2,MAG_0fb19213,65.99,1,65.99,or,France,2285469.0,France,résidentiel,5533.823244552058
+CUST_02c36bee,MAG_0fb19213,595.1,4,148.775,bronze,France,2285469.0,France,résidentiel,5533.823244552058
+CUST_02e6c9b4,MAG_0fb19213,0.0,1,0.0,argent,Espagne,2285469.0,France,résidentiel,5533.823244552058
+CUST_0345465a,MAG_0fb19213,53.51,3,17.836666666666666,argent,Italie,2285469.0,France,résidentiel,5533.823244552058
