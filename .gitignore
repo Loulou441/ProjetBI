@@ -7,7 +7,7 @@ __pycache__/
 *.so
 
 transactions_silver.csv
-
+transactions.csv
 # Distribution / packaging
 .Python
 build/
