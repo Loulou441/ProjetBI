@@ -6,23 +6,26 @@ import numpy as np
 from data_cleaning.customers_cleaning import clean_customers_data
 from data_cleaning.stores_cleaning import clean_stores_data
 from data_cleaning.suppliers_cleaning import clean_suppliers_data
+from data_cleaning.transaction_cleaning import clean_transactions_data
 from data_transforming.bi_customers import fact_table_customers
 
 #Import files
 customers = pd.read_csv('Data/customers.csv')
 stores = pd.read_csv('Data/stores.csv')
 suppliers = pd.read_csv('Data/suppliers.csv')
-transactions = pd.read_csv('data_cleaning/transactions_silver.csv')
+transactions = pd.read_csv('Data/transactions.csv')
 
 #Cleaning files
 customers_clean = clean_customers_data(customers)
 stores_clean = clean_stores_data(stores)
 suppliers_clean = clean_suppliers_data(suppliers)
+transactions_clean = clean_transactions_data(transactions)
 
 #Saving files
-customers_clean.to_csv('data_cleaning/customers_clean.csv', index=False)
-stores_clean.to_csv('data_cleaning/stores_clean.csv', index=False)
-suppliers_clean.to_csv('data_cleaning/suppliers_clean.csv', index=False)
+customers_clean.to_csv('data_cleaning/data_cleaned/customers_clean.csv', index=False)
+stores_clean.to_csv('data_cleaning/data_cleaned/stores_clean.csv', index=False)
+suppliers_clean.to_csv('data_cleaning/data_cleaned/suppliers_clean.csv', index=False)
+transactions_clean.to_csv('data_cleaning/data_cleaned/transactions_clean.csv', index=False)
 
 #Calcul des KPIs
 fact_table_customers = fact_table_customers(customers_clean, stores_clean, transactions)

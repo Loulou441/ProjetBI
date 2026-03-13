@@ -1,0 +1,51 @@
+zone_id,country,region,gdp_per_capita,consumer_index,population_density,competitor_count,market_potential_score
+ZONE_bc297c0e,France,Île-de-France,57285.0,106.9,2683.5,12,0.79
+ZONE_421e89ac,France,Auvergne-Rhône-Alpes,36727.0,103.9,4427.8,11,5.77
+ZONE_760a47e7,France,Nouvelle-Aquitaine,53183.0,86.4,1143.4,9,9.85
+ZONE_8dc48209,France,Occitanie,59213.0,111.0,1903.7,14,6.36
+ZONE_3086fdda,France,Hauts-de-France,39593.0,96.1,1051.5,8,7.02
+ZONE_a0ec439f,France,Grand Est,52342.0,87.1,3176.7,7,1.63
+ZONE_f71cfa17,France,Normandie,40178.0,114.7,3201.8,7,6.85
+ZONE_36619c36,France,Pays de la Loire,58714.0,108.3,1149.1,1,8.05
+ZONE_0037be00,France,Bretagne,41047.0,87.0,4566.1,10,2.13
+ZONE_3e7e25c0,France,Provence-Alpes-Côte d'Azur,44969.0,111.5,3216.0,4,2.65
+ZONE_d7ff426b,Allemagne,Bavière,37125.0,101.8,1317.4,13,8.98
+ZONE_3518344c,Allemagne,Rhénanie-du-Nord-Westphalie,42778.0,91.6,4987.7,15,0.91
+ZONE_6ec7834c,Allemagne,Bade-Wurtemberg,29743.0,88.3,3139.1,13,5.96
+ZONE_0fdf3c26,Allemagne,Hesse,42236.0,102.9,2342.9,8,9.71
+ZONE_6af629e3,Allemagne,Basse-Saxe,59849.0,85.3,3605.0,8,7.69
+ZONE_096cb7d2,Allemagne,Saxe,40586.0,93.8,795.0,0,9.54
+ZONE_9fffb200,Allemagne,Brandebourg,60407.0,92.9,2505.4,5,5.08
+ZONE_866ab9e2,Allemagne,Thuringe,31937.0,103.8,4209.1,6,1.53
+ZONE_f6739d34,Allemagne,Hambourg,56213.0,101.2,3894.2,0,5.99
+ZONE_4e99fa90,Allemagne,Berlin,46078.0,88.4,1818.1,9,2.39
+ZONE_2cec8982,Espagne,Catalogne,24504.0,102.0,398.4,15,8.16
+ZONE_a0b858c5,Espagne,Madrid,44406.0,101.0,633.2,15,9.47
+ZONE_e4b0b544,Espagne,Andalousie,22458.0,100.8,3034.9,6,9.29
+ZONE_324ddf61,Espagne,Valence,38392.0,105.7,3566.2,12,9.95
+ZONE_02fcea51,Espagne,Pays basque,35547.0,98.1,2590.3,3,2.48
+ZONE_0d102a4e,Espagne,Galice,19729.0,85.6,2771.8,7,0.07
+ZONE_dc710531,Espagne,Castille-et-León,37112.0,86.8,341.7,1,8.6
+ZONE_8bc0a9ea,Espagne,Aragon,19913.0,92.1,3346.5,6,5.39
+ZONE_4146e673,Espagne,Murcie,37531.0,111.5,2883.2,7,7.85
+ZONE_12237978,Espagne,Navarre,39802.0,90.7,489.2,13,3.54
+ZONE_f6a14d4a,Italie,Lombardie,30333.0,110.9,275.6,3,0.61
+ZONE_4c5b5642,Italie,Latium,39846.0,109.0,550.8,6,1.9
+ZONE_7f141744,Italie,Campanie,31458.0,97.7,1396.3,7,8.74
+ZONE_1336e32d,Italie,Sicile,20262.0,109.2,4280.6,3,0.51
+ZONE_47e7d82b,Italie,Vénétie,47978.0,110.1,4845.1,7,1.66
+ZONE_652f942a,Italie,Piémont,32569.0,91.4,2008.2,1,1.65
+ZONE_9243fa7d,Italie,Émilie-Romagne,18065.0,96.7,4633.0,14,2.85
+ZONE_300de778,Italie,Toscane,38898.0,106.9,3917.9,15,1.55
+ZONE_87d7f17e,Italie,Calabre,26901.0,114.1,2898.0,1,7.48
+ZONE_82eeb888,Italie,Sardaigne,19715.0,102.5,2516.7,5,0.57
+ZONE_a90cd2c1,Portugal,Lisbonne,26633.0,110.5,347.3,2,6.75
+ZONE_f6b3f632,Portugal,Porto,21998.0,88.6,4452.0,7,5.79
+ZONE_612e0d4e,Portugal,Algarve,18676.0,87.5,3288.6,10,9.35
+ZONE_47628c16,Portugal,Alentejo,21472.0,106.5,1197.2,12,1.31
+ZONE_9408bb2a,Portugal,Centre,28974.0,98.7,4645.4,2,0.09
+ZONE_03182470,Portugal,Nord,28560.0,101.9,504.4,6,5.06
+ZONE_22f77a1d,Portugal,Açores,20252.0,95.5,348.6,7,3.7
+ZONE_556546ac,Portugal,Madère,20682.0,110.0,3519.2,0,6.68
+ZONE_ad5eb121,Portugal,Setúbal,27428.0,113.0,522.4,4,2.64
+ZONE_39d8320d,Portugal,Braga,33125.0,107.3,781.5,9,6.05

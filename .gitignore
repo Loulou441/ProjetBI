@@ -8,6 +8,8 @@ __pycache__/
 
 transactions_silver.csv
 transactions.csv
+transactions_clean.csv
+
 # Distribution / packaging
 .Python
 build/
