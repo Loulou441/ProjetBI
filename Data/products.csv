@@ -1,0 +1,501 @@
+product_id,product_name,category,sub_category,is_fragile,volume_l,weight_kg,selling_price,purchase_cost,margin_rate,storage_cost,launch_date,expiry_date,is_new_product,supplier_id,manufacturing_origin,co2_per_kg
+PROD_6b581aad,La liberté d'évoluer autrement,Vêtements,Femme,False,0.35,0.29,5.0,2.63,0.4733,0.26,2024-07-25,2030-12-31,False,SUPP_2b499253,Espagne,0.66
+PROD_61cd8f26,L'avantage d'évoluer plus rapidement,Électronique,TV & Audio,True,0.85,0.62,69.24,52.76,0.238,3.48,2020-11-23,2025-09-26,False,SUPP_7c3aa2fa,Turquie,3.56
+PROD_6a4fe51b,L'avantage de changer avant-tout,Vêtements,Enfant,False,2.49,0.8,78.22,39.2,0.4989,2.29,2019-10-07,2029-06-27,False,SUPP_171b3f09,Inde,5.0
+PROD_c3c591a2,L'art d'avancer à sa source,Alimentation,Surgelés,False,0.31,1.7,4.33,3.74,0.1364,3.2,2025-10-15,2027-01-17,True,SUPP_fc43d434,Allemagne,5.74
+PROD_b7400fa0,Le droit de louer plus facilement,Hygiène,Soins cheveux,False,5.89,1.36,9.71,4.86,0.4993,0.53,2015-06-07,2016-09-08,False,SUPP_7df83051,Italie,6.39
+PROD_8944836a,L'art de concrétiser vos projets plus rapidement,Vêtements,Enfant,False,1.12,1.27,21.62,11.82,0.4535,0.63,2024-08-07,2028-02-25,False,SUPP_73e3df9b,Allemagne,2.26
+PROD_528b5fac,Le droit de louer à la pointe,Électronique,TV & Audio,False,1.92,1.19,7.47,3.38,0.5479,4.37,2016-09-03,2018-04-29,False,SUPP_d1480191,Espagne,0.67
+PROD_75a5f6f0,L'avantage de rouler avant-tout,Hygiène,Soins corps,False,0.89,1.1,19.4,10.91,0.4378,0.35,2022-12-16,2025-12-14,False,SUPP_UNKNOWN,Espagne,7.68
+PROD_5d029671,La possibilité d'avancer à sa source,Électronique,TV & Audio,True,1.11,11.77,49.2,27.82,0.4345,2.56,2024-06-18,2026-09-22,False,SUPP_9e398929,Portugal,1.29
+PROD_4cf85b65,Le confort d'innover à sa source,Alimentation,Fruits & Légumes,False,2.97,1.68,15.45,13.39,0.1335,1.87,2015-12-12,2021-11-30,False,SUPP_dc161057,Italie,4.62
+PROD_8cd4b9c7,La liberté de concrétiser vos projets en toute tranquilité,Alimentation,Boissons,True,0.27,0.34,7.63,6.17,0.1908,1.86,2022-04-20,2024-07-19,False,SUPP_c0a64e2b,Italie,4.6
+PROD_175b95f4,Le pouvoir d'évoluer à l'état pur,Électronique,Ordinateurs,True,1.49,4.6,124.4,91.98,0.2606,2.24,2017-03-21,2018-07-15,False,SUPP_d930d00f,Espagne,2.84
+PROD_96746f2c,L'assurance de concrétiser vos projets de manière efficace,Hygiène,Soins corps,False,0.84,0.22,5.33,3.56,0.3322,3.59,2023-03-27,2030-12-31,False,SUPP_ac0a0f63,Inde,2.35
+PROD_2e4fc2b1,,Vêtements,Homme,False,5.6,0.4,18.83,11.41,0.3938,1.56,2021-05-23,2026-05-06,False,SUPP_UNKNOWN,États-Unis,3.48
+PROD_6f435020,Le plaisir de louer à la pointe,Électronique,TV & Audio,True,3.09,6.09,9.98,4.87,0.5119,0.41,2024-09-18,2030-12-06,False,SUPP_9587da5a,États-Unis,3.2
+PROD_96afc512,Le confort d'innover de manière sûre,Électronique,TV & Audio,False,4.31,2.92,276.02,156.94,0.4314,2.63,2023-01-24,2023-09-30,False,SUPP_31dc8c41,Allemagne,4.5
+PROD_c520b909,Le confort de louer naturellement,Vêtements,Enfant,False,0.48,0.58,15.19,11.95,0.213,0.59,2025-12-04,2029-09-03,True,SUPP_6f568ae9,France,0.93
+PROD_1f713cbf,Le confort d'innover à la pointe,Électronique,Smartphones,False,0.65,3.01,41.82,24.36,0.4176,0.1,2018-12-21,2028-12-06,False,SUPP_56259829,Inde,1.69
+PROD_7b27b665,La liberté de concrétiser vos projets plus rapidement,Hygiène,Soins cheveux,False,1.12,5.6,12.72,7.34,0.4233,0.35,2019-10-13,2024-07-19,False,SUPP_44df4bce,Chine,4.7
+PROD_b177fa5b,L'avantage de louer plus facilement,Électronique,Ordinateurs,True,1.55,0.16,181.38,113.67,0.3733,1.48,2024-09-11,2026-01-20,False,SUPP_8ef727a2,États-Unis,2.31
+PROD_633a13c8,La liberté de concrétiser vos projets en toute tranquilité,extra,TV & Audio,True,0.57,5.42,186.24,136.83,0.2653,2.08,2015-05-28,2021-12-28,False,SUPP_57321527,France,1.58
+PROD_8f0df4a1,L'art de changer à sa source,Hygiène,Hygiène bucco-dentaire,False,0.46,8.73,9.51,6.35,0.3327,0.21,2016-11-19,2024-04-11,False,SUPP_UNKNOWN,Chine,2.52
+PROD_16d5208c,Le confort de louer de manière efficace,Hygiène,Cosmétiques,False,0.2,1.12,28.43,14.95,0.4742,2.72,2021-12-26,2023-07-21,False,SUPP_baaf7408,Chine,7.81
+PROD_0655782a,Le droit d'atteindre vos buts sans soucis,Maison,Mobilier,False,2.13,0.45,103.0,62.61,0.3921,2.06,2024-11-16,2027-03-20,False,SUPP_6b9b3ff9,Italie,3.59
+PROD_924a6879,La possibilité de concrétiser vos projets plus facilement,Maison,Mobilier,True,1.11,12.72,8.78,4.8,0.4534,2.2,2015-05-27,2016-07-21,False,SUPP_c37432c9,États-Unis,3.91
+PROD_1999625e,L'assurance de rouler sans soucis,Maison,Jardin,True,1.13,8.3,108.25,74.62,0.3107,3.68,2022-03-07,2027-04-21,False,BADID,Chine,3.6
+PROD_4aac8a0c,L'avantage d'avancer avant-tout,Vêtements,Sport,False,0.92,0.18,61.25,38.12,0.3776,2.79,2024-04-21,2030-12-31,False,SUPP_16cd8392,Allemagne,5.92
+PROD_4b9367a4,Le plaisir de changer sans soucis,Maison,Cuisine,False,0.73,6.78,14.17,6.89,0.5135,4.73,2015-02-27,2023-03-15,False,SUPP_dde7a4c4,Chine,4.8
+PROD_260cedc4,La possibilité de concrétiser vos projets plus rapidement,Électronique,Accessoires,False,2.56,3.93,64.28,48.61,0.2438,0.89,2024-12-09,2030-12-31,False,SUPP_205e9bf3,Turquie,7.58
+PROD_a88f3620,L'art d'avancer de manière efficace,Alimentation,Boissons,False,0.51,4.27,6.76,5.69,0.1586,4.53,2015-09-20,2023-01-27,False,SUPP_54aa25ce,France,3.19
+PROD_e0e09328,L'art de concrétiser vos projets à la pointe,Électronique,Accessoires,True,4.19,24.02,73.03,44.7,0.3879,3.06,2015-12-18,2025-01-10,False,SUPP_921700ce,France,2.36
+PROD_fa55ddd4,La liberté de changer autrement,Vêtements,Enfant,False,2.7,5.23,61.93,33.34,0.4617,0.1,2023-12-03,2026-03-06,False,SUPP_56b9757a,Espagne,0.11
+PROD_1712e1b1,Le droit de louer avant-tout,Alimentation,Produits laitiers,True,10.33,0.43,18.81,16.81,0.1064,0.55,2024-04-08,2030-12-31,False,SUPP_98d5a10a,Allemagne,4.36
+PROD_630fb6d9,L'avantage d'évoluer à l'état pur,Vêtements,Enfant,False,7.8,2.95,44.05,30.22,0.3139,0.1,2019-01-29,2027-04-02,False,SUPP_b284e63e,France,2.14
+PROD_d17ab24e,L'art de rouler plus facilement,Vêtements,Femme,False,1.92,1.27,194.16,136.73,0.2958,1.54,2020-02-08,2021-08-14,False,SUPP_0008410b,Italie,6.34
+PROD_50134e0d,Le pouvoir d'avancer de manière sûre,Maison,Décoration,False,3.16,0.36,4.88,3.2,0.3446,0.48,2025-01-01,2029-03-01,False,SUPP_cb8fdaf0,Italie,2.11
+PROD_949b9899,L'avantage d'avancer à sa source,Vêtements,Homme,False,16.24,0.4,19.74,9.05,0.5414,2.44,2021-05-28,2030-10-18,False,SUPP_95cc6dd5,Turquie,6.0
+PROD_c45630d4,La possibilité d'atteindre vos buts de manière efficace,Hygiène,Soins cheveux,False,3.74,0.59,17.47,10.32,0.4093,0.1,2017-03-27,2025-10-28,False,SUPP_6d7f2801,Turquie,7.32
+PROD_33eac6db,Le confort d'innover à sa source,Électronique,Accessoires,True,0.57,1.19,56.15,35.98,0.3593,2.29,2018-12-02,2024-11-05,False,SUPP_f9cfd081,France,4.16
+PROD_c9f894e9,L'avantage de louer naturellement,Électronique,Smartphones,True,1.02,4.95,45.65,31.61,0.3075,0.1,2016-02-09,2021-04-12,False,SUPP_UNKNOWN,Allemagne,3.46
+PROD_c33ce883,Le confort de rouler naturellement,Électronique,Ordinateurs,True,7.54,1.0,525.83,387.64,0.2628,0.1,2021-02-03,2022-07-12,False,SUPP_417079df,Allemagne,5.78
+PROD_b3df84cc,Le pouvoir d'atteindre vos buts plus rapidement,Vêtements,Homme,False,1.39,0.42,40.86,21.11,0.4833,3.42,2017-10-07,2021-08-03,False,SUPP_e4e80e11,Italie,2.34
+PROD_0e09620d,La possibilité d'avancer sans soucis,Vêtements,Femme,False,0.42,0.97,32.6,14.26,0.5626,0.1,2022-08-04,2027-05-07,False,BADID,États-Unis,2.25
+PROD_6e629f71,Le plaisir de rouler de manière efficace,Hygiène,Cosmétiques,True,2.21,8.62,7.63,5.07,0.3349,3.0,2022-01-29,2027-03-07,False,SUPP_2aab34f7,France,0.1
+PROD_f756d309,L'assurance d'atteindre vos buts à l'état pur,Vêtements,Sport,False,0.94,2.74,43.91,23.26,0.4702,0.1,2024-05-18,2030-12-31,False,SUPP_4b8dd79f,Inde,0.45
+PROD_26c545db,L'art de concrétiser vos projets à l'état pur,Hygiène,Soins cheveux,False,6.31,1.21,10.45,6.93,0.3368,2.03,2015-11-14,2020-01-27,False,SUPP_b6cb477d,Allemagne,2.02
+PROD_fcd14ee4,La possibilité de rouler en toute tranquilité,Vêtements,Femme,False,3.88,0.38,64.58,24.9,0.6144,2.93,2019-12-22,2027-04-16,False,SUPP_489306c6,États-Unis,0.53
+PROD_d69f6288,L'avantage de louer plus rapidement,Maison,Cuisine,True,3.75,0.75,26.49,16.1,0.3922,1.63,2022-04-30,2024-08-06,False,SUPP_bfabc06c,Turquie,2.07
+PROD_c59a821b,L'art de changer à sa source,Alimentation,Surgelés,False,3.27,1.55,1.6,1.21,0.2414,3.8,2020-05-04,2027-11-12,False,SUPP_0e85e0f9,Italie,4.2
+PROD_b0b0707a,Le droit de changer naturellement,Hygiène,Soins corps,False,3.19,1.03,-61.37,3.09,0.4142,4.32,2020-07-30,2025-04-23,False,SUPP_UNKNOWN,Allemagne,3.55
+PROD_5177cabb,L'art d'atteindre vos buts plus rapidement,Hygiène,Soins cheveux,False,8.68,10.51,11.88,7.57,0.3629,1.36,2022-09-01,2029-04-30,False,SUPP_8bb9015b,Chine,2.75
+PROD_3a018a4d,L'assurance de rouler de manière sûre,Vêtements,Enfant,False,0.62,2.63,71.19,-39.08,0.2649,4.68,2019-10-10,2000-01-01,False,SUPP_73e3df9b,Espagne,1.94
+PROD_d98ea93d,,Vêtements,Homme,False,1.23,1.95,16.93,-413.51,0.3909,0.75,2022-06-18,2000-01-01,False,SUPP_a2172c98,États-Unis,3.0
+PROD_056187df,Le plaisir d'innover à l'état pur,Alimentation,Épicerie,True,0.92,2.12,2.58,2.05,0.2067,0.31,2016-05-20,2025-04-11,False,SUPP_3493478b,Allemagne,5.02
+PROD_362e04e9,L'avantage d'avancer à sa source,Électronique,Accessoires,True,3.72,0.1,209.03,179.51,0.1412,0.24,2022-03-14,2026-05-13,False,SUPP_db3b3a27,Turquie,5.07
+PROD_7beee23c,La possibilité de concrétiser vos projets naturellement,Hygiène,Soins corps,False,0.96,8.78,20.0,12.69,0.3657,1.14,2024-04-02,2027-02-27,False,SUPP_9fef98d7,Chine,6.01
+PROD_4b7d8316,La possibilité de changer plus facilement,Vêtements,Femme,False,1.02,0.14,15.76,8.47,0.4623,0.82,2019-06-27,2025-06-24,False,SUPP_969212a0,Inde,7.78
+PROD_61b75c98,Le confort d'atteindre vos buts en toute tranquilité,Alimentation,Boissons,True,0.86,0.64,3.36,2.58,0.2329,1.58,2016-12-21,2025-02-06,False,SUPP_4575d5bd,Allemagne,4.63
+PROD_642e270d,L'assurance d'évoluer à l'état pur,Électronique,Accessoires,True,5.23,2.09,122.55,91.42,0.254,0.1,2015-02-12,2018-04-25,False,SUPP_9d355b98,États-Unis,0.1
+PROD_69b16fac,La liberté de changer de manière efficace,Hygiène,Cosmétiques,True,1.77,21.44,8.19,4.24,0.482,2.79,2025-04-27,2029-09-11,False,SUPP_9e5a9157,Portugal,3.07
+PROD_c10bd76a,Le plaisir d'innover à l'état pur,Électronique,Smartphones,True,1.29,0.81,57.47,34.57,0.3984,3.29,2016-11-28,2023-04-27,False,SUPP_f74f2022,Chine,2.15
+PROD_6cd9c5f1,,Hygiène,Soins cheveux,False,1.06,0.67,24.54,13.0,0.4703,4.21,2022-08-24,2028-05-25,False,SUPP_4f0067f7,Inde,1.38
+PROD_c9d007c4,La liberté de louer avant-tout,Vêtements,Homme,False,0.89,9.83,95.5,61.99,0.3509,0.66,2025-11-17,2027-09-23,True,SUPP_737bb68f,Allemagne,3.51
+PROD_ffdac5af,Le plaisir d'innover à la pointe,Maison,Décoration,True,5.71,0.46,48.76,25.45,0.478,1.7,2023-07-15,2030-12-31,False,SUPP_1b61686e,Italie,2.85
+PROD_d3a95018,Le confort d'évoluer plus facilement,Vêtements,Femme,False,6.83,0.82,91.32,51.6,0.435,0.37,2019-02-15,2026-02-13,False,SUPP_0359c859,France,4.11
+PROD_71a06d12,L'art de rouler autrement,Maison,Mobilier,True,0.89,0.33,318.86,185.67,0.4177,1.52,2018-07-07,2024-01-22,False,SUPP_fff2aa2f,Espagne,2.4
+PROD_54a5528d,L'avantage d'évoluer à la pointe,Électronique,Accessoires,True,7.62,9.26,52.2,32.82,0.3712,1.45,2025-05-11,2030-12-31,False,SUPP_27a3acec,États-Unis,4.54
+PROD_fde3f836,La liberté de concrétiser vos projets de manière efficace,Électronique,Accessoires,True,1.16,0.13,32.09,18.19,0.4333,0.92,2021-05-08,2024-10-30,False,SUPP_fe63581b,Italie,4.57
+PROD_c4e9f6a1,Le pouvoir de rouler de manière sûre,Alimentation,Surgelés,False,2.39,0.57,6.53,5.6,0.1425,1.43,2017-12-01,2022-02-23,False,BADID,Italie,0.1
+PROD_7bfaec97,L'avantage d'atteindre vos buts à sa source,Vêtements,Enfant,False,1.47,0.67,35.21,17.51,0.5027,2.93,2017-08-17,2024-08-16,False,SUPP_2665d689,Portugal,1.87
+PROD_4c9f648d,Le pouvoir d'innover avant-tout,Hygiène,Soins cheveux,False,0.87,1.13,26.2,16.8,0.3589,0.97,2023-02-26,2030-01-15,False,SUPP_cf4367f8,Allemagne,0.8
+PROD_ac69c99f,Le confort de rouler de manière efficace,Électronique,Ordinateurs,True,2.74,0.95,32.93,-442.62,0.2863,3.0,2025-07-03,2029-06-21,False,SUPP_UNKNOWN,Chine,3.29
+PROD_50b599f1,,Électronique,Accessoires,True,0.84,2.69,253.4,151.41,0.4025,2.31,2020-10-07,2030-07-04,False,SUPP_UNKNOWN,Inde,6.35
+PROD_156b5c8b,L'art de louer sans soucis,Vêtements,Sport,False,6.2,1.46,74.25,36.0,0.5151,1.2,2019-04-18,2020-10-06,False,SUPP_3a0adfb8,Inde,6.2
+PROD_8b9692ab,La possibilité de rouler plus facilement,Maison,Jardin,False,8.91,5.68,83.96,44.91,0.4651,1.5,2024-03-10,2025-09-08,False,SUPP_e3493220,États-Unis,5.19
+PROD_9f191b03,L'art de concrétiser vos projets naturellement,Maison,Cuisine,False,0.45,0.91,3.64,2.13,0.416,3.54,2015-09-07,2019-10-15,False,SUPP_9d355b98,Portugal,6.3
+PROD_8b5214a1,L'avantage de louer avant-tout,Hygiène,Soins corps,False,1.33,1.78,12.06,5.49,0.5447,2.5,2021-01-25,2023-03-21,False,SUPP_UNKNOWN,Allemagne,6.71
+PROD_11f2fd92,La possibilité de concrétiser vos projets sans soucis,Hygiène,Soins cheveux,True,5.73,3.33,8.25,5.67,0.3133,2.13,2025-12-14,2030-12-31,True,SUPP_c25230e4,France,3.19
+PROD_bb867ff7,Le droit d'atteindre vos buts en toute tranquilité,Électronique,TV & Audio,True,0.51,4.95,108.18,65.23,0.397,4.55,2021-06-22,2027-09-15,False,SUPP_28cb35ce,Espagne,1.45
+PROD_0eb2d27c,L'avantage d'évoluer de manière efficace,Alimentation,Boissons,True,0.21,0.67,29.49,24.17,0.1805,1.72,2018-06-30,2021-08-16,False,SUPP_356fb2e5,Italie,1.97
+PROD_c573dfaa,L'avantage d'évoluer à sa source,Hygiène,Soins corps,True,1.64,0.68,-79.87,-224.17,0.4837,5.89,2025-03-19,2030-12-31,False,SUPP_6f23d8c9,Inde,1.31
+PROD_51c502e4,Le confort de concrétiser vos projets naturellement,Alimentation,Produits laitiers,True,0.96,0.69,26.39,20.44,0.2255,1.61,2016-12-23,2026-11-14,False,BADID,Chine,2.0
+PROD_d163dcc5,L'assurance de concrétiser vos projets de manière sûre,Vêtements,Homme,False,7.87,1.42,32.09,24.58,0.2339,3.19,2017-06-19,2020-04-22,False,SUPP_94bff9df,Turquie,2.99
+PROD_16002fe3,La possibilité de changer à l'état pur,Hygiène,Soins cheveux,False,1.83,1.53,23.53,18.32,0.2214,0.21,2020-05-11,2024-07-16,False,SUPP_7315d3e2,États-Unis,6.92
+PROD_0c88df61,L'avantage de concrétiser vos projets de manière sûre,Maison,Cuisine,True,0.48,0.54,156.17,96.12,0.3845,2.09,2024-02-10,2028-11-29,False,SUPP_14718e76,Allemagne,6.18
+PROD_9fb2b0d8,Le pouvoir d'évoluer avant-tout,Maison,Jardin,False,0.93,0.71,95.63,57.91,0.3944,3.54,2024-07-31,2025-08-12,False,SUPP_15f53fb0,Italie,1.71
+PROD_47662ee5,L'avantage de louer à la pointe,Vêtements,Homme,False,2.01,1.24,24.22,16.43,0.3218,1.37,2021-07-18,2030-12-31,False,SUPP_1d896370,Turquie,1.92
+PROD_989751da,La possibilité d'atteindre vos buts de manière efficace,Alimentation,Produits laitiers,False,5.77,2.67,10.54,8.76,0.1691,0.66,2018-01-22,2025-02-03,False,SUPP_bea48b50,Turquie,3.45
+PROD_b5819181,La possibilité d'innover de manière sûre,Vêtements,Homme,False,6.81,0.48,47.61,28.34,0.4047,1.99,2017-07-17,2021-03-10,False,SUPP_18677ed4,Espagne,2.69
+PROD_60fc6a36,Le plaisir d'innover plus rapidement,Électronique,Smartphones,False,2.59,1.12,54.43,42.25,0.2238,2.33,2021-10-03,2030-07-15,False,SUPP_3493478b,Allemagne,4.22
+PROD_b8b334b8,Le plaisir d'avancer à l'état pur,Hygiène,Soins cheveux,False,1.76,1.24,34.49,16.22,0.5297,3.61,2024-10-23,2030-12-31,False,SUPP_0359c859,Italie,3.67
+PROD_8dd55d94,Le pouvoir de rouler de manière sûre,Vêtements,Homme,False,1.82,0.38,7.21,2.98,0.5871,2.17,2018-09-26,2026-07-04,False,SUPP_b5e1f714,Chine,9.78
+PROD_3eb2ee25,L'assurance de concrétiser vos projets plus facilement,Maison,Mobilier,False,0.92,2.25,124.21,84.31,0.3212,1.6,2024-01-14,2030-12-31,False,SUPP_2d509234,Inde,2.61
+PROD_f48e036f,L'assurance de louer naturellement,Hygiène,Soins cheveux,False,1.1,2.18,12.66,9.66,0.2371,2.17,2017-05-17,2024-09-08,False,SUPP_ac026d82,Chine,3.75
+PROD_2a08e6d4,Le pouvoir de concrétiser vos projets en toute tranquilité,Hygiène,Cosmétiques,False,1.58,9.74,15.54,9.29,0.4019,3.36,2018-08-26,2021-03-25,False,BADID,Inde,7.53
+PROD_ef307675,L'art de louer naturellement,Vêtements,Enfant,False,1.43,4.78,144.19,82.64,0.4269,0.24,2021-09-28,2024-07-11,False,SUPP_25ecb0bf,Espagne,3.88
+PROD_914ffb6b,La possibilité de rouler en toute tranquilité,Électronique,Accessoires,False,6.34,0.96,269.25,193.54,0.2812,1.63,2025-08-24,2030-12-31,False,SUPP_26f02b37,Turquie,2.82
+PROD_1b06c381,L'avantage de louer de manière efficace,Alimentation,Produits laitiers,False,1.43,0.48,5.65,5.3,0.062,3.04,2019-01-18,2020-03-27,False,SUPP_dde7a4c4,Italie,3.07
+PROD_4f36a3e3,Le pouvoir d'évoluer de manière efficace,Électronique,Ordinateurs,False,5.21,1.21,14.9,9.31,0.3755,1.01,2016-01-04,2022-09-21,False,SUPP_e12b746d,Espagne,5.14
+PROD_24538a6f,Le pouvoir de changer avant-tout,Vêtements,Homme,False,1.33,15.15,16.19,8.51,0.4746,2.9,2025-08-16,2030-12-31,False,BADID,Espagne,2.34
+PROD_f00f0a2e,Le pouvoir de changer de manière efficace,Vêtements,Homme,False,0.43,1.06,7.73,4.79,0.3802,1.73,2024-06-07,2025-01-30,False,SUPP_6fe38a8c,États-Unis,5.0
+PROD_73436992,L'assurance de concrétiser vos projets de manière sûre,Alimentation,Fruits & Légumes,True,2.18,0.83,5.09,4.34,0.1469,3.38,2015-10-19,2017-04-08,False,SUPP_4ad43a8b,États-Unis,0.1
+PROD_a78520d9,L'assurance de concrétiser vos projets plus rapidement,Alimentation,Surgelés,True,0.71,0.23,11.8,8.6,0.2709,2.86,2021-11-04,2022-07-20,False,SUPP_UNKNOWN,Italie,4.29
+PROD_53e903c5,Le confort de changer de manière sûre,Vêtements,Femme,False,0.98,2.42,18.16,11.03,0.3925,1.94,2023-03-21,2029-01-15,False,SUPP_97d88f4b,Portugal,3.08
+PROD_6f478f99,Le plaisir de concrétiser vos projets en toute tranquilité,Hygiène,Soins corps,False,9.9,3.82,13.21,6.12,0.5368,5.6,2020-09-03,2027-04-21,False,SUPP_3951318c,Portugal,3.04
+PROD_7b9e6b1e,L'assurance d'atteindre vos buts en toute tranquilité,Vêtements,Homme,False,2.42,0.31,37.8,23.35,0.3822,0.1,2020-10-19,2027-09-21,False,SUPP_c2617adc,Italie,4.98
+PROD_efaae5cf,L'avantage d'évoluer en toute tranquilité,Hygiène,Soins cheveux,False,1.83,0.48,3.39,2.2,0.3513,0.99,2023-10-09,2029-04-13,False,SUPP_ec2830bc,Portugal,2.78
+PROD_1d1ed819,L'avantage de rouler de manière efficace,Vêtements,Homme,False,0.29,2.26,55.32,37.63,0.3198,0.1,2016-10-05,2021-06-07,False,SUPP_6b9b3ff9,Turquie,5.03
+PROD_78dd3768,Le droit de rouler de manière efficace,Électronique,Smartphones,True,1.42,2.91,100.53,66.06,0.3429,3.55,2021-06-03,2026-10-29,False,SUPP_c6b0ed2e,Allemagne,4.68
+PROD_ba2e2f73,,Vêtements,Enfant,False,2.42,2.33,23.4,11.57,0.5054,4.33,2018-08-15,2028-06-18,False,SUPP_0f00d8ef,Portugal,5.05
+PROD_7a561868,La liberté d'avancer naturellement,Hygiène,Soins corps,False,0.25,2.32,17.7,9.02,0.4906,3.86,2024-12-27,2028-10-07,False,BADID,Italie,3.99
+PROD_deb0285d,La possibilité d'évoluer plus rapidement,Alimentation,Surgelés,False,0.48,1.18,3.92,3.49,0.11,4.1,2016-02-25,2023-02-02,False,SUPP_60fb6667,Italie,2.07
+PROD_ce92e4bb,Le plaisir de changer plus rapidement,inconnu,Cosmétiques,False,12.05,0.85,-301.33,4.08,0.4481,1.88,2023-04-18,2026-10-21,False,SUPP_9d355b98,Allemagne,3.56
+PROD_81d1e32e,L'art d'évoluer en toute tranquilité,Hygiène,Hygiène bucco-dentaire,False,0.96,0.71,8.65,5.91,0.3166,3.45,2015-07-20,2000-01-01,False,SUPP_UNKNOWN,Chine,3.41
+PROD_11dbd55f,Le droit d'innover à l'état pur,Électronique,Accessoires,True,1.92,3.0,128.64,60.32,0.5311,2.64,2015-01-21,2015-08-27,False,SUPP_6078a3aa,Turquie,0.1
+PROD_94fbb7c4,Le confort de louer de manière sûre,Alimentation,Épicerie,False,1.01,0.44,10.74,9.07,0.1552,2.75,2024-02-28,2029-09-02,False,SUPP_a4389d50,Turquie,1.63
+PROD_ad50f6d0,Le plaisir d'innover à l'état pur,Alimentation,Fruits & Légumes,True,2.0,0.72,5.63,4.54,0.1935,2.68,2017-08-07,2022-03-17,False,SUPP_e60852b3,Italie,5.86
+PROD_969a99b5,L'avantage de louer en toute tranquilité,Vêtements,Homme,False,5.11,4.19,46.78,28.01,0.4012,2.93,2020-07-31,2021-05-09,False,SUPP_c0a64e2b,Espagne,5.39
+PROD_63bbf3c6,Le pouvoir d'atteindre vos buts à l'état pur,Hygiène,Soins corps,False,5.44,1.38,9.58,5.14,0.4634,0.1,2023-08-10,2029-07-30,False,SUPP_471ab5ca,États-Unis,6.19
+PROD_e5a44fe0,L'assurance de concrétiser vos projets plus rapidement,Maison,Jardin,False,5.63,0.96,32.09,13.9,0.5668,0.45,2019-01-09,2023-03-17,False,BADID,Portugal,2.48
+PROD_f68a68a4,L'avantage de louer à sa source,Électronique,Smartphones,True,9.51,0.37,105.81,70.8,0.3309,5.09,2015-05-01,2024-06-03,False,SUPP_eaeef6bb,Chine,1.91
+PROD_1df3e57d,La liberté d'atteindre vos buts à sa source,Électronique,Smartphones,True,0.42,1.8,52.3,31.5,0.3978,2.65,2015-06-16,2017-01-18,False,BADID,Turquie,0.66
+PROD_370e7093,L'art d'avancer à la pointe,Vêtements,Sport,False,10.38,0.65,22.13,10.89,0.5078,4.45,2019-12-15,2027-04-17,False,SUPP_4193ce34,France,0.43
+PROD_0c7d3706,L'avantage de concrétiser vos projets naturellement,inconnu,Hygiène bucco-dentaire,True,1.04,4.26,8.16,4.79,0.4126,1.38,2023-05-14,2026-05-20,False,SUPP_UNKNOWN,Inde,3.99
+PROD_b7d91c4c,L'assurance d'évoluer à la pointe,Vêtements,Femme,False,0.47,1.97,48.84,23.54,0.5181,1.21,2016-10-21,2026-06-21,False,SUPP_11e31d68,États-Unis,5.9
+PROD_ddb73c83,Le plaisir de rouler de manière sûre,Vêtements,Homme,False,0.2,0.61,233.97,128.0,0.4529,3.69,2024-12-30,2030-12-31,False,SUPP_ab4ec381,Italie,3.38
+PROD_4fc63313,Le confort d'innover de manière sûre,Électronique,Smartphones,True,9.38,1.07,112.59,65.3,0.42,4.3,2023-09-30,2030-01-08,False,SUPP_0d23e993,Espagne,0.1
+PROD_2f3952d4,Le plaisir d'innover plus facilement,Vêtements,Sport,False,2.77,0.49,31.69,19.13,0.3964,0.1,2017-10-04,2025-12-30,False,SUPP_30c28622,Inde,5.12
+PROD_dcdfee6f,Le plaisir d'avancer avant-tout,Vêtements,Femme,False,0.44,1.24,30.39,19.13,0.3705,2.96,2025-09-30,2030-08-13,True,SUPP_3fba4108,Italie,2.27
+PROD_f698e526,La possibilité de changer à la pointe,Alimentation,Boissons,True,0.81,0.24,3.53,2.8,0.2054,0.1,2021-01-04,2025-07-09,False,SUPP_e1e17290,Espagne,6.36
+PROD_1dd5a9da,Le pouvoir d'évoluer à la pointe,Vêtements,Homme,False,1.42,0.48,53.31,31.55,0.4082,3.34,2020-05-03,2028-04-12,False,SUPP_c0a64e2b,Inde,0.87
+PROD_6d60ad05,La liberté d'atteindre vos buts de manière sûre,Alimentation,Fruits & Légumes,True,0.61,2.76,19.27,15.58,0.1917,2.35,2024-02-23,2029-09-06,False,SUPP_516ab648,Turquie,1.33
+PROD_8291a36b,Le confort d'atteindre vos buts plus rapidement,Vêtements,Enfant,False,0.98,0.61,93.34,38.35,0.5891,2.78,2015-02-01,2021-09-04,False,SUPP_a461dd56,Inde,7.02
+PROD_1f885ef3,L'avantage d'évoluer autrement,Vêtements,Enfant,True,3.06,5.58,27.8,15.73,0.4343,1.77,2019-04-11,2024-11-26,False,SUPP_1678ab35,France,1.13
+PROD_39e4d9e8,L'assurance d'atteindre vos buts à l'état pur,Alimentation,Boissons,False,1.06,2.0,4.58,3.6,0.2134,0.89,2016-04-02,2019-07-27,False,SUPP_15bdd726,Portugal,1.43
+PROD_f14c844b,La possibilité d'évoluer naturellement,Vêtements,Sport,False,1.67,0.12,78.52,37.64,0.5206,3.22,2023-09-12,2030-12-31,False,SUPP_954df8b7,Espagne,4.49
+PROD_35fb8829,La liberté de rouler plus rapidement,Hygiène,Cosmétiques,False,1.47,1.81,16.0,11.46,0.2839,2.3,2022-09-27,2030-12-31,False,SUPP_3b0b6547,Italie,2.25
+PROD_3585caf3,La liberté d'atteindre vos buts à la pointe,Électronique,Smartphones,True,10.45,1.07,79.38,59.34,0.2524,1.41,2019-05-18,2027-03-06,False,SUPP_adf71e2c,Espagne,0.1
+PROD_3dbd9ce8,La liberté de changer à l'état pur,Maison,Jardin,True,10.58,2.72,30.97,17.8,0.4254,0.56,2022-06-04,2023-08-12,False,SUPP_7e9c211d,France,2.64
+PROD_25aa43c3,La possibilité de louer en toute tranquilité,Hygiène,Soins cheveux,False,0.54,0.22,20.8,12.65,0.3916,0.1,2017-06-04,2018-06-05,False,SUPP_d7cd3b99,États-Unis,1.34
+PROD_3322afd7,La liberté d'atteindre vos buts naturellement,Vêtements,Sport,False,6.08,0.57,54.47,33.97,0.3764,2.37,2025-01-21,2029-01-25,False,SUPP_f873b49c,États-Unis,4.05
+PROD_9522eefe,Le droit de rouler de manière sûre,Maison,Mobilier,False,0.85,1.15,60.83,40.82,0.3289,1.69,2023-09-14,2030-03-12,False,SUPP_257ca14c,Turquie,1.11
+PROD_1d3d1072,L'assurance de concrétiser vos projets de manière efficace,Électronique,Ordinateurs,True,1.83,4.91,-300.71,19.87,0.2935,0.1,2017-06-11,2000-01-01,False,SUPP_184b3489,Turquie,4.02
+PROD_b545e9e6,La liberté d'innover à la pointe,Maison,Décoration,True,0.33,2.47,79.08,42.55,0.4619,2.55,2025-11-09,2000-01-01,True,SUPP_aff4212a,Portugal,0.1
+PROD_9277f5ed,L'art de concrétiser vos projets naturellement,Alimentation,Épicerie,True,1.44,1.71,11.32,8.9,0.2142,1.36,2017-02-16,2022-05-29,False,SUPP_6d7f2801,Allemagne,2.78
+PROD_694664d9,L'assurance de changer autrement,Vêtements,Enfant,False,1.49,0.3,15.28,8.51,0.4428,0.74,2021-05-03,2028-06-28,False,SUPP_6d7f2801,Inde,0.1
+PROD_1a6ea7ec,La possibilité de changer sans soucis,Maison,Cuisine,False,0.36,3.11,63.73,38.66,0.3933,1.51,2020-09-27,2025-10-15,False,SUPP_UNKNOWN,Turquie,1.84
+PROD_64ffaafb,L'avantage d'atteindre vos buts plus rapidement,Maison,Mobilier,True,0.22,2.75,29.76,16.79,0.4359,0.59,2020-03-13,2028-01-30,False,SUPP_68ca1931,Portugal,6.3
+PROD_c2402c8c,L'assurance de louer à la pointe,Vêtements,Femme,False,1.99,1.17,14.65,7.82,0.4665,2.92,2025-03-24,2000-01-01,False,SUPP_1540570e,Chine,0.1
+PROD_0a871c1c,Le droit d'atteindre vos buts de manière efficace,Électronique,Accessoires,True,1.44,1.17,141.37,110.86,0.2158,3.2,2019-06-28,2024-07-11,False,SUPP_56b9757a,États-Unis,4.47
+PROD_4ac90eb3,L'avantage d'évoluer à l'état pur,Électronique,Ordinateurs,True,3.58,0.61,276.52,197.71,0.285,0.1,2015-06-15,2019-03-05,False,SUPP_7732740b,Turquie,3.62
+PROD_d0e83ce8,Le pouvoir de louer à sa source,Vêtements,Femme,False,1.55,5.84,14.48,8.47,0.4154,1.35,2024-07-05,2026-12-05,False,SUPP_ac582d41,Espagne,4.61
+PROD_8a9dd92d,Le droit de rouler plus rapidement,Vêtements,Sport,False,0.56,6.22,18.39,10.93,0.4057,2.06,2023-08-30,2025-08-26,False,SUPP_cb8fdaf0,Inde,0.97
+PROD_74b99d62,L'art d'innover à sa source,Alimentation,Fruits & Légumes,False,2.44,1.85,4.5,3.61,0.1971,2.47,2024-09-24,2030-05-01,False,SUPP_de46faab,Italie,4.14
+PROD_0b2c2374,Le droit de changer à sa source,Hygiène,Soins cheveux,False,4.96,2.23,17.11,11.78,0.3117,0.1,2017-02-02,2025-08-25,False,SUPP_52d5dcde,Turquie,1.89
+PROD_3d989db0,Le pouvoir d'évoluer sans soucis,Hygiène,Soins cheveux,True,2.29,2.22,2.08,1.23,0.4105,3.69,2022-11-22,2026-08-10,False,SUPP_39cd53cc,Italie,7.52
+PROD_236e1217,Le confort de louer plus facilement,Vêtements,Enfant,True,6.97,0.72,20.82,10.43,0.4992,3.21,2019-06-21,2023-10-14,False,SUPP_ec195ba8,Inde,5.25
+PROD_373ce7cc,Le plaisir de rouler de manière efficace,Vêtements,Femme,False,3.0,0.31,10.88,4.4,0.5959,1.75,2025-12-28,2026-07-29,True,SUPP_718bf6e4,Inde,1.06
+PROD_ff54e440,Le pouvoir de rouler à sa source,Maison,Mobilier,False,0.53,0.7,220.05,141.25,0.3581,3.08,2018-02-01,2026-06-03,False,BADID,Chine,3.7
+PROD_4094853a,Le droit de rouler sans soucis,Vêtements,Femme,False,1.56,0.13,64.68,40.38,0.3757,0.1,2018-03-20,2019-12-04,False,SUPP_69731f0d,Portugal,0.1
+PROD_a7bb2a7e,La liberté d'innover à l'état pur,Électronique,Smartphones,True,2.97,3.55,9.16,6.34,0.3082,2.55,2015-08-05,2016-12-02,False,SUPP_4ea5187c,Allemagne,3.31
+PROD_4444808b,L'art d'innover avant-tout,Électronique,Ordinateurs,True,0.99,1.22,232.0,142.68,0.385,2.97,2018-05-21,2019-07-09,False,SUPP_865b0c9e,Inde,2.13
+PROD_f5b3f709,La possibilité de changer en toute tranquilité,Maison,Mobilier,False,0.46,1.81,99.51,67.77,0.319,2.35,2015-11-14,2020-05-31,False,SUPP_28cb35ce,Inde,2.99
+PROD_f7e1bc6c,L'art de concrétiser vos projets à sa source,Hygiène,Soins corps,False,0.31,1.12,13.76,8.77,0.3628,3.64,2020-03-19,2026-04-06,False,SUPP_a0ed13de,États-Unis,0.51
+PROD_4afda028,L'art d'avancer naturellement,Vêtements,Sport,False,14.17,1.34,28.4,13.02,0.5415,0.1,2024-12-09,2030-12-31,False,SUPP_ab2f66c7,Turquie,7.55
+BADID,Le droit d'avancer plus rapidement,Vêtements,Homme,False,0.83,3.91,-288.96,21.63,-0.32,3.53,2025-07-17,2028-02-23,False,BADID,États-Unis,4.06
+BADID,L'art d'avancer à l'état pur,Hygiène,Hygiène bucco-dentaire,False,34.83,2.15,-201.69,5.85,0.2516,0.88,2021-10-22,2026-12-20,False,BADID,Inde,3.51
+BADID,L'assurance d'atteindre vos buts de manière sûre,Hygiène,Cosmétiques,True,1.13,3.37,15.7,-475.69,0.3002,1.39,2025-10-06,2030-12-31,True,SUPP_f74f2022,France,1.27
+PROD_4b563459,L'assurance de concrétiser vos projets plus facilement,Hygiène,Soins corps,False,2.33,2.26,8.0,5.85,0.2688,6.22,2019-02-25,2028-10-05,False,SUPP_59147db1,États-Unis,3.65
+PROD_e5f3253c,L'assurance d'évoluer à sa source,inconnu,Ordinateurs,True,2.27,0.14,-436.07,104.88,1.19,2.51,2016-11-20,2023-09-02,False,SUPP_bd52b38c,Turquie,3.27
+PROD_b0fe6657,Le plaisir d'innover à la pointe,Alimentation,Surgelés,False,1.89,0.46,4.23,3.53,0.1662,3.65,2016-08-25,2020-01-12,False,SUPP_255a4972,Espagne,3.53
+PROD_861fe89c,L'assurance de changer sans soucis,Alimentation,Boissons,True,0.79,0.62,1.31,1.04,0.207,1.69,2024-07-10,2030-12-31,False,SUPP_e48f1fec,Italie,3.37
+PROD_96df233c,Le confort d'innover de manière efficace,Hygiène,Cosmétiques,False,34.16,0.79,14.16,9.21,0.3495,1.75,2015-10-23,2021-06-20,False,SUPP_6f568ae9,Portugal,1.05
+PROD_39002d3b,Le plaisir de rouler naturellement,Électronique,Smartphones,False,0.55,0.15,30.47,19.24,0.3687,1.53,2025-09-23,2030-09-19,True,SUPP_UNKNOWN,États-Unis,2.56
+PROD_16d7b24f,Le pouvoir d'évoluer de manière efficace,Électronique,Accessoires,False,1.05,1.62,98.76,63.95,0.3525,1.51,2023-05-12,2030-12-31,False,SUPP_c9740262,Espagne,4.46
+PROD_e147a98f,La possibilité de rouler en toute tranquilité,Alimentation,Surgelés,False,0.22,0.54,3.9,3.05,0.2188,1.19,2023-02-21,2030-02-06,False,SUPP_4f9a656e,Italie,1.05
+PROD_03319ded,L'assurance d'innover naturellement,Vêtements,Sport,False,1.96,3.53,59.83,27.35,0.5429,2.18,2017-01-15,2023-07-10,False,SUPP_1353e5ad,Turquie,3.56
+PROD_de5d9c7e,Le confort de concrétiser vos projets à sa source,Électronique,Ordinateurs,True,1.27,0.91,33.99,20.21,0.4055,0.1,2019-05-18,2027-11-19,False,SUPP_9fef98d7,Allemagne,0.39
+PROD_f8d13d7c,Le confort d'avancer à sa source,Alimentation,Fruits & Légumes,True,10.67,1.17,-124.96,7.38,-0.49,2.73,2020-08-08,2000-01-01,False,SUPP_cc91058b,Turquie,5.75
+PROD_7e282561,La liberté de concrétiser vos projets en toute tranquilité,Électronique,TV & Audio,False,7.03,0.22,289.61,188.01,0.3508,0.1,2016-08-20,2019-10-08,False,SUPP_3443b9a7,Turquie,0.1
+PROD_c038a99f,La possibilité de louer à la pointe,Maison,Décoration,False,0.25,2.78,37.09,25.17,0.3214,1.86,2024-06-19,2030-12-31,False,SUPP_5ecd82d7,Espagne,6.51
+PROD_f110686e,Le pouvoir de louer en toute tranquilité,Électronique,Accessoires,True,1.23,2.0,169.08,126.32,0.2529,2.85,2017-12-08,2020-06-29,False,SUPP_56259829,Espagne,4.84
+PROD_e6e953c2,L'avantage d'avancer à sa source,Maison,Mobilier,True,4.48,1.13,114.06,65.68,0.4242,2.1,2025-06-20,2030-12-31,False,SUPP_066cbfe1,Portugal,4.83
+PROD_38309b74,La liberté d'avancer de manière sûre,Alimentation,Boissons,True,9.43,4.09,6.96,5.91,0.1507,2.79,2017-07-27,2023-11-15,False,SUPP_daaac2d1,Portugal,3.31
+PROD_b9f4714b,Le pouvoir d'avancer à la pointe,Vêtements,Homme,False,5.07,0.43,75.92,52.35,0.3104,1.74,2024-04-25,2029-11-21,False,SUPP_169d3b95,Inde,4.17
+PROD_10d30839,Le confort de louer sans soucis,Maison,Jardin,False,1.47,2.29,178.69,119.9,0.329,0.1,2015-02-25,2016-06-27,False,SUPP_057e5c34,Chine,0.73
+PROD_2a984e5a,La possibilité d'innover plus rapidement,Électronique,TV & Audio,True,1.51,6.02,65.77,31.41,0.5225,0.1,2019-06-23,2028-01-07,False,SUPP_5c5a6b21,Espagne,0.1
+PROD_469654f9,L'art d'innover autrement,Alimentation,Épicerie,False,2.08,0.68,4.05,3.32,0.1813,0.15,2016-04-14,2021-04-27,False,SUPP_57b45ece,Portugal,4.09
+PROD_d87dcae0,Le droit d'innover à sa source,Alimentation,Épicerie,True,2.0,0.88,8.75,6.17,0.2947,1.63,2016-07-18,2019-05-22,False,SUPP_45504840,France,2.02
+PROD_d241e465,L'art d'évoluer à la pointe,Vêtements,Femme,False,3.23,0.61,48.67,22.77,0.5321,4.1,2022-12-21,2027-06-26,False,SUPP_d79c100c,Espagne,2.36
+PROD_cd5eb4b5,L'assurance de concrétiser vos projets à la pointe,Maison,Décoration,False,0.44,0.99,53.34,36.04,0.3244,2.2,2018-06-24,2025-05-13,False,SUPP_5df504ae,Inde,6.49
+PROD_d0b64930,L'art d'évoluer de manière sûre,Électronique,Accessoires,False,0.93,0.51,230.08,172.35,0.2509,2.02,2022-02-09,2030-12-31,False,BADID,Allemagne,1.95
+PROD_eaa51b94,L'art de louer à l'état pur,Maison,Mobilier,False,0.32,1.14,23.86,13.71,0.4256,2.3,2021-05-19,2028-04-24,False,SUPP_14718e76,Portugal,3.35
+PROD_f3583a50,Le plaisir d'avancer sans soucis,Alimentation,Boissons,False,0.64,0.68,9.03,7.89,0.1267,1.94,2019-03-20,2021-11-08,False,SUPP_c3ad9e79,États-Unis,3.7
+PROD_0f4ff793,Le plaisir de changer sans soucis,Alimentation,Épicerie,False,3.49,0.71,5.4,4.36,0.1918,0.9,2016-02-11,2021-05-08,False,SUPP_UNKNOWN,Inde,0.23
+PROD_5261c087,La liberté d'innover sans soucis,Maison,Jardin,False,2.35,0.99,76.39,51.3,0.3285,2.13,2016-06-25,2024-10-21,False,SUPP_f6881808,Italie,0.1
+PROD_f9747e61,Le droit de changer à la pointe,Alimentation,Épicerie,True,3.03,0.71,6.61,5.48,0.1708,1.48,2021-11-25,2030-12-31,False,SUPP_1672f0f4,États-Unis,3.13
+PROD_a868d9a8,Le droit de concrétiser vos projets à sa source,Maison,Mobilier,False,1.67,1.76,12.7,6.99,0.4494,1.81,2021-04-17,2025-04-07,False,SUPP_95cc6dd5,Italie,3.68
+PROD_f6fdd231,L'art d'innover plus rapidement,Électronique,TV & Audio,False,1.45,0.38,1131.56,724.09,0.3601,0.1,2022-05-15,2028-02-28,False,SUPP_d1480191,Allemagne,2.82
+PROD_0916a381,Le pouvoir de louer à la pointe,Alimentation,Épicerie,True,1.11,1.11,2.0,1.64,0.1818,0.69,2018-09-14,2021-01-29,False,SUPP_UNKNOWN,France,5.95
+PROD_065273d0,La liberté d'innover à sa source,Électronique,Accessoires,True,1.48,3.2,217.92,133.87,0.3857,2.24,2018-07-08,2024-04-07,False,SUPP_e1e17290,Italie,5.2
+PROD_beda735d,L'assurance d'innover avant-tout,Maison,Cuisine,False,0.89,3.31,29.5,18.05,0.3882,0.18,2024-02-15,2026-01-31,False,SUPP_dc161057,Allemagne,0.39
+PROD_271ff426,La liberté d'innover en toute tranquilité,Maison,Décoration,False,1.53,4.88,36.5,17.08,0.5321,2.6,2017-10-07,2021-05-09,False,SUPP_805a8682,Allemagne,2.66
+PROD_b7d97d8f,Le droit de concrétiser vos projets de manière sûre,Électronique,Accessoires,False,7.25,6.49,23.06,15.06,0.3469,2.77,2024-04-22,2026-12-22,False,SUPP_49f76e52,Chine,4.44
+PROD_c68016bf,L'art de concrétiser vos projets de manière efficace,Électronique,Accessoires,False,3.03,1.11,65.99,43.45,0.3416,0.88,2025-10-19,2030-11-30,True,SUPP_cc82cc7f,Allemagne,0.27
+PROD_3347d0c5,Le plaisir de louer avant-tout,Maison,Décoration,False,2.77,2.69,258.85,174.26,0.3268,2.55,2021-03-02,2030-05-27,False,SUPP_682e4115,France,2.49
+PROD_7ede26e9,Le droit d'évoluer à la pointe,Vêtements,Femme,False,1.43,0.63,34.41,14.16,0.5884,1.35,2019-08-06,2027-05-20,False,SUPP_b9b542d3,Espagne,3.81
+PROD_a586904f,L'art d'innover à sa source,Alimentation,Produits laitiers,True,0.91,0.23,6.52,4.6,0.2948,0.78,2021-04-07,2028-03-27,False,SUPP_41ed0f7b,Italie,1.07
+PROD_ecb70f14,L'avantage de concrétiser vos projets de manière sûre,Maison,Décoration,True,0.69,11.8,135.01,76.01,0.437,4.03,2018-11-16,2021-12-19,False,SUPP_ab2f66c7,Inde,4.81
+PROD_de4a02c1,L'avantage d'avancer plus facilement,Maison,Décoration,False,1.48,0.79,125.04,76.27,0.39,0.62,2018-08-07,2020-07-29,False,BADID,Turquie,4.05
+PROD_d15ad96d,Le pouvoir de changer en toute tranquilité,Maison,Décoration,False,1.2,5.12,16.98,9.66,0.4311,2.24,2023-09-18,2030-04-11,False,SUPP_7df83051,France,3.37
+PROD_4f20d80e,L'avantage d'évoluer autrement,Hygiène,Hygiène bucco-dentaire,False,2.18,1.07,17.3,9.99,0.4225,2.17,2019-06-22,2027-12-24,False,SUPP_fcd741ac,Espagne,5.41
+PROD_a416a0e7,Le plaisir d'atteindre vos buts naturellement,Alimentation,Fruits & Légumes,True,0.43,2.73,8.82,6.97,0.2101,2.9,2018-02-04,2022-12-10,False,SUPP_f090f456,France,4.32
+PROD_1d98ea48,L'art de changer de manière sûre,Maison,Décoration,False,1.12,0.62,-334.53,-313.53,0.5128,1.69,2018-02-25,2027-05-05,False,SUPP_UNKNOWN,France,0.97
+PROD_f189b945,L'assurance de changer à l'état pur,Vêtements,Homme,False,3.63,0.5,42.53,27.65,0.3498,1.57,2022-11-09,2030-12-31,False,SUPP_918631bc,États-Unis,2.98
+PROD_c363ca92,La liberté de rouler à sa source,Hygiène,Soins cheveux,False,1.23,1.79,15.24,9.77,0.3591,1.17,2020-10-20,2021-12-21,False,SUPP_7e9c211d,Chine,5.53
+PROD_a036d414,L'art de rouler de manière efficace,Maison,Mobilier,True,1.3,1.93,11.34,5.2,0.5417,2.69,2024-05-25,2028-11-13,False,SUPP_257ca14c,Portugal,0.1
+PROD_cfb4f3c5,La possibilité d'évoluer à sa source,Alimentation,Fruits & Légumes,False,0.6,0.57,29.02,19.4,0.3315,2.8,2015-11-24,2024-07-25,False,SUPP_45d8c162,France,5.19
+PROD_462e29a1,L'avantage d'innover sans soucis,Électronique,Ordinateurs,False,5.75,0.36,83.7,54.99,0.343,4.07,2023-12-26,2029-06-09,False,SUPP_3493478b,Espagne,7.19
+PROD_f31798e8,L'assurance de concrétiser vos projets de manière efficace,Hygiène,Soins corps,False,15.13,2.46,15.97,10.15,0.3645,2.09,2019-05-12,2020-09-27,False,SUPP_171b3f09,Allemagne,5.13
+PROD_6615d587,Le confort d'évoluer plus rapidement,Hygiène,Soins corps,False,4.28,2.62,6.75,3.0,0.5549,2.71,2025-10-06,2028-06-22,True,SUPP_1b4fdd9f,France,3.4
+PROD_61255443,Le droit de louer de manière efficace,Hygiène,Soins corps,False,4.05,0.63,7.29,4.59,0.3706,0.49,2019-09-25,2028-04-09,False,SUPP_9fc3bc52,France,3.23
+BADID,L'assurance d'avancer en toute tranquilité,Alimentation,Produits laitiers,True,0.22,0.76,1.53,1.28,0.1645,1.68,2018-09-20,2000-01-01,False,SUPP_2104714d,Espagne,5.34
+PROD_be8df086,La possibilité de concrétiser vos projets en toute tranquilité,Vêtements,Femme,False,2.2,0.53,24.29,9.88,0.5932,0.37,2017-10-02,2021-06-02,False,SUPP_71fe9fe0,Espagne,7.28
+PROD_65d0d725,La liberté d'atteindre vos buts autrement,Alimentation,Fruits & Légumes,True,2.51,0.29,3.23,2.49,0.2299,3.11,2018-12-21,2022-04-10,False,SUPP_d43ea441,Inde,3.86
+PROD_9d228d52,Le droit d'atteindre vos buts sans soucis,Maison,Mobilier,True,1.85,1.19,20.51,12.0,0.415,4.43,2021-08-14,2029-09-12,False,SUPP_19e63727,France,2.94
+PROD_34dd1e91,Le confort d'avancer plus facilement,Maison,Mobilier,False,2.14,4.62,26.55,15.48,0.4171,3.2,2025-05-26,2030-03-14,False,SUPP_a4389d50,Turquie,1.53
+PROD_58b6a99e,Le pouvoir d'innover à l'état pur,Vêtements,Enfant,False,0.45,1.03,-101.44,-422.46,0.3031,2.36,2015-01-14,2024-01-08,False,SUPP_49bdbad5,Allemagne,2.63
+PROD_49cf28ef,Le confort de concrétiser vos projets sans soucis,Vêtements,Enfant,False,1.32,1.94,8.53,3.68,0.5691,0.66,2024-03-21,2028-07-25,False,SUPP_f090f456,Allemagne,3.73
+BADID,L'art d'évoluer de manière efficace,Maison,Mobilier,False,3.33,7.79,43.19,-172.46,-0.42,0.1,2023-06-24,2026-01-26,False,SUPP_a0ed13de,France,5.55
+PROD_926aa1e7,L'assurance de concrétiser vos projets avant-tout,Vêtements,Femme,False,0.94,0.86,13.42,7.9,0.4115,4.62,2017-02-08,2017-11-18,False,SUPP_5df504ae,Inde,3.07
+PROD_fc4d3f39,L'assurance de changer plus facilement,Vêtements,Sport,False,0.74,4.75,5.0,2.75,0.449,1.47,2015-07-07,2020-02-23,False,SUPP_a719ac3d,Inde,2.45
+PROD_8097a029,Le plaisir d'atteindre vos buts avant-tout,Maison,Jardin,False,0.39,1.13,29.98,21.17,0.2939,1.4,2021-08-30,2024-07-23,False,SUPP_69510e14,Chine,0.1
+PROD_5bdaa904,La liberté de changer de manière efficace,Électronique,Ordinateurs,True,14.53,0.02,77.63,51.48,0.3368,1.15,2022-04-08,2030-02-24,False,SUPP_1391e881,Turquie,2.52
+PROD_dcea998f,L'avantage de concrétiser vos projets avant-tout,Électronique,Accessoires,False,3.11,0.3,15.26,10.57,0.3074,0.1,2023-04-03,2030-12-31,False,SUPP_6ecac7b1,France,1.25
+PROD_2336a253,L'avantage de changer de manière sûre,Hygiène,Hygiène bucco-dentaire,False,0.96,1.51,30.08,17.33,0.4238,2.51,2025-12-12,2030-12-31,True,SUPP_11e31d68,Portugal,1.55
+PROD_97d2b1a3,L'avantage d'atteindre vos buts plus facilement,Maison,Mobilier,False,0.9,0.67,39.32,25.95,0.3401,2.48,2023-01-15,2000-01-01,False,SUPP_UNKNOWN,Inde,4.24
+PROD_de7db016,Le confort d'atteindre vos buts à l'état pur,Alimentation,Surgelés,True,5.92,1.88,9.57,7.18,0.2495,3.08,2020-09-10,2000-01-01,False,SUPP_5ecd82d7,Turquie,2.28
+PROD_e9994a0d,La liberté de rouler avant-tout,Alimentation,Surgelés,False,0.58,0.76,3.81,3.1,0.1871,2.73,2015-06-12,2020-11-03,False,SUPP_f18a9d54,Turquie,2.19
+PROD_d0aa342d,Le pouvoir d'avancer autrement,Alimentation,Boissons,False,1.14,0.06,4.68,2.96,0.3682,3.68,2019-02-24,2027-12-01,False,SUPP_76b5d165,Turquie,5.66
+PROD_ef45ae97,La possibilité d'atteindre vos buts plus facilement,Alimentation,Produits laitiers,False,2.68,4.11,5.61,4.87,0.1312,4.23,2023-01-03,2030-12-31,False,SUPP_a1be28c3,Inde,0.82
+PROD_34fe6662,Le pouvoir d'avancer sans soucis,Électronique,Accessoires,False,2.69,11.46,236.65,158.7,0.3294,3.92,2022-08-05,2027-01-18,False,SUPP_ce99860d,Inde,3.43
+PROD_1e909661,Le pouvoir d'évoluer à sa source,Électronique,TV & Audio,True,1.44,3.28,37.31,28.55,0.2348,1.65,2023-03-03,2030-12-31,False,SUPP_a3512f66,Chine,1.69
+PROD_29106720,L'avantage de louer à sa source,Électronique,Accessoires,True,0.38,1.4,52.38,38.04,0.2738,1.98,2022-04-14,2028-12-23,False,BADID,Turquie,1.1
+PROD_c6c871b9,Le droit de concrétiser vos projets autrement,Hygiène,Soins corps,False,5.26,11.42,19.91,12.63,0.3658,2.61,2015-09-19,2021-07-04,False,SUPP_46a03c12,Chine,1.66
+PROD_f79a0201,Le pouvoir de concrétiser vos projets à l'état pur,Électronique,TV & Audio,True,3.21,3.21,197.72,134.35,0.3205,3.06,2016-11-27,2022-10-06,False,BADID,Italie,3.98
+PROD_6e4b3fb3,,Maison,Jardin,False,2.15,1.5,15.3,-229.73,0.4175,1.58,2018-04-14,2022-03-09,False,SUPP_ac3dc934,Espagne,0.43
+BADID,Le plaisir de louer plus facilement,Maison,Mobilier,True,0.81,2.26,27.6,18.54,0.3284,0.1,2017-05-10,2021-02-16,False,SUPP_67ecde9b,Inde,5.18
+PROD_5d0e4de6,La liberté de louer plus rapidement,Alimentation,Fruits & Légumes,False,0.55,1.45,5.08,4.08,0.1959,2.37,2022-04-09,2028-07-18,False,SUPP_ddd01296,Italie,2.59
+PROD_fafe8d4d,L'assurance de rouler naturellement,Hygiène,Soins corps,False,2.18,1.38,4.66,2.35,0.4965,4.28,2025-09-07,2030-12-31,False,SUPP_d9ce5751,Allemagne,1.24
+PROD_645b70cb,L'avantage d'innover à sa source,Hygiène,Cosmétiques,False,0.35,6.07,5.75,2.85,0.5035,3.75,2019-09-29,2021-04-11,False,SUPP_1ea5ebbc,Italie,2.68
+PROD_146d8e82,Le plaisir d'évoluer de manière sûre,Hygiène,Hygiène bucco-dentaire,True,1.38,0.41,12.76,7.15,0.4393,2.54,2022-07-27,2024-08-01,False,SUPP_9e398929,Italie,4.22
+PROD_b09db851,L'avantage d'avancer naturellement,Vêtements,Sport,False,4.76,1.28,316.24,159.73,0.4949,2.6,2023-09-28,2026-04-02,False,SUPP_471ab5ca,Allemagne,3.78
+PROD_16f98d61,Le pouvoir de concrétiser vos projets naturellement,Électronique,Ordinateurs,True,2.47,2.18,256.13,217.84,0.1495,1.63,2018-11-03,2019-08-28,False,SUPP_8246bf02,Italie,0.1
+PROD_232fa0ff,L'avantage d'évoluer à la pointe,Vêtements,Femme,False,6.45,0.25,17.6,10.85,0.3834,0.18,2021-07-01,2022-07-10,False,SUPP_6f23d8c9,Espagne,2.39
+PROD_aff84d54,La possibilité d'avancer plus rapidement,Électronique,Ordinateurs,False,0.2,8.43,137.29,97.6,0.2891,2.86,2019-01-06,2024-08-30,False,SUPP_93d15c31,Portugal,3.65
+PROD_d812024a,Le droit d'innover sans soucis,Maison,Cuisine,False,0.64,3.15,36.14,-415.41,0.482,1.27,2016-10-24,2000-01-01,False,SUPP_f442976d,Espagne,0.3
+PROD_7d9855a0,La possibilité de concrétiser vos projets de manière sûre,Maison,Décoration,False,4.38,1.02,43.62,26.0,1.27,0.53,2025-12-20,2029-05-14,True,SUPP_UNKNOWN,Turquie,2.42
+PROD_5463c06a,La liberté de louer sans soucis,Alimentation,Boissons,True,0.97,0.84,20.08,17.4,0.1335,0.76,2022-09-28,2025-01-14,False,SUPP_10bae990,Italie,5.8
+PROD_aaefb28d,L'avantage de rouler plus rapidement,Vêtements,Femme,False,0.62,1.46,57.27,27.62,0.5178,0.1,2020-06-11,2027-06-29,False,SUPP_01d36f26,Inde,1.57
+PROD_7f228489,La possibilité d'évoluer sans soucis,Vêtements,Sport,False,0.29,3.67,76.64,34.43,0.5507,1.96,2018-07-26,2027-03-29,False,SUPP_UNKNOWN,Turquie,2.54
+PROD_23b91997,La liberté de rouler de manière efficace,Hygiène,Soins corps,False,0.94,0.22,17.53,11.88,0.3224,0.1,2016-07-27,2018-07-29,False,SUPP_261af11a,Allemagne,5.63
+PROD_8c6a6abf,Le plaisir d'évoluer plus facilement,Vêtements,Homme,False,0.89,1.81,29.5,12.89,0.5632,0.1,2018-01-15,2022-07-10,False,SUPP_ae6dcd1c,Portugal,4.53
+PROD_c7bf1c12,L'assurance d'évoluer de manière efficace,Maison,Mobilier,True,1.57,2.33,29.83,19.49,0.3465,3.38,2015-12-20,2025-12-05,False,SUPP_5441b2d9,Turquie,1.5
+PROD_f4b23f44,L'avantage de louer en toute tranquilité,N/A,Cosmétiques,False,0.97,1.01,-418.03,2.75,0.3785,1.69,2018-01-10,2022-11-23,False,SUPP_f19db8a5,Inde,4.37
+PROD_977b70e9,L'art d'avancer de manière efficace,Hygiène,Soins corps,False,0.97,0.14,12.45,7.94,0.3619,0.22,2021-11-23,2030-12-31,False,SUPP_bea48b50,Chine,3.65
+PROD_ff8cef2d,Le droit d'innover naturellement,Maison,Jardin,False,2.37,2.81,65.18,36.1,0.4462,2.5,2017-05-19,2018-03-08,False,BADID,Allemagne,7.05
+PROD_e4fb6d08,La possibilité de rouler plus rapidement,Alimentation,Surgelés,True,7.19,1.79,1.86,1.32,0.2922,1.6,2023-11-08,2030-05-29,False,SUPP_ca5a9878,États-Unis,4.25
+PROD_8008e7ad,L'assurance de concrétiser vos projets à la pointe,Hygiène,Soins corps,True,2.64,1.17,8.7,5.46,0.3724,0.1,2021-10-05,2022-09-15,False,SUPP_f873b49c,Italie,0.66
+PROD_09a63aeb,L'assurance de concrétiser vos projets plus facilement,Vêtements,Femme,True,1.01,1.43,53.19,32.31,0.3925,3.02,2016-02-15,2025-10-16,False,SUPP_de46faab,France,2.54
+PROD_286c5081,Le droit d'atteindre vos buts à la pointe,Alimentation,Boissons,False,1.15,1.44,13.29,11.09,0.1659,2.55,2025-11-22,2030-12-31,True,SUPP_5df504ae,France,4.49
+PROD_f17cb82d,L'assurance d'avancer de manière sûre,Électronique,Ordinateurs,False,2.84,0.61,55.72,33.62,0.3967,1.8,2020-10-23,2023-12-20,False,SUPP_49bdbad5,Portugal,1.44
+PROD_4ba6fa49,L'avantage d'avancer autrement,Électronique,Accessoires,True,1.72,3.43,224.54,127.61,0.4317,2.05,2025-11-01,2030-12-31,True,SUPP_9986224f,Italie,3.76
+PROD_f5617245,La possibilité d'innover plus rapidement,Électronique,Accessoires,False,4.98,0.63,239.26,142.17,0.4058,3.05,2024-04-12,2030-12-31,False,SUPP_921700ce,Allemagne,0.1
+PROD_eca2ae1b,Le droit d'évoluer à sa source,Hygiène,Soins cheveux,False,0.95,0.64,-467.39,22.13,0.3293,0.4,2020-06-29,2026-11-24,False,SUPP_d9ce5751,Italie,0.57
+PROD_6a423d4d,L'assurance d'atteindre vos buts de manière efficace,Maison,Jardin,True,1.13,2.19,280.38,183.48,0.3456,0.86,2020-03-19,2025-11-30,False,SUPP_a2172c98,Italie,6.12
+PROD_d61082b5,Le droit de rouler avant-tout,Maison,Cuisine,False,9.13,0.16,26.64,16.0,0.3994,2.28,2021-02-23,2027-11-24,False,SUPP_171b3f09,Chine,7.43
+PROD_5c297c06,L'art de louer avant-tout,Hygiène,Cosmétiques,False,0.95,0.34,7.09,3.64,0.4872,1.98,2022-07-14,2027-10-18,False,SUPP_1d896370,Inde,6.2
+PROD_082d9003,,Maison,Mobilier,True,3.15,0.6,105.93,54.21,0.4882,4.19,2024-05-14,2030-12-31,False,SUPP_UNKNOWN,États-Unis,0.19
+PROD_a7ffe951,La possibilité d'évoluer à sa source,Hygiène,Cosmétiques,False,2.18,0.35,9.91,6.13,0.3813,2.42,2020-06-12,2024-05-10,False,SUPP_30c28622,Chine,3.96
+PROD_7e3ace8c,Le droit de louer à l'état pur,Maison,Décoration,False,0.9,5.82,169.61,102.31,0.3968,4.59,2024-07-22,2028-03-27,False,SUPP_c9740262,Inde,2.84
+PROD_71040ced,Le plaisir de changer plus facilement,Hygiène,Cosmétiques,False,0.26,0.45,8.93,4.7,0.4736,0.53,2023-11-30,2030-12-31,False,SUPP_fc14ed2d,France,2.88
+PROD_2a2632e6,La possibilité de changer de manière efficace,Narnia,Sport,False,19.66,1.78,119.85,-167.61,0.3302,0.1,2023-07-19,2000-01-01,False,SUPP_73fb2576,Portugal,0.1
+PROD_a300b224,L'art d'atteindre vos buts naturellement,Hygiène,Cosmétiques,True,4.87,1.02,9.68,4.47,0.5378,3.63,2025-02-23,2028-10-17,False,SUPP_UNKNOWN,Chine,3.93
+PROD_bce4d12e,Le pouvoir d'avancer plus rapidement,Hygiène,Hygiène bucco-dentaire,False,5.47,1.12,15.55,10.84,0.3031,0.85,2024-10-02,2030-12-31,False,SUPP_52d5dcde,États-Unis,2.47
+BADID,,Hygiène,Cosmétiques,False,1.61,4.41,28.99,10.76,1.29,5.45,2016-03-29,2018-10-17,False,SUPP_f19db8a5,Inde,5.29
+PROD_2ee65e38,L'art d'atteindre vos buts plus facilement,Hygiène,Cosmétiques,False,0.37,7.53,45.78,26.96,0.4112,0.1,2023-12-19,2030-12-31,False,SUPP_4f9a656e,Turquie,3.41
+PROD_3061da9c,La possibilité de rouler de manière sûre,Alimentation,Boissons,True,4.03,1.81,5.34,4.4,0.1755,3.94,2019-07-14,2028-08-22,False,SUPP_0e2ca2f0,Inde,3.95
+PROD_66d3c289,L'avantage d'atteindre vos buts plus rapidement,Hygiène,Soins corps,False,7.19,4.99,10.64,5.67,0.4672,4.26,2020-12-25,2025-01-11,False,SUPP_695d8df9,Espagne,3.3
+PROD_1177af14,L'art d'évoluer avant-tout,Alimentation,Surgelés,True,3.23,0.22,5.19,4.3,0.1712,0.47,2019-08-21,2027-02-12,False,SUPP_9fef98d7,Chine,3.26
+PROD_4c4ce3c3,Le confort de rouler autrement,extra,Cosmétiques,False,8.99,1.96,31.07,16.88,0.4567,4.58,2019-05-28,2021-07-30,False,SUPP_e9444c70,Turquie,2.88
+PROD_0984fc7c,L'avantage de louer plus rapidement,Électronique,Ordinateurs,True,0.84,3.45,18.77,11.3,0.3978,0.1,2015-07-22,2017-12-12,False,SUPP_3718a0f4,Chine,1.26
+PROD_3b8e6ceb,L'art d'atteindre vos buts autrement,Hygiène,Soins corps,False,2.34,0.29,9.15,6.45,0.295,3.07,2025-10-22,2027-12-08,True,SUPP_UNKNOWN,États-Unis,5.27
+BADID,Le droit d'avancer en toute tranquilité,Narnia,Homme,False,1.65,18.85,27.46,-88.66,0.3166,0.1,2024-01-13,2025-05-06,False,BADID,Italie,2.71
+PROD_54459c7d,La liberté d'évoluer autrement,Alimentation,Fruits & Légumes,True,2.28,27.04,3.14,2.69,0.1421,2.72,2019-12-19,2020-09-09,False,SUPP_3fb53f44,Portugal,3.19
+PROD_fbea9ca2,Le pouvoir d'avancer plus rapidement,Électronique,Smartphones,False,0.9,1.28,28.97,19.86,0.3143,0.33,2018-12-26,2019-12-11,False,SUPP_25d7d561,Allemagne,5.09
+PROD_5ba03648,L'avantage d'innover à la pointe,Maison,Décoration,False,3.46,1.27,45.42,27.25,0.4001,1.32,2025-03-12,2025-09-26,False,SUPP_9e033579,Allemagne,0.1
+PROD_b13cf763,L'art de louer sans soucis,Maison,Cuisine,True,1.17,2.42,115.86,71.08,0.3865,1.1,2019-12-18,2027-09-12,False,SUPP_4575d5bd,Turquie,4.12
+PROD_9740abdb,L'avantage de louer à sa source,Maison,Cuisine,False,1.96,0.39,7.39,4.94,0.3315,4.29,2025-05-25,2030-12-31,False,SUPP_aabff8ef,France,4.11
+PROD_28c0578b,Le plaisir d'avancer autrement,Électronique,Smartphones,True,7.27,1.3,86.64,74.99,0.1345,0.1,2020-04-20,2024-02-20,False,SUPP_fc14ed2d,Italie,3.92
+PROD_7434a9f1,L'assurance de rouler avant-tout,Vêtements,Enfant,False,2.0,0.09,36.8,16.54,0.5505,2.47,2016-01-10,2025-12-13,False,SUPP_67ecde9b,États-Unis,1.93
+PROD_93146998,La liberté d'évoluer en toute tranquilité,Électronique,Accessoires,True,0.14,2.19,36.97,22.52,0.3909,3.05,2020-08-28,2026-08-14,False,SUPP_0359c859,Espagne,4.84
+PROD_971d3eb0,Le droit de louer de manière sûre,Maison,Mobilier,False,2.41,0.89,80.31,57.12,0.2887,3.98,2020-03-11,2023-11-10,False,SUPP_1ea5ebbc,Espagne,1.64
+PROD_05506e26,L'assurance de concrétiser vos projets naturellement,Maison,Cuisine,False,10.09,1.0,73.31,44.62,0.3913,0.1,2024-04-21,2026-12-15,False,SUPP_0072e78c,Turquie,4.07
+PROD_041347a2,Le plaisir de concrétiser vos projets à sa source,Maison,Jardin,True,0.76,1.17,46.86,33.39,0.2874,1.09,2016-11-02,2026-06-25,False,SUPP_1ca021e2,Turquie,5.51
+PROD_70c8adc6,La possibilité de louer avant-tout,Vêtements,Sport,False,0.44,2.74,24.46,11.01,0.55,3.06,2023-07-13,2030-12-18,False,SUPP_563902bd,États-Unis,1.61
+PROD_a50c1438,Le droit de changer plus facilement,Hygiène,Soins corps,False,3.27,0.68,40.34,23.82,0.4096,1.49,2016-08-26,2023-03-15,False,SUPP_UNKNOWN,Turquie,2.16
+PROD_fd077023,L'art d'atteindre vos buts de manière efficace,Vêtements,Enfant,False,1.16,0.95,58.83,35.28,0.4003,0.74,2016-09-25,2018-05-04,False,SUPP_77c7b5d8,Turquie,5.15
+PROD_b88780a2,La liberté d'avancer sans soucis,Alimentation,Produits laitiers,True,6.43,0.53,5.85,4.36,0.2546,2.69,2025-06-17,2030-12-31,False,SUPP_ab4ec381,Inde,6.2
+PROD_523b09cd,L'avantage de louer autrement,Hygiène,Soins corps,False,3.31,2.41,9.45,6.41,0.3219,0.19,2024-04-18,2030-12-31,False,SUPP_5c5a6b21,États-Unis,2.94
+PROD_d37ee7d7,L'art d'évoluer plus facilement,Alimentation,Surgelés,True,6.74,0.38,6.69,6.15,0.0804,4.08,2021-05-22,2025-04-26,False,SUPP_6aa9da4a,Portugal,1.38
+PROD_4a1fe2ff,L'assurance d'évoluer avant-tout,Maison,Jardin,True,15.93,2.35,209.22,162.4,0.2238,0.1,2020-03-08,2026-10-08,False,SUPP_64c179e7,Portugal,2.23
+PROD_fafa2132,Le plaisir d'évoluer avant-tout,Maison,Mobilier,False,1.72,2.86,208.55,135.1,0.3522,1.36,2024-05-28,2030-12-31,False,SUPP_ca5a9878,Espagne,2.55
+PROD_f1fe222e,L'art d'innover à la pointe,Électronique,TV & Audio,True,2.38,0.3,14.93,9.32,0.376,0.1,2021-09-22,2027-08-29,False,SUPP_c69fbfc9,Chine,5.28
+PROD_2d19c30d,Le droit de rouler plus facilement,Vêtements,Homme,False,0.18,0.53,-104.69,6.93,0.3827,0.68,2025-05-13,2027-01-18,False,SUPP_3a818b09,Allemagne,5.25
+PROD_ae1cc51f,,Maison,Cuisine,False,27.36,0.31,22.35,14.15,-0.41,0.41,2021-07-06,2030-12-31,False,SUPP_ddd01296,Chine,4.12
+PROD_b2540c40,Le confort de concrétiser vos projets à l'état pur,Électronique,TV & Audio,True,0.41,2.81,98.41,58.02,0.4104,1.98,2020-10-26,2023-11-14,False,SUPP_682e4115,Inde,4.47
+PROD_a5bb96fe,L'avantage de rouler à la pointe,Hygiène,Cosmétiques,False,2.81,1.09,18.01,8.75,0.5139,0.1,2019-07-29,2028-08-18,False,SUPP_8246bf02,Inde,0.1
+BADID,Le pouvoir de rouler de manière sûre,Électronique,Smartphones,True,6.04,3.97,-81.6,247.68,0.3413,4.63,2016-11-15,2000-01-01,False,SUPP_04f10023,Chine,8.79
+PROD_cd92cb80,La possibilité d'avancer plus rapidement,Alimentation,Produits laitiers,False,5.22,2.71,13.3,10.77,0.1901,2.48,2018-07-05,2023-05-30,False,SUPP_2bad35a4,Portugal,3.9
+PROD_d7293f6d,L'assurance de louer plus facilement,Vêtements,Femme,False,16.0,0.54,27.72,15.24,0.4503,2.94,2023-09-09,2030-12-31,False,SUPP_88f0ec12,Inde,3.49
+PROD_07089b4c,La liberté de louer à sa source,Alimentation,Fruits & Légumes,False,0.46,1.47,6.79,5.57,0.1795,3.26,2025-11-25,2030-12-31,True,SUPP_b3b98bdb,États-Unis,5.39
+PROD_cc4d0add,Le confort d'innover naturellement,Maison,Mobilier,True,0.71,13.66,10.01,6.85,0.316,1.67,2015-03-05,2018-02-18,False,SUPP_25d7d561,France,4.41
+PROD_d15bad00,Le pouvoir de changer de manière efficace,Vêtements,Homme,False,0.29,19.27,7.87,3.11,0.605,1.38,2022-09-12,2030-12-31,False,SUPP_c4eee24a,Espagne,3.19
+PROD_d2795b4e,Le plaisir de louer à sa source,Vêtements,Homme,False,0.18,3.29,29.27,12.67,0.5673,0.1,2024-01-06,2029-08-11,False,SUPP_97d88f4b,Turquie,5.86
+PROD_d847d27b,L'assurance de rouler naturellement,Électronique,TV & Audio,False,0.3,1.83,20.92,10.32,0.5069,3.43,2024-08-13,2029-01-14,False,SUPP_9986224f,États-Unis,6.19
+PROD_9ca96f98,La possibilité d'évoluer de manière efficace,Maison,Mobilier,False,1.27,0.93,42.92,27.14,0.3677,1.41,2018-10-06,2028-07-04,False,SUPP_489306c6,France,2.57
+PROD_3feac862,Le pouvoir d'avancer de manière efficace,Alimentation,Boissons,True,5.34,4.32,2.89,2.25,0.2228,0.1,2022-08-15,2025-01-11,False,SUPP_9fef98d7,France,5.98
+PROD_b93c3d8a,Le plaisir de concrétiser vos projets sans soucis,Maison,Décoration,False,0.64,3.5,84.52,54.72,0.3526,1.43,2019-09-03,2025-09-22,False,SUPP_865b0c9e,Allemagne,2.54
+PROD_16c6ab81,Le droit d'atteindre vos buts naturellement,Maison,Jardin,False,2.69,3.72,408.33,189.26,0.5365,2.87,2022-07-29,2030-11-17,False,SUPP_c4af5f6d,Chine,3.53
+PROD_5e98cf0a,Le pouvoir de changer avant-tout,Maison,Décoration,False,0.96,2.94,176.75,-75.95,1.42,2.43,2024-11-07,2030-10-14,False,SUPP_UNKNOWN,Allemagne,1.8
+PROD_4e03bc3b,Le plaisir de changer de manière sûre,Maison,Décoration,False,1.9,3.23,146.57,87.75,0.4013,3.43,2018-07-17,2022-02-15,False,SUPP_45dd442b,Turquie,5.13
+PROD_d9da112d,,Maison,Cuisine,False,1.23,0.68,243.55,-281.64,0.4443,2.84,2022-05-06,2000-01-01,False,SUPP_2d13311e,Chine,1.92
+PROD_8011daf4,La liberté d'avancer de manière sûre,Alimentation,Fruits & Légumes,True,0.21,2.4,10.9,8.49,0.2212,2.0,2019-03-20,2027-04-01,False,SUPP_637c7e03,Chine,1.88
+PROD_52903efb,Le plaisir d'avancer plus facilement,Hygiène,Cosmétiques,False,2.16,6.11,17.9,12.66,0.2926,1.73,2018-11-28,2026-03-11,False,SUPP_8104523d,France,1.7
+PROD_c53eb8d0,Le pouvoir d'atteindre vos buts de manière efficace,Alimentation,Boissons,True,8.13,1.04,24.48,19.75,0.1934,1.38,2017-09-10,2024-12-15,False,SUPP_6d960132,France,1.08
+PROD_902bd408,La liberté d'évoluer en toute tranquilité,Alimentation,Fruits & Légumes,True,1.16,1.37,3.02,2.36,0.2184,0.73,2022-01-11,2022-07-10,False,SUPP_dde7a4c4,Turquie,0.1
+PROD_50155486,Le confort de changer à l'état pur,Électronique,Accessoires,False,0.44,0.76,155.7,80.78,0.4812,1.64,2019-09-01,2022-02-20,False,SUPP_7f051424,Turquie,3.67
+PROD_6c0d5bc9,Le plaisir d'évoluer à sa source,Alimentation,Fruits & Légumes,False,1.54,0.1,10.0,8.21,0.1787,0.1,2019-01-08,2027-11-23,False,SUPP_5d249662,France,6.38
+PROD_31f1f517,La possibilité d'évoluer sans soucis,Maison,Jardin,True,3.0,0.18,75.46,26.23,0.6524,2.01,2023-10-25,2030-12-31,False,SUPP_4ad43a8b,Turquie,4.38
+PROD_7594443e,Le plaisir de changer en toute tranquilité,Alimentation,Produits laitiers,True,0.93,0.79,25.82,20.19,0.2181,3.6,2025-01-30,2030-12-31,False,SUPP_f090f456,États-Unis,2.53
+BADID,,Hygiène,Hygiène bucco-dentaire,False,2.59,1.23,18.73,11.41,0.3909,4.67,2024-08-25,2030-12-31,False,SUPP_eda05e1f,France,2.53
+PROD_bcf99e89,Le confort de concrétiser vos projets sans soucis,Maison,Décoration,False,2.52,0.16,147.08,106.74,0.2743,1.03,2017-08-18,2026-02-09,False,SUPP_f442976d,Inde,0.52
+PROD_8227522e,Le pouvoir de changer autrement,Maison,Jardin,False,0.4,4.33,20.28,15.24,0.2487,0.1,2016-07-21,2020-01-20,False,SUPP_9e398929,Allemagne,5.22
+PROD_ca01b616,Le confort de rouler à l'état pur,Alimentation,Boissons,True,1.15,1.27,15.45,12.12,0.2155,2.29,2022-12-04,2027-07-01,False,SUPP_379067e1,Chine,5.54
+PROD_ef645b66,Le pouvoir d'avancer à sa source,Hygiène,Soins cheveux,False,0.46,0.93,22.99,10.4,0.5476,4.93,2015-10-15,2020-07-26,False,SUPP_68fab469,Turquie,0.61
+PROD_4e4b9934,Le plaisir de rouler à la pointe,Alimentation,Surgelés,True,1.78,2.44,-276.06,5.04,0.2217,5.39,2015-04-25,2024-04-18,False,SUPP_8502978b,Turquie,1.2
+PROD_d5d7ac20,L'avantage de concrétiser vos projets à sa source,Électronique,Smartphones,False,0.47,2.9,56.57,33.71,0.4041,2.29,2021-01-11,2028-06-17,False,SUPP_ed191d45,Portugal,2.63
+PROD_9fc499c8,Le droit de concrétiser vos projets de manière sûre,Maison,Jardin,False,0.83,1.52,30.23,15.7,0.4805,2.16,2017-02-14,2021-07-29,False,SUPP_a91540e1,États-Unis,0.45
+PROD_1419a1eb,,Maison,Cuisine,False,6.68,1.14,359.67,231.74,0.3557,0.8,2019-01-14,2022-03-09,False,SUPP_f34ce11d,Allemagne,2.4
+PROD_7a11d824,L'art d'évoluer plus rapidement,Alimentation,Épicerie,False,1.49,0.99,4.45,3.77,0.1527,4.48,2016-04-23,2017-10-23,False,SUPP_60fb6667,Allemagne,2.5
+PROD_7d8512ad,Le plaisir de changer en toute tranquilité,Vêtements,Enfant,False,14.09,4.73,31.49,15.25,0.5158,1.2,2019-12-18,2020-09-27,False,SUPP_UNKNOWN,Italie,5.13
+PROD_9aaabba1,L'assurance de concrétiser vos projets de manière sûre,Vêtements,Femme,True,6.23,2.76,22.1,10.84,0.5095,0.96,2024-06-24,2030-12-31,False,SUPP_f873b49c,Turquie,0.23
+PROD_5ac91766,La liberté de rouler en toute tranquilité,Vêtements,Sport,False,2.14,0.19,23.75,12.19,0.4868,4.35,2024-11-07,2030-12-31,False,SUPP_cffd128a,États-Unis,1.72
+PROD_094595a1,Le confort d'évoluer sans soucis,Vêtements,Enfant,False,0.6,3.48,39.41,21.38,0.4575,0.1,2024-09-18,2029-01-06,False,SUPP_9ebb95b4,États-Unis,5.17
+PROD_d3c6dbcc,Le droit d'atteindre vos buts à l'état pur,Maison,Cuisine,True,0.2,1.71,152.32,92.87,0.3903,1.63,2024-10-28,2030-12-31,False,SUPP_954df8b7,États-Unis,0.93
+PROD_1cda7f23,L'avantage d'avancer de manière efficace,Vêtements,Homme,False,0.93,18.76,21.36,10.77,0.4956,0.75,2015-09-26,2025-09-13,False,SUPP_296836df,Allemagne,2.39
+PROD_04081fcd,Le pouvoir de rouler à la pointe,Alimentation,Surgelés,False,0.32,1.27,5.53,4.09,0.261,0.73,2023-11-09,2029-04-15,False,SUPP_fcd741ac,Italie,2.14
+PROD_4d4f4780,Le pouvoir d'innover de manière sûre,Maison,Mobilier,False,4.07,1.3,37.95,24.12,0.3644,0.51,2020-01-06,2028-09-22,False,SUPP_d673914b,Espagne,2.13
+PROD_d9354539,Le confort d'atteindre vos buts naturellement,Hygiène,Soins cheveux,False,1.79,0.33,5.79,2.91,0.4973,2.75,2016-03-24,2021-07-16,False,SUPP_UNKNOWN,Allemagne,3.6
+PROD_d7bcf2b4,L'assurance d'avancer à la pointe,Vêtements,Homme,False,0.96,1.76,5.0,3.35,0.3293,2.94,2023-06-22,2028-11-13,False,SUPP_4307d71e,Allemagne,1.65
+PROD_543941e7,Le confort de changer à l'état pur,Alimentation,Surgelés,True,1.34,2.08,4.05,3.47,0.1428,1.46,2020-11-23,2026-06-19,False,SUPP_0c8a185e,Allemagne,3.3
+PROD_2e7ff4b0,La liberté d'évoluer de manière efficace,Alimentation,Surgelés,False,0.32,1.94,7.25,5.9,0.1866,0.89,2022-03-21,2023-05-26,False,SUPP_41ed0f7b,Inde,2.9
+PROD_002cca06,Le confort d'innover à l'état pur,Alimentation,Surgelés,False,4.29,3.06,19.72,17.24,0.126,3.02,2017-10-02,2023-08-29,False,SUPP_d7cd3b99,Portugal,1.75
+PROD_ef23c681,L'art de concrétiser vos projets à sa source,Hygiène,Soins corps,True,0.17,4.13,-401.27,10.07,-0.14,0.1,2020-07-11,2000-01-01,False,SUPP_0b54f4ad,Turquie,3.33
+PROD_9042805c,Le droit de louer plus facilement,Électronique,Smartphones,False,1.32,5.33,22.44,15.04,0.3297,2.14,2023-11-12,2025-05-12,False,SUPP_70ecd0f0,Portugal,4.48
+PROD_61713716,La liberté d'évoluer plus facilement,Hygiène,Hygiène bucco-dentaire,False,2.5,1.3,9.8,5.95,0.3929,3.13,2022-11-28,2024-02-23,False,SUPP_3fba4108,Espagne,1.35
+PROD_33640352,La liberté de concrétiser vos projets à sa source,Électronique,Ordinateurs,True,1.3,1.02,11.17,9.01,0.1935,0.1,2016-04-03,2018-06-04,False,BADID,États-Unis,2.57
+PROD_dab2a95b,La possibilité de concrétiser vos projets en toute tranquilité,Alimentation,Épicerie,True,2.72,0.64,2.01,1.53,0.2366,2.42,2025-09-11,2030-12-31,True,SUPP_641d3d2a,Chine,2.55
+PROD_52c22b6a,Le droit d'atteindre vos buts sans soucis,Vêtements,Sport,False,2.1,0.38,75.62,39.18,0.4819,1.78,2019-01-21,2027-11-18,False,SUPP_c3ad9e79,États-Unis,2.32
+PROD_a4396e44,La liberté d'atteindre vos buts de manière efficace,Hygiène,Hygiène bucco-dentaire,False,1.77,2.41,3.6,2.39,0.3374,1.5,2016-03-30,2017-11-08,False,SUPP_d07bb1dc,Chine,2.26
+PROD_1541e780,L'avantage d'évoluer de manière sûre,Maison,Décoration,False,0.81,3.43,22.41,16.05,0.2838,1.3,2018-04-21,2024-05-14,False,BADID,États-Unis,6.01
+PROD_cec55a70,La liberté de concrétiser vos projets plus rapidement,Hygiène,Soins corps,False,1.67,0.76,9.67,7.16,0.2598,1.72,2018-05-11,2027-07-19,False,SUPP_30c28622,Espagne,3.47
+PROD_8c0c970c,La possibilité de concrétiser vos projets avant-tout,Électronique,TV & Audio,True,2.55,1.12,42.65,24.63,0.4224,1.44,2020-05-29,2020-12-12,False,SUPP_c5af44b6,Portugal,1.04
+PROD_38373723,L'avantage de rouler plus facilement,Hygiène,Hygiène bucco-dentaire,False,0.76,0.9,9.91,6.38,0.3567,2.47,2022-09-07,2029-09-05,False,SUPP_4193ce34,Portugal,2.82
+PROD_0dd0647d,La liberté de rouler à sa source,Alimentation,Épicerie,False,3.99,1.48,5.56,4.73,0.1496,1.4,2024-11-25,2027-07-06,False,SUPP_UNKNOWN,Italie,0.85
+PROD_a0faea67,Le confort d'évoluer en toute tranquilité,Électronique,Accessoires,False,1.3,2.4,195.93,124.55,0.3643,7.08,2023-03-11,2024-02-19,False,SUPP_a461dd56,Italie,3.65
+PROD_e0453d18,Le plaisir de louer naturellement,Électronique,Smartphones,False,0.29,2.22,278.8,187.13,0.3288,0.1,2019-08-08,2020-02-07,False,SUPP_16cd8392,Italie,0.1
+PROD_2b0f3cb7,La liberté d'innover sans soucis,Alimentation,Épicerie,True,1.5,0.4,6.25,5.27,0.1575,4.2,2015-02-13,2023-06-16,False,SUPP_d673914b,Espagne,4.67
+PROD_3109e4df,L'avantage de concrétiser vos projets à l'état pur,Vêtements,Femme,True,0.94,0.82,69.71,37.51,0.4619,2.48,2021-09-10,2030-01-15,False,SUPP_baaf7408,Portugal,5.36
+PROD_2cad416d,Le plaisir d'avancer autrement,Hygiène,Soins cheveux,True,0.76,4.23,-189.47,-329.36,0.2204,0.25,2018-11-13,2000-01-01,False,SUPP_UNKNOWN,États-Unis,1.14
+PROD_d6697da1,L'avantage de concrétiser vos projets avant-tout,Électronique,TV & Audio,True,6.3,1.16,66.41,35.22,0.4696,0.83,2018-06-20,2025-11-12,False,SUPP_8b0406fc,Portugal,2.21
+PROD_a73fd90f,La possibilité de louer sans soucis,Maison,Cuisine,True,1.7,1.27,62.64,35.75,0.4293,0.76,2024-10-24,2030-12-31,False,SUPP_UNKNOWN,Inde,0.1
+PROD_1734cf6c,L'art d'innover de manière efficace,Maison,Cuisine,False,2.45,0.15,61.7,34.18,0.446,3.69,2018-07-04,2023-03-18,False,SUPP_eaeef6bb,Turquie,2.74
+PROD_b3eb5fe2,Le confort de rouler à sa source,Hygiène,Cosmétiques,False,12.28,0.25,33.75,22.32,0.3387,2.05,2022-10-31,2025-03-01,False,SUPP_2e05a53e,États-Unis,3.31
+PROD_bcd28638,La possibilité de concrétiser vos projets de manière efficace,Maison,Mobilier,False,6.35,0.36,378.39,307.59,0.1871,1.88,2022-09-07,2029-01-07,False,SUPP_42a44058,États-Unis,4.15
+PROD_1cba2a8c,L'art d'atteindre vos buts de manière sûre,Vêtements,Homme,False,4.63,0.24,6.85,2.87,0.5811,2.36,2020-03-16,2029-03-13,False,SUPP_UNKNOWN,États-Unis,0.1
+PROD_53cea793,,Maison,Mobilier,True,0.99,0.56,-270.3,90.7,0.3474,1.73,2023-07-26,2026-06-30,False,SUPP_ffb2cf9b,États-Unis,2.49
+PROD_65aea374,Le plaisir de concrétiser vos projets à la pointe,Électronique,Ordinateurs,False,8.77,4.01,179.69,113.89,0.3662,2.29,2016-06-21,2018-03-14,False,SUPP_4ea5187c,Italie,1.18
+PROD_b74becda,La liberté de concrétiser vos projets à l'état pur,Électronique,Smartphones,True,3.94,0.86,25.01,16.55,0.3382,2.02,2021-02-17,2029-12-16,False,SUPP_4f0067f7,Espagne,5.69
+PROD_885aebb2,L'art d'évoluer avant-tout,Vêtements,Enfant,False,3.88,0.41,76.01,61.54,0.1904,2.62,2017-02-04,2026-01-10,False,SUPP_ac0a0f63,Inde,1.62
+PROD_a0202486,La possibilité d'atteindre vos buts en toute tranquilité,Vêtements,Homme,False,0.4,0.33,106.92,53.97,0.4952,2.57,2023-12-30,2028-04-24,False,SUPP_3951318c,Italie,4.94
+PROD_4629d4bc,Le confort de changer à la pointe,Hygiène,Cosmétiques,False,1.3,7.05,10.43,8.89,0.148,4.41,2024-07-06,2026-08-10,False,SUPP_9981eb16,Espagne,0.1
+PROD_34ddd7eb,L'art d'atteindre vos buts autrement,Alimentation,Produits laitiers,True,1.26,3.33,1.13,0.94,0.1713,1.76,2021-12-31,2023-04-22,False,SUPP_UNKNOWN,Turquie,4.84
+PROD_585fa6f0,Le droit de concrétiser vos projets de manière efficace,Hygiène,Cosmétiques,True,2.67,0.27,7.73,5.3,0.3142,0.1,2023-10-13,2000-01-01,False,SUPP_UNKNOWN,Inde,1.7
+PROD_855f9a05,Le plaisir de changer de manière sûre,Maison,Mobilier,False,7.27,2.3,68.47,49.91,0.2711,0.1,2015-03-20,2016-03-30,False,SUPP_71ae1cb6,Italie,4.14
+PROD_3476d289,Le droit de rouler de manière efficace,Électronique,Ordinateurs,True,4.52,1.64,192.41,130.2,0.3233,2.08,2021-04-27,2030-07-10,False,SUPP_f80ae591,Allemagne,1.56
+PROD_3925070f,La liberté de rouler à la pointe,Hygiène,Hygiène bucco-dentaire,True,2.43,1.08,18.61,10.0,0.4626,1.47,2024-08-10,2030-12-31,False,SUPP_7391ece9,Italie,4.03
+PROD_81c9ce00,Le confort d'innover avant-tout,Alimentation,Produits laitiers,False,0.82,11.65,22.86,18.34,0.1977,0.86,2025-11-21,2030-12-31,True,SUPP_f442976d,Chine,3.49
+PROD_041a392e,La liberté de louer sans soucis,Vêtements,Sport,False,0.49,2.21,6.02,3.96,0.3422,2.55,2020-10-16,2027-01-29,False,SUPP_a0b191ff,France,5.79
+BADID,Le plaisir de concrétiser vos projets à la pointe,Électronique,Ordinateurs,True,2.38,0.92,34.31,23.7,1.31,0.1,2024-03-22,2026-10-12,False,SUPP_18943076,Inde,2.21
+PROD_b301f04f,Le confort d'innover plus facilement,Maison,Jardin,False,14.92,1.57,-4.98,53.43,1.17,4.11,2019-03-23,2000-01-01,False,SUPP_1ca021e2,France,6.04
+PROD_ddec5ccc,L'avantage d'innover en toute tranquilité,Hygiène,Cosmétiques,True,2.04,2.82,7.63,4.75,1.58,6.04,2022-04-09,2030-12-31,False,SUPP_UNKNOWN,États-Unis,2.06
+PROD_7d191648,Le droit de changer plus rapidement,Électronique,Accessoires,True,10.28,15.87,140.1,92.41,0.3404,0.1,2024-04-06,2030-12-31,False,SUPP_daa3bc5c,États-Unis,4.08
+PROD_4b57bc61,Le confort de rouler sans soucis,Hygiène,Soins cheveux,False,1.67,1.19,8.72,5.02,0.4241,2.7,2021-05-29,2029-12-24,False,SUPP_b5e1f714,États-Unis,2.93
+PROD_faebd404,Le confort d'avancer plus rapidement,Maison,Mobilier,False,5.35,1.32,38.47,27.74,0.2788,1.69,2022-05-28,2030-03-13,False,SUPP_f18a9d54,Espagne,2.87
+PROD_1ab71105,,Alimentation,Produits laitiers,True,0.14,2.5,15.37,10.57,1.79,0.61,2016-02-01,2023-11-22,False,SUPP_6ecac7b1,Inde,2.78
+PROD_c56bc9df,La liberté d'innover à l'état pur,Électronique,Ordinateurs,True,2.6,1.26,42.58,32.68,0.2325,2.11,2020-02-07,2028-10-06,False,SUPP_42a44058,France,5.46
+PROD_9e68ee9c,La liberté de concrétiser vos projets à la pointe,Vêtements,Homme,False,1.66,1.25,45.09,21.4,0.5254,2.49,2015-08-31,2017-12-26,False,SUPP_4575d5bd,Italie,0.53
+PROD_da99bb51,La possibilité d'évoluer avant-tout,Électronique,TV & Audio,True,2.61,0.64,43.83,32.28,0.2636,1.87,2018-11-07,2021-09-05,False,SUPP_c7d531d7,Chine,1.92
+PROD_0f17d690,Le confort de louer à l'état pur,Hygiène,Hygiène bucco-dentaire,False,1.23,0.41,22.8,14.39,0.3687,0.91,2015-12-08,2021-10-27,False,SUPP_eda05e1f,États-Unis,0.1
+PROD_8acdb5c2,L'assurance de concrétiser vos projets plus rapidement,Maison,Cuisine,False,8.87,0.21,59.56,33.38,0.4396,1.42,2016-03-13,2019-10-11,False,SUPP_737bb68f,Turquie,3.84
+PROD_28201696,L'avantage d'évoluer autrement,Électronique,Smartphones,True,2.71,3.7,-112.54,111.12,0.325,1.4,2020-03-06,2022-08-02,False,SUPP_9a3091c7,Turquie,7.1
+PROD_7e1c5a57,L'assurance de changer plus facilement,Maison,Mobilier,False,4.92,0.58,62.18,36.34,0.4155,1.97,2023-11-26,2030-12-31,False,SUPP_87e4be4d,Italie,6.51
+PROD_01447dd1,Le plaisir de louer à l'état pur,Maison,Mobilier,False,1.49,1.22,101.76,71.74,0.295,1.21,2021-09-18,2028-12-20,False,SUPP_f80ae591,États-Unis,5.94
+PROD_f1f841f4,Le droit d'innover de manière efficace,Alimentation,Fruits & Légumes,False,1.6,0.51,8.5,6.9,0.1886,4.0,2025-09-21,2029-08-24,True,SUPP_73e3df9b,Espagne,5.18
+PROD_40285ede,L'art d'avancer plus rapidement,Électronique,Smartphones,True,2.02,9.87,322.46,200.38,0.3786,0.73,2019-08-14,2022-02-15,False,SUPP_ddd01296,États-Unis,6.58
+PROD_ee1a976d,Le droit de louer plus rapidement,Alimentation,Épicerie,False,5.86,0.32,4.59,4.13,0.1,0.39,2018-02-28,2022-04-17,False,SUPP_b284e63e,Turquie,5.54
+PROD_3ae36b2d,Le confort de changer à l'état pur,Maison,Jardin,False,1.8,0.61,95.19,51.81,0.4557,4.0,2019-10-17,2020-09-30,False,SUPP_fc234c92,Italie,4.22
+PROD_1f10a2b0,L'art d'atteindre vos buts de manière sûre,Hygiène,Soins cheveux,True,3.13,0.5,13.04,7.86,0.3975,0.1,2021-02-10,2024-09-01,False,SUPP_d08b8199,Portugal,3.72
+PROD_6c8267aa,La possibilité d'avancer naturellement,Électronique,Smartphones,False,0.3,3.21,61.2,41.59,0.3205,1.25,2021-06-16,2026-02-13,False,SUPP_56259829,Turquie,1.78
+PROD_fc589a62,Le confort de concrétiser vos projets à l'état pur,Hygiène,Hygiène bucco-dentaire,False,1.31,4.11,5.7,3.41,0.4009,5.17,2024-03-22,2025-04-11,False,SUPP_c3526ec0,Italie,1.66
+PROD_94d99cc8,Le confort d'évoluer plus facilement,Vêtements,Homme,False,1.62,3.71,190.11,75.06,0.6052,1.79,2022-05-21,2028-07-02,False,SUPP_c4eee24a,Portugal,3.79
+PROD_0a288ca2,La liberté d'atteindre vos buts plus facilement,Électronique,Ordinateurs,False,1.34,5.01,79.89,41.05,0.4862,0.1,2018-11-26,2024-10-11,False,SUPP_8246bf02,Chine,4.23
+PROD_726ff96c,La possibilité d'évoluer avant-tout,Alimentation,Épicerie,True,3.48,0.07,2.0,1.48,0.2589,2.78,2017-05-12,2018-07-30,False,SUPP_2bad35a4,Allemagne,4.58
+PROD_a516bf12,Le pouvoir d'avancer de manière sûre,Maison,Décoration,False,8.83,0.89,237.69,84.78,0.6433,3.9,2016-12-04,2022-06-29,False,SUPP_4b8dd79f,Chine,3.87
+PROD_024ecc29,Le plaisir d'avancer plus rapidement,Alimentation,Produits laitiers,False,1.56,1.74,8.5,6.96,0.1816,0.35,2018-06-13,2027-11-19,False,SUPP_67063224,États-Unis,3.85
+BADID,Le plaisir de concrétiser vos projets naturellement,Maison,Mobilier,False,2.08,6.95,79.11,-148.12,0.3142,0.36,2023-03-22,2025-05-23,False,SUPP_3fb53f44,Portugal,2.99
+PROD_de377a76,Le plaisir de changer à la pointe,Électronique,Ordinateurs,False,0.69,1.61,45.76,25.07,0.4522,2.88,2025-06-06,2030-12-31,False,SUPP_b9b542d3,Inde,4.99
+PROD_570de586,Le confort d'avancer à l'état pur,Vêtements,Femme,True,1.4,1.71,69.0,35.42,1.58,3.06,2020-01-27,2000-01-01,False,SUPP_UNKNOWN,France,1.64
+PROD_3daf4b0a,L'assurance de rouler à sa source,Vêtements,Homme,False,3.89,0.67,175.71,93.21,0.4695,3.66,2022-06-19,2027-08-14,False,SUPP_2ca9a078,Turquie,2.12
+PROD_d7a106ea,La liberté de changer plus facilement,Maison,Mobilier,False,1.33,0.98,7.69,-448.37,0.1427,1.57,2019-11-12,2020-11-04,False,SUPP_9ad63f7f,Allemagne,0.1
+PROD_feec0f74,L'avantage de louer sans soucis,Électronique,Smartphones,False,2.19,1.12,5.37,3.72,0.3074,1.96,2017-08-24,2022-07-24,False,SUPP_44df4bce,Espagne,5.82
+PROD_89824ad5,La liberté d'atteindre vos buts autrement,Maison,Jardin,False,1.04,0.19,7.62,5.08,0.3331,0.52,2021-06-07,2024-06-18,False,SUPP_db3b3a27,Chine,2.59
+PROD_c0f5b306,La liberté de changer naturellement,Électronique,Accessoires,False,1.96,2.57,158.55,110.67,0.302,2.94,2020-11-03,2000-01-01,False,SUPP_41627e7a,Italie,0.1
+PROD_016e9310,Le confort de concrétiser vos projets plus rapidement,Électronique,TV & Audio,False,1.89,1.74,102.07,74.81,0.2671,0.61,2022-11-13,2024-08-27,False,SUPP_a0e8ef3c,France,4.29
+PROD_506eb2de,L'avantage de changer sans soucis,Alimentation,Produits laitiers,True,1.09,2.74,4.54,2.95,0.3512,1.58,2022-09-30,2027-12-02,False,SUPP_e48f1fec,Inde,5.39
+PROD_5974bb56,L'assurance de louer naturellement,Alimentation,Surgelés,False,17.75,5.12,5.57,4.6,0.1741,0.1,2017-12-12,2018-12-05,False,SUPP_2f365b9f,Chine,0.1
+PROD_815c9035,L'avantage d'innover de manière sûre,Électronique,Ordinateurs,True,1.62,0.67,29.43,19.05,0.3527,1.12,2016-07-09,2024-03-03,False,SUPP_UNKNOWN,Turquie,1.06
+PROD_83f6d1d8,Le confort de rouler naturellement,Alimentation,Produits laitiers,True,4.5,0.29,12.91,10.4,0.1944,4.05,2016-06-16,2019-04-14,False,SUPP_a0e1dde1,Turquie,2.05
+PROD_14f728f0,L'avantage d'innover naturellement,Électronique,TV & Audio,True,0.43,0.63,86.38,49.32,0.429,3.21,2016-01-06,2016-12-31,False,SUPP_52d5dcde,Chine,2.57
+PROD_c8828b93,Le pouvoir d'atteindre vos buts plus facilement,Alimentation,Surgelés,False,1.53,3.12,17.19,13.76,0.1996,2.43,2021-03-20,2025-05-05,False,SUPP_49f76e52,France,3.48
+PROD_6c9c1dfc,La liberté d'évoluer naturellement,Alimentation,Surgelés,True,2.16,1.87,3.33,3.05,0.0829,0.68,2025-01-23,2027-07-02,False,SUPP_25ecb0bf,Italie,2.07
+PROD_e8b6fda3,L'assurance d'atteindre vos buts à la pointe,Vêtements,Sport,False,3.18,0.98,-53.29,21.15,0.457,2.74,2019-01-17,2020-08-13,False,SUPP_156a432b,Chine,2.14
+PROD_65c6f57f,Le plaisir d'atteindre vos buts avant-tout,Électronique,TV & Audio,True,0.8,0.19,125.5,111.63,0.1105,2.25,2019-10-20,2026-11-04,False,SUPP_5ecd82d7,Allemagne,4.78
+PROD_8421b153,Le confort d'innover plus facilement,Alimentation,Boissons,False,1.42,2.09,5.23,4.29,0.1797,1.76,2018-04-13,2026-03-03,False,SUPP_bd34f363,Chine,4.39
+PROD_dfe20e06,La possibilité d'avancer plus facilement,Hygiène,Soins cheveux,False,1.24,0.32,15.31,9.34,0.3898,0.95,2022-07-04,2023-09-15,False,SUPP_25d7d561,Portugal,4.29
+PROD_8b703ac9,L'avantage d'évoluer à la pointe,Alimentation,Épicerie,False,12.14,2.38,13.98,11.34,0.1891,4.14,2018-03-26,2025-11-07,False,SUPP_222b9243,Turquie,4.3
+PROD_bfea29fe,Le pouvoir d'atteindre vos buts à sa source,Hygiène,Cosmétiques,False,0.94,2.76,16.48,10.41,0.3684,3.86,2018-02-28,2024-03-08,False,SUPP_822668bb,Italie,0.47
+PROD_96c0f8f2,Le plaisir d'atteindre vos buts à l'état pur,Maison,Jardin,False,2.39,0.8,8.97,5.47,0.3905,1.38,2019-10-30,2028-04-23,False,SUPP_641d3d2a,Allemagne,1.83
+PROD_58df7843,Le plaisir de louer sans soucis,Maison,Cuisine,False,0.57,15.06,3.82,3.11,0.1854,2.78,2025-08-28,2000-01-01,False,SUPP_UNKNOWN,Turquie,3.93
+PROD_e023f684,Le plaisir de rouler de manière sûre,Électronique,TV & Audio,True,0.41,0.66,168.49,113.23,0.328,3.19,2022-01-17,2028-11-25,False,SUPP_ef81f858,France,2.91
+PROD_7280ac56,L'assurance d'avancer de manière efficace,Vêtements,Enfant,False,0.98,0.23,31.43,19.3,0.3859,3.49,2022-11-21,2027-06-18,False,SUPP_54aa25ce,Portugal,4.91
+PROD_2ca976db,,Électronique,Accessoires,False,1.29,1.29,62.11,43.01,-0.31,0.39,2021-10-10,2026-09-22,False,SUPP_c6cfef44,Allemagne,3.14
+BADID,Le confort de concrétiser vos projets plus rapidement,Alimentation,Boissons,True,1.23,8.07,5.57,3.76,0.3243,4.71,2021-10-14,2029-11-04,False,SUPP_UNKNOWN,Turquie,1.56
+PROD_7f8ed1b3,La possibilité d'atteindre vos buts autrement,Hygiène,Cosmétiques,False,1.53,0.21,9.08,5.18,0.4299,2.31,2016-02-19,2022-03-17,False,SUPP_7e9c211d,États-Unis,1.38
+PROD_72590de6,L'avantage de concrétiser vos projets à la pointe,Alimentation,Boissons,True,1.53,2.46,6.67,4.93,0.2609,1.87,2016-07-28,2021-08-26,False,SUPP_db3b3a27,Turquie,0.1
+PROD_cc097516,La liberté de louer à la pointe,Maison,Jardin,False,0.33,0.86,13.6,10.41,0.2343,1.36,2019-01-12,2027-09-26,False,BADID,États-Unis,4.59
+PROD_005fead9,Le pouvoir de louer à l'état pur,Vêtements,Enfant,False,1.04,2.01,104.56,53.5,0.4883,0.6,2023-10-10,2030-12-31,False,SUPP_ec2830bc,Allemagne,2.95
+PROD_128295a3,Le confort de changer avant-tout,Hygiène,Hygiène bucco-dentaire,True,1.06,2.47,13.88,8.64,0.3774,2.12,2020-10-14,2021-11-14,False,BADID,Turquie,2.36
+PROD_aab8b75b,L'assurance de louer autrement,Alimentation,Surgelés,True,0.33,0.13,14.87,11.28,0.2417,2.28,2020-02-25,2024-03-22,False,SUPP_05625703,Inde,4.89
+PROD_7a720d74,Le droit d'atteindre vos buts à sa source,Maison,Mobilier,False,9.16,0.79,21.5,11.91,0.4462,4.1,2021-01-07,2023-01-07,False,SUPP_ba01239e,Allemagne,1.65
+PROD_ea2ecf1c,Le confort d'innover de manière efficace,Vêtements,Homme,False,7.2,0.86,39.64,23.24,0.4137,2.37,2016-07-22,2017-02-17,False,SUPP_18677ed4,Italie,0.9
+PROD_63d921bb,L'art de rouler à sa source,Électronique,Ordinateurs,False,4.61,0.19,35.37,19.32,0.4537,5.39,2020-09-20,2027-09-11,False,SUPP_beb17d8f,Chine,1.94
+PROD_55d4a4df,L'avantage de concrétiser vos projets à la pointe,inconnu,Cosmétiques,True,7.64,6.37,16.21,10.35,0.3616,4.1,2017-12-09,2022-02-19,False,SUPP_2e05a53e,Italie,2.62
+PROD_21b01b32,Le confort de concrétiser vos projets de manière efficace,Alimentation,Fruits & Légumes,True,2.62,0.1,5.35,4.58,0.1434,2.19,2021-07-25,2023-12-20,False,SUPP_f7916150,États-Unis,2.37
+PROD_aab8500d,La possibilité d'évoluer plus rapidement,Vêtements,Homme,False,0.99,1.34,17.82,12.75,0.2844,1.33,2021-05-02,2022-09-12,False,SUPP_83009019,Inde,2.55
+PROD_0098d33a,Le droit d'innover naturellement,Hygiène,Cosmétiques,False,3.49,1.05,16.01,10.53,0.3421,1.97,2022-01-15,2025-04-25,False,SUPP_0c8a185e,France,0.1
+PROD_5e162a89,Le droit de changer à l'état pur,Narnia,Surgelés,True,0.88,0.05,2.85,2.55,0.1036,2.92,2023-02-22,2025-06-24,False,SUPP_822668bb,Portugal,3.7
+PROD_2c034fe9,Le plaisir de louer à l'état pur,Alimentation,Produits laitiers,True,4.8,0.28,14.26,12.19,0.1454,4.69,2025-10-29,2029-12-18,True,SUPP_45d8c162,Italie,2.64
+BADID,Le plaisir de louer à l'état pur,Électronique,Ordinateurs,False,8.21,42.6,137.47,69.77,0.4925,1.5,2021-05-27,2000-01-01,False,SUPP_UNKNOWN,Espagne,5.62
+PROD_1c38abc4,Le pouvoir de rouler sans soucis,Alimentation,Surgelés,True,1.55,2.67,11.06,9.19,0.1694,0.1,2023-02-18,2029-01-18,False,SUPP_f591c2b9,Turquie,0.29
+PROD_42ae6cd6,Le pouvoir d'avancer de manière efficace,Alimentation,Boissons,False,5.26,1.69,16.08,13.67,0.1499,1.48,2022-08-03,2026-04-12,False,SUPP_5d57cabf,Inde,2.28
+PROD_286eba57,Le pouvoir de concrétiser vos projets avant-tout,Maison,Cuisine,True,0.31,0.89,32.64,20.27,0.3791,1.62,2016-11-20,2024-02-21,False,SUPP_70ed95d6,États-Unis,5.72
+BADID,L'assurance de louer de manière efficace,Hygiène,Soins corps,False,0.92,3.69,15.04,-207.86,-0.19,3.13,2020-04-27,2027-06-03,False,SUPP_1678ab35,Portugal,2.32
+PROD_9be26822,La liberté de louer à sa source,Vêtements,Femme,False,0.98,0.88,39.06,28.65,0.2666,1.75,2019-07-15,2022-02-13,False,SUPP_a4389d50,Inde,4.39
+PROD_d48a860e,La liberté d'avancer avant-tout,Maison,Cuisine,True,1.61,1.56,70.87,43.38,0.3879,0.1,2021-03-16,2000-01-01,False,SUPP_UNKNOWN,Allemagne,5.92
+PROD_7dfa72b0,L'art d'évoluer à la pointe,Vêtements,Enfant,False,22.51,8.41,27.91,17.82,0.3614,4.27,2015-09-16,2024-03-06,False,SUPP_718bf6e4,Turquie,3.29
+PROD_f0acd3a7,Le droit de rouler sans soucis,Alimentation,Fruits & Légumes,False,4.18,0.41,11.12,-176.79,0.2032,4.08,2018-07-17,2000-01-01,False,SUPP_6a1d3fe6,Italie,4.64
+PROD_27434432,Le pouvoir de rouler à sa source,Maison,Jardin,False,1.95,13.07,34.17,16.47,0.5181,2.85,2017-08-23,2023-05-10,False,SUPP_346f97d0,Italie,4.48
+PROD_74954930,Le droit d'avancer de manière sûre,Maison,Décoration,False,32.25,0.1,11.14,5.73,0.4857,3.37,2019-08-07,2020-10-05,False,SUPP_954df8b7,France,3.26
+PROD_6dc12e6d,Le pouvoir de changer plus rapidement,Maison,Mobilier,True,5.05,0.35,315.89,156.43,0.5048,4.53,2025-02-28,2029-07-21,False,SUPP_11783013,Chine,0.1
+PROD_2832d5b0,La liberté de louer autrement,Électronique,Accessoires,True,4.79,1.35,980.32,616.72,0.3709,0.67,2016-06-04,2021-05-01,False,SUPP_18677ed4,France,4.17
+PROD_85333b5b,L'avantage de concrétiser vos projets plus facilement,Alimentation,Produits laitiers,True,0.3,4.8,5.26,4.37,0.1693,2.37,2023-11-29,2030-12-31,False,SUPP_ca5a9878,France,2.37
+PROD_d4b82196,Le pouvoir d'évoluer plus rapidement,Alimentation,Épicerie,False,8.39,0.96,11.18,8.79,0.2136,2.06,2017-08-04,2022-01-24,False,SUPP_UNKNOWN,Inde,1.42
+PROD_cda0843f,Le droit de changer de manière sûre,Vêtements,Femme,False,0.17,5.09,14.45,5.04,0.651,1.07,2017-06-30,2024-11-05,False,SUPP_9981eb16,Inde,5.54
+PROD_56c9cd7b,Le plaisir de rouler avant-tout,Hygiène,Soins cheveux,False,1.88,9.02,15.89,8.92,0.4384,0.27,2018-09-07,2021-03-15,False,SUPP_UNKNOWN,Chine,4.52
+PROD_21cb6e2f,L'avantage d'évoluer à la pointe,Maison,Jardin,True,4.17,1.66,134.29,78.29,0.417,3.82,2021-03-11,2025-10-08,False,SUPP_b88fc0e1,Chine,3.24
+PROD_eb1f0542,La liberté d'évoluer à sa source,Alimentation,Boissons,False,5.0,1.85,38.32,32.19,0.1599,1.86,2015-12-02,2020-09-19,False,SUPP_9fef98d7,France,1.67
+PROD_32f7e434,Le droit de concrétiser vos projets plus facilement,Électronique,Accessoires,False,1.12,0.72,705.87,340.65,0.5174,1.82,2021-09-17,2025-01-19,False,SUPP_beb17d8f,Turquie,5.85
+PROD_f6c28879,Le confort de changer plus facilement,Maison,Décoration,False,1.4,2.27,207.68,133.1,0.3591,0.5,2020-06-22,2027-02-24,False,SUPP_9981eb16,France,3.94
+PROD_45b0e07f,Le plaisir de concrétiser vos projets autrement,Alimentation,Surgelés,False,0.74,1.41,9.61,7.49,0.2209,3.04,2023-08-28,2026-02-11,False,SUPP_eb7baf41,États-Unis,3.61
+PROD_50cedf4d,L'avantage de concrétiser vos projets à sa source,Électronique,Accessoires,True,3.9,8.8,211.25,119.44,0.4346,0.67,2023-08-25,2026-11-27,False,BADID,Allemagne,3.46
+PROD_ca452979,La possibilité d'innover naturellement,Alimentation,Boissons,True,2.51,22.08,1.28,0.98,0.2335,2.83,2019-01-24,2022-02-20,False,SUPP_eda05e1f,France,4.48
+PROD_81ddca4a,Le plaisir d'évoluer en toute tranquilité,Vêtements,Femme,False,0.42,1.72,148.9,98.99,0.3352,3.08,2024-06-25,2030-12-31,False,SUPP_471ab5ca,France,1.84
+PROD_d19b1b5e,L'avantage de changer en toute tranquilité,Maison,Décoration,True,8.86,3.71,-285.98,49.44,0.3133,1.78,2016-01-18,2023-01-20,False,SUPP_UNKNOWN,Portugal,2.28
+PROD_63886d04,La possibilité de changer de manière efficace,Alimentation,Fruits & Légumes,False,0.69,1.13,1.55,1.2,0.2235,1.38,2022-05-29,2028-05-05,False,SUPP_UNKNOWN,Inde,1.59
+PROD_53770cb4,Le plaisir de louer naturellement,Vêtements,Femme,False,0.39,2.23,155.02,89.93,0.4199,4.06,2016-06-27,2024-01-29,False,SUPP_5358cf6b,France,4.16
+PROD_abbb6af5,La possibilité d'avancer de manière sûre,Vêtements,Homme,False,1.41,13.96,8.32,4.46,0.4644,1.47,2020-01-10,2024-01-17,False,SUPP_59147db1,Inde,3.64
+PROD_4e4963c8,L'assurance de louer de manière sûre,Alimentation,Fruits & Légumes,False,0.52,3.55,2.01,1.57,0.2186,1.24,2023-04-08,2029-05-17,False,SUPP_69731f0d,France,3.92
