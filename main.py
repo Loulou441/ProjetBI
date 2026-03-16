@@ -8,6 +8,7 @@ from data_cleaning.stores_cleaning import clean_stores_data
 from data_cleaning.suppliers_cleaning import clean_suppliers_data
 from data_cleaning.transaction_cleaning import clean_transactions_data
 from data_cleaning.products_cleaning import clean_products_data
+from data_cleaning.marketing_cleaning import clean_marketing_data
 from data_transforming.bi_customers import fact_table_customers
 
 #Import files
@@ -16,6 +17,7 @@ stores = pd.read_csv('Data/stores.csv')
 suppliers = pd.read_csv('Data/suppliers.csv')
 transactions = pd.read_csv('Data/transactions.csv')
 products = pd.read_csv('Data/products.csv')
+marketing = pd.read_csv('Data/marketing.csv')
 
 #Cleaning files
 customers_clean = clean_customers_data(customers)
@@ -23,6 +25,7 @@ stores_clean = clean_stores_data(stores)
 suppliers_clean = clean_suppliers_data(suppliers)
 transactions_clean = clean_transactions_data(transactions)
 products_clean = clean_products_data(products)
+marketing_clean = clean_marketing_data(marketing)
 
 #Saving files
 customers_clean.to_csv('data_cleaning/data_cleaned/customers_clean.csv', index=False)
